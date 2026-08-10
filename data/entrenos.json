@@ -1,0 +1,4 @@
+{
+  "_nota": "Sesiones realizadas. Cada registro: {\"fecha\", \"tipo\": \"fuerza|carrera\", \"sesion\": \"A|B|C|D\", \"ejercicios\": [{\"nombre\", \"peso_kg\", \"series\", \"reps\"}], \"rpe\", \"notas\"}. Para carrera: {\"km\", \"min\", \"fc_media\"}.",
+  "registros": []
+}

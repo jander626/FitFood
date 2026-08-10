@@ -1,0 +1,53 @@
+{
+  "_nota": "Se completa con los datos del intake (coaching/intake.md). Los valores en null están pendientes.",
+  "actualizado": null,
+  "basicos": {
+    "nombre": null,
+    "edad": null,
+    "sexo": null,
+    "estatura_cm": null,
+    "peso_inicial_kg": null,
+    "objetivo": null,
+    "peso_meta_kg": null
+  },
+  "actividad": {
+    "pasos_diarios_promedio": null,
+    "sueno_horas_promedio": null,
+    "fc_reposo": null,
+    "dias_entrenamiento_semana": null,
+    "experiencia_entrenando": null
+  },
+  "calculado": {
+    "tmb_kcal": null,
+    "factor_actividad": null,
+    "tdee_kcal": null,
+    "deficit_pct": null,
+    "kcal_objetivo": null,
+    "proteina_g": null,
+    "grasa_g": null,
+    "carbohidratos_g": null,
+    "grasa_corporal_pct_estimada": null,
+    "metodo_grasa": "US Navy"
+  },
+  "contexto": {
+    "suplementos_actuales": [],
+    "lesiones_condiciones": [],
+    "alimentos_excluidos": [],
+    "horario_entrenamiento": null,
+    "alcohol_semanal": null
+  },
+  "equipamiento": [
+    "mancuernas 2.5 / 5 / 7.5 / 10 kg",
+    "barra con discos de 10 y 20 kg",
+    "máquina multifuncional",
+    "barra de dominadas",
+    "banda de correr",
+    "carrera al aire libre"
+  ],
+  "fechas": {
+    "dia_1": null,
+    "checkpoint_30": null,
+    "checkpoint_60": null,
+    "checkpoint_90": null
+  }
+}

@@ -1,0 +1,4 @@
+{
+  "_nota": "Datos reportados desde Garmin. Cada registro: {\"fecha\", \"sueno_horas\", \"sueno_calidad\", \"pasos\", \"fc_reposo\", \"body_battery\"}.",
+  "registros": []
+}
