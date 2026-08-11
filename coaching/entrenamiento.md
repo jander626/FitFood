@@ -1,25 +1,65 @@
 # Entrenamiento
 
-Programa híbrido de 5 días: **3 sesiones de fuerza** con la barra y las mancuernas del gimnasio de tu unidad, **2 sesiones de Freeletics** como acondicionamiento, y una carrera fácil opcional. Queda pendiente afinarlo con tu experiencia previa y cualquier lesión que reportes en el intake.
+**Freeletics dirige tu entrenamiento.** Mi trabajo no es reemplazarlo con otro programa, sino asegurarme de que esté bien configurado para tu objetivo y verificar que la progresión realmente esté ocurriendo.
 
-## Por qué este reparto
+## Por qué este enfoque
 
-Freeletics te gusta y eso vale mucho: el mejor programa es el que sostienes 90 días. Pero Freeletics es fundamentalmente peso corporal y HIIT, y ahí está su límite para tu objetivo — cuando quieres **marcar** el físico, necesitas que el músculo debajo de la grasa crezca o al menos se conserve, y eso exige sobrecarga progresiva: poder añadir kilos a la barra mes tras mes. Con peso corporal llega un punto en que solo puedes añadir repeticiones, y eso deja de construir músculo.
+Tienes Freeletics configurado en modo fuerza, con rutinas de peso corporal y con pesas. Su Coach ya hace lo que haría un programa mío: usa levantamientos compuestos (sentadilla, peso muerto, press), aplica [sobrecarga progresiva](https://www.freeletics.com/en/progressive-overload-at-home/) por cuatro vías — volumen, intensidad, complejidad y tiempo bajo tensión — y estructura el entrenamiento en ciclos de carga seguidos de fases de recuperación.
 
-Así que cada herramienta hace lo que hace mejor: **la barra construye**, **Freeletics acondiciona y quema**, la carrera suma gasto sin castigar la recuperación. No compiten.
+Escribirte un programa paralelo sería duplicar trabajo y competir con una app que ya te gusta y que ya usas. La adherencia es el factor número uno en 90 días, y pelearme con tu herramienta favorita sería la forma más rápida de perderla.
 
-## Equipo disponible y qué papel cumple cada cosa
+Así que el reparto queda así:
 
-| Equipo | Papel en el programa |
-|--------|---------------------|
-| Barra con discos de 10 y 20 kg | Los levantamientos pesados: sentadilla, peso muerto, remo, press. El estímulo principal. |
-| Mancuernas 2.5–10 kg | Trabajo unilateral y accesorios. El tope de 10 kg no es limitante si se usan bien. |
-| Máquina multifuncional | Jalones y poleas: tensión constante y fácil de progresar. |
-| Barra de dominadas | El mejor ejercicio de espalda que tienes. Se progresa aunque hoy no salga ninguna. |
-| Freeletics | Acondicionamiento, core y gasto calórico. La app dirige, tú la sigues. |
-| Banda de correr / calle | Cardio suave. Prioriza la calle, ya que te gusta. |
+| Quién | De qué se encarga |
+|-------|-------------------|
+| **Freeletics** | Qué ejercicios, cuántas series, cuánto peso, cuándo descargar |
+| **Yo** | Que esté bien configurado, que el Journey sirva al objetivo, verificar la progresión, nutrición, sueño y ajustes |
 
-**Sobre el tope de 10 kg en mancuernas:** es la limitación real del gimnasio y se resuelve sin comprar nada. Cuando un ejercicio con 10 kg deja de ser difícil, no se sube el peso: se sube la dificultad por otra vía — más repeticiones, tempo de 3 segundos en la bajada, pausa abajo, versión a una pierna o un brazo, o menos descanso. Un búlgaro a una pierna con 10 kg en cada mano es brutalmente más duro que una sentadilla con 20 kg. Lo pesado de verdad lo cubre la barra.
+---
+
+## Lo más importante: la configuración del equipo
+
+Esta es probablemente la acción de mayor impacto de toda esta semana, y toma tres minutos.
+
+El Coach prescribe cargas **basándose en lo que cree que tienes disponible**. Si esa configuración no coincide con tu gimnasio real, te va a mandar ejercicios que no puedes hacer, o peor: va a limitar tu progresión sin que te des cuenta, porque cree que tu máximo es menor de lo que es.
+
+**Ruta:** pestaña **Coach** → icono de ajustes → **Equipment**
+
+Configura exactamente esto:
+
+- **Mancuernas:** 2.5, 5, 7.5 y 10 kg
+- **Barra y discos:** discos de 10 y 20 kg
+- **Barra de dominadas:** sí
+- **Máquina multifuncional / poleas:** lo que la app te permita indicar
+- **Banda de correr:** sí
+
+Y revísalo cada vez que cambie algo en el gimnasio de tu unidad.
+
+Mándame una captura de esa pantalla y la reviso contigo. Un Coach mal configurado es la causa más común de estancamiento en apps de este tipo, y es completamente invisible desde adentro: la app sigue dándote sesiones que se sienten bien mientras tu progresión se aplana.
+
+---
+
+## Lo segundo: que el Journey sirva al objetivo
+
+No todos los Journeys de Freeletics apuntan a lo mismo. Los hay orientados a resistencia, a pérdida de peso con mucho HIIT, y los [Journeys de fuerza y musculación](https://help.freeletics.com/hc/en-us/articles/360001995859-Freeletics-Weights-Journeys) con levantamientos compuestos.
+
+Para tu objetivo — bajar abdomen **y marcar** — necesitas un Journey de **fuerza/musculación**, no uno de quema de grasa. Suena contraintuitivo, así que vale la pena explicarlo:
+
+Vas a estar en déficit calórico. En déficit, tu cuerpo puede perder grasa y músculo a la vez, y **qué proporción pierdes de cada uno depende del estímulo que le des**. Un programa lleno de HIIT quema calorías pero da poca señal de "conserva este músculo". Un programa de fuerza sí la da. Si eliges el Journey de quema de grasa, bajas de peso más rápido en la báscula y terminas los 90 días más pequeño pero igual de blando — exactamente lo contrario a marcar.
+
+El déficit calórico ya lo pongo yo desde la cocina. El entrenamiento está para proteger tu músculo, no para quemar.
+
+**Dime en qué Journey estás** y lo validamos. Si ya elegiste uno de fuerza, perfecto — no tocamos nada.
+
+---
+
+## Lo tercero: darle feedback honesto al Coach
+
+Freeletics ajusta las sesiones siguientes según lo que le reportas al terminar. Ese feedback es literalmente su entrada de datos para calibrar la progresión.
+
+Si marcas "estuvo bien" cuando en realidad fue fácil, el Coach no sube la carga y te quedas estancado. Si marcas "fácil" cuando terminaste destrozado, te sobrecarga y acumulas fatiga — especialmente peligroso en déficit, donde tu capacidad de recuperación ya está reducida.
+
+Sé honesto ahí. Es lo único que le impide al Coach volar a ciegas.
 
 ---
 
@@ -27,87 +67,51 @@ Así que cada herramienta hace lo que hace mejor: **la barra construye**, **Free
 
 | Día | Sesión |
 |-----|--------|
-| Lunes | **Fuerza A** — Torso |
-| Martes | **Freeletics** |
-| Miércoles | **Fuerza B** — Pierna y core |
-| Jueves | Carrera fácil (zona 2) o descanso |
-| Viernes | **Fuerza C** — Cuerpo completo |
-| Sábado | **Freeletics** |
+| Lunes | Freeletics — fuerza |
+| Martes | Freeletics |
+| Miércoles | Descanso o caminata |
+| Jueves | Freeletics — fuerza |
+| Viernes | Carrera fácil (zona 2) |
+| Sábado | Freeletics |
 | Domingo | Descanso + check-in semanal |
 
-Si una semana solo entrenas 3 días, no se "pierde": se corren las sesiones y se sigue. Cuatro sesiones mediocres hechas siempre valen más que seis perfectas hechas la mitad de las semanas.
+La distribución exacta la decide tu Coach según el Journey. Lo que sí quiero cuidar son dos cosas:
 
-**Prioridad cuando el tiempo aprieta:** primero las 3 sesiones de fuerza, luego Freeletics, al final la carrera. En déficit calórico la fuerza es lo que protege tu músculo; el cardio solo suma gasto y ese gasto también lo puedes conseguir caminando.
+**Al menos 3 sesiones de fuerza por semana.** Es el mínimo para conservar músculo en déficit. Si tu Journey te está dando 2 o menos, hay que ajustar la frecuencia en los ajustes del Coach.
 
----
+**Una carrera fácil, no intervalos.** Dijiste que te gusta correr, así que la conservamos. Pero a ritmo conversacional, en zona 2 según tu Garmin — deberías poder hablar sin quedarte sin aire. Los intervalos no hacen falta: Freeletics ya te da ese estímulo de sobra, y meterlos además solo gastaría recuperación que necesitas para la fuerza.
 
-## Fuerza A — Torso
-
-| Ejercicio | Series × reps | Notas |
-|-----------|--------------|-------|
-| Dominadas (o jalón en multifuncional) | 4 × máximas | Si no salen: negativas de 5 s o jalón asistido. |
-| Press de banca con barra (o press con mancuernas) | 4 × 6–10 | El principal de empuje. |
-| Remo con barra | 4 × 8–12 | Espalda recta, tirar hacia el ombligo. |
-| Press militar de pie con mancuernas | 3 × 10–12 | |
-| Elevaciones laterales | 3 × 15–20 | Hombro lateral: da amplitud y hace ver la cintura más estrecha. |
-| Curl con mancuernas | 3 × 12–15 | Tempo lento en la bajada. |
-
-## Fuerza B — Pierna y core
-
-| Ejercicio | Series × reps | Notas |
-|-----------|--------------|-------|
-| Sentadilla con barra | 4 × 6–10 | El ejercicio más importante de la semana. |
-| Peso muerto rumano con barra | 4 × 8–12 | Isquios y glúteo. Bajar hasta media espinilla, espalda neutra. |
-| Sentadilla búlgara con mancuernas | 3 × 10–12 por pierna | El mejor uso posible de mancuernas de 10 kg. |
-| Hip thrust con barra | 3 × 10–12 | Glúteo. |
-| Elevación de piernas colgado en la barra | 3 × 10–15 | Core inferior. |
-| Elevación de talones con mancuernas | 3 × 15–20 | Gemelos. |
-
-## Fuerza C — Cuerpo completo
-
-| Ejercicio | Series × reps | Notas |
-|-----------|--------------|-------|
-| Peso muerto con barra | 4 × 5–8 | Alta demanda: técnica primero, carga después. |
-| Press inclinado con mancuernas | 4 × 10–12 | Pecho superior — el que más aporta a la forma del torso. |
-| Remo a un brazo con mancuerna | 4 × 10–12 por lado | Aquí 10 kg rinde mucho con tempo lento. |
-| Jalón al pecho en multifuncional | 3 × 12–15 | |
-| Face pull en polea | 3 × 15–20 | Salud del hombro y postura. |
-| Plancha o rueda abdominal | 3 × 45–60 s / 8–12 | |
+**Prioridad cuando el tiempo aprieta:** primero las sesiones de fuerza, luego el resto de Freeletics, al final la carrera.
 
 ---
 
-## Freeletics (martes y sábado)
+## Lo cuarto: verificar que la progresión ocurra
 
-Usa la app tal como la usas hoy: deja que su coach elija la sesión. Solo dos ajustes para que no choque con la fuerza:
+Aquí está el punto ciego del sistema, y es la única parte donde necesito algo de ti.
 
-- **Que sean sesiones de 20–35 minutos**, no maratones. El objetivo de estos días es acondicionamiento y gasto, no destrucción.
-- **Evita sesiones con mucho volumen de piernas el día antes de Fuerza B.** Si el coach te propone una sesión llena de sentadillas y burpees el lunes o martes, cámbiala por una de torso o core; llegar destrozado a la sentadilla con barra del miércoles cuesta más de lo que aporta.
+Strava me dirá que entrenaste y cuánto tiempo, pero **no cuántos kilos levantaste**. Y ese es el dato más importante de los 90 días: en déficit calórico, mantener o subir tus cargas es la prueba directa de que estás perdiendo grasa y conservando músculo. Si las cargas se desploman durante dos semanas, algo está mal — déficit muy agresivo, poco sueño o poca proteína — y hay que corregir **antes** de que se traduzca en músculo perdido.
 
-Freeletics registra automáticamente estas sesiones y, con la integración de Strava activada (ver `integraciones.md`), yo las veo sin que tengas que contarme nada.
+Dos formas de dármelo, la que te resulte más cómoda:
 
-## Carrera (jueves, opcional)
+**Opción A — una línea por chat** los días de fuerza:
+```
+Fuerza. Sentadilla 50kg 4x8. Peso muerto 60kg 3x6. Press mancuernas 10kg 3x12.
+```
 
-30–45 minutos a ritmo conversacional: deberías poder hablar sin quedarte sin aire. Con tu Garmin, apunta a mantenerte en zona 2. La mayoría corre esta sesión demasiado rápido, y eso arruina la recuperación para la fuerza sin quemar más grasa a cambio.
+**Opción B — export de Freeletics** cada 3–4 semanas: Perfil → Ajustes → Privacidad → Exportar datos, y me pasas el archivo. Cero esfuerzo diario, pero el análisis llega con retraso.
 
-No hay sesión de intervalos porque **esa función ya la cumple Freeletics** — sus sesiones de HIIT son exactamente ese estímulo. Meter intervalos además sería trabajo duplicado y recuperación gastada.
+La opción A permite corregir a tiempo; la B solo permite hacer la autopsia. Recomiendo A, aunque sea en modo telegrama.
 
 ---
 
-## Cómo progresar
+## Programa de respaldo
 
-La regla: **cuando llegues al tope de repeticiones del rango en todas las series con buena técnica, sube el peso** (en barra, +5 kg; en mancuernas, al siguiente escalón) y vuelve al extremo bajo del rango.
-
-Cuando ya no puedas subir peso porque llegaste a los 10 kg, progresa en este orden:
-1. Más repeticiones (hasta 20).
-2. Tempo: 3 segundos de bajada controlada.
-3. Pausa de 1–2 segundos en la posición difícil.
-4. Versión unilateral (una pierna, un brazo).
-5. Menos descanso entre series.
-
-**Registra siempre lo que levantaste** en los días de fuerza. Strava me dirá que entrenaste y cuánto tiempo, pero no cuántos kilos moviste — y ese dato es justamente la señal más importante: en un déficit calórico, mantener o subir tus cargas es la prueba de que estás perdiendo grasa y no músculo.
+Si algún día no puedes usar Freeletics — se cae la suscripción, se va el internet, o simplemente quieres variar — hay un programa completo de barra y mancuernas en [`entrenamiento-respaldo.md`](entrenamiento-respaldo.md), diseñado para el equipo de tu gimnasio. No es el plan principal; está ahí para que nunca tengas la excusa de no entrenar.
 
 ---
 
 ## Sobre los abdominales
 
-Hay trabajo directo de core en dos sesiones, más lo que traiga Freeletics, y sirve: un core fuerte se ve mejor cuando la grasa baja, y protege la espalda en sentadilla y peso muerto. Pero que quede claro — **ningún abdominal quema grasa abdominal**. Hacer 500 crunches diarios no adelanta el objetivo ni un día. Lo que descubre el abdomen es el déficit calórico sostenido; el gimnasio construye lo que quedará debajo.
+Freeletics te va a dar bastante trabajo de core, y está bien: un core fuerte se ve mejor cuando la grasa baja, y protege la espalda en sentadilla y peso muerto. Pero que quede claro — **ningún abdominal quema grasa abdominal**. No existe la reducción localizada. Hacer 500 crunches diarios no adelanta el objetivo ni un día.
+
+Lo que descubre el abdomen es el déficit calórico sostenido, y eso se decide en la cocina. El gimnasio construye lo que quedará debajo cuando la grasa se vaya.

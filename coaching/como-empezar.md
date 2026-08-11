@@ -129,6 +129,17 @@ Los pasos exactos están en [`integraciones.md`](integraciones.md). Resumen:
 
 ---
 
+## Paso 7 — Revisar la configuración de Freeletics (3 min)
+
+Como Freeletics dirige tu entrenamiento, que esté bien configurado es crítico. Mándame dos cosas:
+
+1. **Captura de tu configuración de equipo:** pestaña **Coach** → ajustes → **Equipment**. Verifica que estén tus mancuernas reales (2.5, 5, 7.5, 10 kg), la barra con discos de 10 y 20 kg, la barra de dominadas y la máquina multifuncional.
+2. **En qué Journey estás** y cuántas sesiones por semana tienes configuradas.
+
+Un Coach mal configurado limita tu progresión sin que lo notes: sigue dándote sesiones que se sienten bien mientras las cargas se aplanan. Es la causa más común de estancamiento con estas apps, y es invisible desde adentro.
+
+---
+
 ## Plantilla para copiar y pegar
 
 ```
