@@ -1,5 +1,5 @@
 {
-  "_nota": "Intake en curso. Los valores en null están pendientes.",
+  "_nota": "Intake COMPLETO. Dia 1 cerrado: peso, medidas y fotos registradas.",
   "actualizado": "2026-08-12",
   "basicos": {
     "nombre": null,
@@ -151,5 +151,29 @@
     "cintura_cm": 85,
     "masa_magra_kg": "61+ (conservar)"
   },
-  "prioridad_1": "SUENO: de 6h03 a 7h minimo. Mayor palanca del plan."
+  "prioridad_1": "SUENO: de 6h03 a 7h minimo. Mayor palanca del plan.",
+  "checkpoints_fotos": {
+    "_nota": "Solo metadatos. Las fotos NO se versionan (ver .gitignore); viven en el album del celular del usuario.",
+    "dia_1": {
+      "fecha": "2026-08-12",
+      "tomas": [
+        "frontal",
+        "lateral",
+        "espalda/tres cuartos"
+      ],
+      "condiciones": "bano, luz artificial pareja, selfie de espejo, boxer azul",
+      "observaciones": [
+        "desarrollo visible en hombros, pecho, brazos, espalda y cuadriceps",
+        "grasa concentrada en abdomen; extremidades relativamente magras",
+        "espalda y hombros bien desarrollados respecto a la cintura -> buen potencial de forma en V al bajar",
+        "lectura visual ~19-21%, por debajo del 22.9% de US Navy (la formula no ve masa muscular)"
+      ],
+      "correcciones_para_dia_30": [
+        "brazos colgando a los lados, separados del cuerpo (no cruzados ni adelante)",
+        "usar temporizador de 10s con telefono apoyado a la altura del ombligo, no selfie de espejo",
+        "marcar con cinta la posicion de los pies y del telefono",
+        "tomar con el telefono en vertical"
+      ]
+    }
+  }
 }
