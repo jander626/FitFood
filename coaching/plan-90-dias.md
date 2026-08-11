@@ -48,19 +48,17 @@ Llegar a 12 % exigiría perder 9.9 kg, o sea 0.77 kg/semana. Es posible, pero re
 
 ## Tu plan nutricional
 
-**Objetivo diario: 1,800 kcal**
+**Objetivo diario: 1,850 kcal**
 
 | Macro | Gramos | kcal | Por qué |
 |-------|--------|------|---------|
-| **Proteína** | **160 g** | 640 | 2.0 g/kg — protege tu masa magra en déficit. Es el número más importante del plan. |
-| Carbohidratos | 155 g | 620 | Energía para las sesiones de fuerza. |
-| Grasa | 60 g | 540 | Mínimo hormonal (0.75 g/kg). |
+| **Proteína** | **160 g** | 640 | 2.0 g/kg — protege tu masa magra en déficit. El número más importante del plan. |
+| Carbohidratos | 120 g | 480 | Frijoles y papa. Casi no comes arroz, y no hace falta. |
+| Grasa | 80 g | 720 | Ajustado a tu comida real: chicharrón y punta de anca. |
 
-**De dónde sale:** tu gasto estimado es ~2,350 kcal/día (metabolismo basal 1,676 × factor de actividad 1.4). El déficit es de ~550 kcal/día, un 23 %.
+**De dónde sale:** con tus pasos reales del Garmin (**9,618/día de promedio** — eres más activo de lo que asumí), tu gasto es ~2,450 kcal/día. El déficit es de ~600 kcal/día, un 24 %.
 
-⚠️ **El factor de actividad 1.4 es una estimación**, porque aún no me has dado tus pasos del Garmin. Puede estar desviado en ±200 kcal. Por eso el plan se recalibra en la semana 2 con tu tendencia real de peso, que es un dato objetivo y no depende de ninguna fórmula. Si me pasas los pasos antes, afinamos desde ya.
-
-El detalle práctico de cómo llegar a 160 g de proteína está en [`nutricion.md`](nutricion.md).
+El reparto de macros está armado alrededor de lo que ya comes, no de un plan genérico. El detalle está en [`nutricion.md`](nutricion.md).
 
 ---
 
@@ -70,10 +68,10 @@ El detalle práctico de cómo llegar a 160 g de proteína está en [`nutricion.m
 
 Objetivo: establecer el déficit y el hábito de registro. No busques heroísmo, busca consistencia.
 
-- Calorías: 1,800 kcal, 160 g de proteína
+- Calorías: 1,850 kcal, 160 g de proteína
 - Entrenamiento: terminar el Journey "Fuerza suprema" (te quedan ~17 sesiones)
-- Habilitar barra de dominadas y máquinas en Freeletics — pendiente
-- Sueño: establecer la línea base con el Garmin
+- **Sueño: de 6h a 7h mínimo.** La intervención de mayor impacto de todo el plan
+- Agua: de 1 a 3 litros al día; verduras en dos comidas
 - Meta al día 30: **~77 kg, cintura ~91 cm**
 
 ### Fase 2 — Progresión (días 31–60)
@@ -113,14 +111,27 @@ Ese último punto es el más importante y el que casi nadie respeta. Si la seman
 
 ---
 
+## El mayor riesgo del plan: tu sueño
+
+Tus datos del Garmin de las últimas 4 semanas: **6h 03min de sueño promedio** contra una necesidad estimada de 8h 32min. Un déficit de 2h 29min por noche, **17.4 horas por semana**. Solo 2 de 24 noches llegaron a 7 horas.
+
+Esto importa más que cualquier ajuste de calorías. Con el mismo déficit calórico, dormir 5.5 h en lugar de 8.5 h hace perder **55 % menos grasa y 60 % más músculo**. La báscula baja igual; el resultado corporal es el opuesto.
+
+Traducido: puedes cumplir la dieta y el entrenamiento a la perfección durante 90 días y aun así terminar más liviano pero igual de blando, porque buena parte de lo perdido sería el músculo que quieres descubrir.
+
+**Meta de la fase 1: 7 horas mínimo.** No apunto a 8.5 h porque no sería realista. Pasar de 6 a 7 ya recupera 7 horas por semana y cambia la fisiología. Tu hora de despertar (5:00–6:10 am) ya es consistente y no hay que tocarla — la intervención es **acostarte a las 9:40 pm**. El protocolo completo está en [`suplementos-descanso.md`](suplementos-descanso.md).
+
+---
+
 ## Las reglas no negociables
 
 1. **160 g de proteína al día.** Si un día fallas en algo, que no sea esto. Es lo que separa "perder peso" de "perder grasa".
 2. **Tres sesiones de fuerza por semana.** En déficit, la fuerza es lo que le dice a tu cuerpo que conserve el músculo.
 3. **Pésate todos los días, en las mismas condiciones.** Boxer, pantaloneta y reloj está perfecto — solo mantenlo igual siempre, así el peso de la ropa se cancela y no distorsiona la tendencia.
 4. **Mide la cintura cada domingo.** Habrá semanas donde el peso no se mueva y la cintura sí. Sin la cinta, esas semanas se sienten como fracaso cuando son progreso.
-5. **Duerme 7 horas mínimo.** Con el mismo déficit, dormir mal cambia la proporción de grasa y músculo que pierdes.
-6. **Registra los días malos.** Un fin de semana descontrolado registrado es información. Sin registrar es solo un hueco, y los huecos son lo único que rompe este sistema.
+5. **Duerme 7 horas mínimo.** Hoy duermes 6h 03min. Es la regla que más va a cambiar tu resultado, y la que más esfuerzo te va a costar.
+6. **3 litros de agua al día.** Vas por 1. Buena parte de tus antojos se resuelven ahí.
+7. **Registra los días malos.** Un fin de semana descontrolado registrado es información. Sin registrar es solo un hueco, y los huecos son lo único que rompe este sistema.
 
 ---
 

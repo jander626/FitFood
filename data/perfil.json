@@ -11,22 +11,30 @@
     "peso_meta_kg": 72.0
   },
   "actividad": {
-    "pasos_diarios_promedio": null,
-    "sueno_horas_promedio": null,
-    "fc_reposo": null,
+    "pasos_diarios_promedio": 9618,
+    "pasos_mediana": 9477,
+    "pasos_rango": "6239-16035",
+    "sueno_horas_promedio": 6.05,
+    "sueno_necesidad_promedio": 8.53,
+    "sueno_deficit_h_noche": 2.48,
+    "sueno_deficit_h_semana": 17.4,
+    "sueno_noches_min_7h": "2 de 24",
+    "body_battery_promedio": 62,
+    "fc_reposo": 56,
     "dias_entrenamiento_semana": 3,
-    "experiencia_entrenando": null
+    "experiencia_entrenando": null,
+    "_fuente": "export Garmin Jul 15 - Ago 11 2026"
   },
   "calculado": {
     "tmb_kcal": 1676,
-    "factor_actividad": 1.4,
-    "factor_actividad_nota": "estimado; recalibrar con pasos Garmin y tendencia real de peso en semana 2",
-    "tdee_kcal": 2347,
-    "deficit_pct": 23,
-    "kcal_objetivo": 1800,
+    "factor_actividad": 1.46,
+    "factor_actividad_nota": "derivado de 9618 pasos/dia reales + 3 sesiones de fuerza; bottom-up 2407, TMBx1.45 2430",
+    "tdee_kcal": 2450,
+    "deficit_pct": 24,
+    "kcal_objetivo": 1850,
     "proteina_g": 160,
-    "carbohidratos_g": 155,
-    "grasa_g": 60,
+    "carbohidratos_g": 120,
+    "grasa_g": 80,
     "grasa_corporal_pct_estimada": 22.9,
     "masa_magra_kg": 61.2,
     "masa_grasa_kg": 18.2,
@@ -40,7 +48,26 @@
     "lesiones_condiciones": [],
     "alimentos_excluidos": [],
     "horario_entrenamiento": null,
-    "alcohol_semanal": null
+    "alcohol_semanal": null,
+    "alimentos_frecuentes": [
+      "chicharron (airfryer)",
+      "frijoles",
+      "punta de anca",
+      "pollo",
+      "papa",
+      "huevos"
+    ],
+    "alimentos_poco_frecuentes": [
+      "arroz",
+      "frutas",
+      "verduras (no mencionadas)"
+    ],
+    "agua_litros_dia": 1,
+    "huecos_dieta": [
+      "verduras ausentes",
+      "agua 1L de 3L",
+      "fruta casi nula"
+    ]
   },
   "freeletics": {
     "_fuente": "capturas de pantalla del 2026-08-11",
@@ -76,11 +103,13 @@
       "pared",
       "pelota de pilates"
     ],
-    "equipamiento_faltante_por_habilitar": [
-      "barra de dominadas — disponible en el gimnasio pero NO habilitada",
-      "máquinas de gimnasio / multifuncional — disponible pero NO habilitada"
-    ],
-    "a_verificar": "mancuernas: la app dice 2/3/5/7/10 kg; el usuario reportó 2.5/5/7.5/10 kg"
+    "equipamiento_faltante_por_habilitar": [],
+    "a_verificar": "mancuernas: la app dice 2/3/5/7/10 kg; el usuario reportó 2.5/5/7.5/10 kg",
+    "notas": [
+      "equipamiento habilitado por el usuario 2026-08-12",
+      "barra de dominadas baja: usar rodillas flexionadas y tobillos cruzados; habilita ademas negativas y remo invertido",
+      "strava activado 2026-08-12"
+    ]
   },
   "equipamiento_gimnasio_real": [
     "mancuernas 2.5 / 5 / 7.5 / 10 kg (a verificar contra la app)",
@@ -103,5 +132,6 @@
     "grasa_pct": 15,
     "cintura_cm": 85,
     "masa_magra_kg": "61+ (conservar)"
-  }
+  },
+  "prioridad_1": "SUENO: de 6h03 a 7h minimo. Mayor palanca del plan."
 }

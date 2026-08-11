@@ -35,7 +35,20 @@ Configura exactamente esto:
 
 Y revísalo cada vez que cambie algo en el gimnasio de tu unidad.
 
-Mándame una captura de esa pantalla y la reviso contigo. Un Coach mal configurado es la causa más común de estancamiento en apps de este tipo, y es completamente invisible desde adentro: la app sigue dándote sesiones que se sienten bien mientras tu progresión se aplana.
+Un Coach mal configurado es la causa más común de estancamiento en apps de este tipo, y es completamente invisible desde adentro: la app sigue dándote sesiones que se sienten bien mientras tu progresión se aplana.
+
+### La barra de dominadas baja: no es un problema
+
+Dijiste que no puedes quedar colgado con el cuerpo completamente estirado. **Déjala habilitada** — eso se resuelve con la técnica estándar para barras bajas:
+
+**Flexiona las rodillas y cruza los tobillos detrás de ti.** Eso es todo. Sube los pies hacia atrás y quedas colgado libre aunque la barra esté a la altura de tu cabeza. Es como entrena media población en gimnasios de casa, y el estímulo sobre la espalda es idéntico — el trabajo lo hace el tren superior, y las piernas solo están ahí sin tocar el suelo.
+
+Dos ventajas que no esperabas de esa barra baja:
+
+- **Puedes hacer negativas fácilmente.** Saltas a la posición alta, bajas en 5 segundos controlados, vuelves a saltar. Es la mejor forma de progresar hacia tus primeras dominadas estrictas, y con la barra alta necesitarías un cajón para hacerlo.
+- **Puedes hacer remo invertido.** Te cuelgas por debajo con los pies en el suelo y el cuerpo en plancha inclinada. Es un ejercicio de espalda excelente, y una barra baja es exactamente la altura ideal — con una barra alta no se puede.
+
+Así que esa barra no te limita: te da tres ejercicios en vez de uno.
 
 ---
 
