@@ -14,10 +14,23 @@
       "confianza": "media-alta",
       "origen": "foto",
       "nota": "Sin calorias liquidas: tomo agua. Mejor ratio que el desayuno habitual (13 kcal por gramo de proteina vs 21). Candidato a plato por defecto."
+    },
+    {
+      "momento": "almuerzo",
+      "items": [
+        { "alimento": "pollo con salsa de yogur griego, queso, pina y pimenton", "porcion_g": 230, "kcal": 530, "proteina_g": 80, "carbs_g": 10, "grasa_g": 16 },
+        { "alimento": "papas airfryer", "porcion_g": 150, "kcal": 280, "proteina_g": 4, "carbs_g": 42, "grasa_g": 9 },
+        { "alimento": "ensalada (lechuga, zanahoria, pimenton amarillo)", "porcion_g": 80, "kcal": 40, "proteina_g": 1, "carbs_g": 8, "grasa_g": 0 },
+        { "alimento": "salsa roja (2 cucharadas)", "kcal": 35, "proteina_g": 0, "carbs_g": 8, "grasa_g": 0 }
+      ],
+      "subtotal": { "kcal": 885, "proteina_g": 85, "carbs_g": 68, "grasa_g": 25 },
+      "confianza": "media",
+      "origen": "foto",
+      "nota": "Salsa casera con yogur griego en vez de crema/mayonesa: buena eleccion espontanea del usuario. Eligio salsa roja sobre mayonesa tras la recomendacion."
     }
   ],
-  "totales": { "kcal": 540, "proteina_g": 42, "carbs_g": 45, "grasa_g": 20 },
+  "totales": { "kcal": 1425, "proteina_g": 127, "carbs_g": 113, "grasa_g": 45 },
   "objetivo": { "kcal": 1850, "proteina_g": 160, "carbs_g": 145, "grasa_g": 70 },
-  "restante": { "kcal": 1310, "proteina_g": 118, "carbs_g": 100, "grasa_g": 50 },
-  "notas": "Primer registro del plan. El usuario elimino Milo/jugo del desayuno desde el dia 1."
+  "restante": { "kcal": 425, "proteina_g": 33, "carbs_g": 32, "grasa_g": 25 },
+  "notas": "Primer registro del plan. El usuario elimino Milo/jugo del desayuno desde el dia 1. Va muy bien de proteina a mitad de dia."
 }
