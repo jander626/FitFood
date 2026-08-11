@@ -177,6 +177,24 @@ Mándamelo completo o por partes, como te quede cómodo. No necesitas usar la pl
 
 ---
 
+## El dashboard en tu pantalla de inicio
+
+**Enlace:** https://claude.ai/code/artifact/1f5d0100-3fcf-4461-aee4-bb87fb9f6124
+
+Guárdalo como ícono para no tener que buscarlo en el chat cada día.
+
+**iPhone (Safari):** abre el enlace → botón **Compartir** → **Añadir a pantalla de inicio** → nómbralo «90 días» → **Añadir**.
+
+**Android (Chrome):** abre el enlace → **tres puntos ⋮** → **Añadir a pantalla principal** → nómbralo «90 días» → confirmar.
+
+Tres notas:
+
+- Necesitas la sesión de claude.ai iniciada en ese navegador — el dashboard es privado.
+- Ponlo junto a Garmin y Freeletics. Las tres apps del plan en un solo gesto.
+- **El enlace nunca cambia.** Cada domingo se actualiza el contenido en esa misma dirección, así que el ícono siempre muestra los datos al día.
+
+---
+
 ## Después del Día 0: la rutina diaria
 
 Una vez arrancamos, esto es todo lo que necesito de ti cada día:
