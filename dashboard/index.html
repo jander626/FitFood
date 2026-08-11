@@ -1,0 +1,491 @@
+<title>FitFood — 90 días</title>
+<style>
+  :root {
+    --ground: #F6F5F2;
+    --surface: #FFFFFF;
+    --ink: #16181A;
+    --ink-2: #4A4842;
+    --muted: #6B6862;
+    --hairline: #E3E0D9;
+    --hairline-soft: #EFEDE7;
+    --accent: #C77A1E;
+    --accent-soft: rgba(199, 122, 30, 0.13);
+    --accent-band: rgba(199, 122, 30, 0.08);
+    --good: #2F7A52;
+    --good-bg: rgba(47, 122, 82, 0.12);
+    --warn: #96601A;
+    --warn-bg: rgba(150, 96, 26, 0.12);
+    --shadow: 0 1px 2px rgba(20, 18, 12, .05), 0 6px 18px rgba(20, 18, 12, .05);
+
+    --serif: Georgia, "Iowan Old Style", "Times New Roman", serif;
+    --sans: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    --mono: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, monospace;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) {
+      --ground: #14161A;
+      --surface: #1B1E23;
+      --ink: #E7E5E0;
+      --ink-2: #B6B2A9;
+      --muted: #8D8A82;
+      --hairline: #2A2E34;
+      --hairline-soft: #23272C;
+      --accent: #C4831F;
+      --accent-soft: rgba(196, 131, 31, 0.20);
+      --accent-band: rgba(196, 131, 31, 0.11);
+      --good: #5FA37B;
+      --good-bg: rgba(95, 163, 123, 0.16);
+      --warn: #C0913F;
+      --warn-bg: rgba(192, 145, 63, 0.15);
+      --shadow: 0 1px 2px rgba(0, 0, 0, .3), 0 6px 18px rgba(0, 0, 0, .25);
+    }
+  }
+  :root[data-theme="dark"] {
+    --ground: #14161A;
+    --surface: #1B1E23;
+    --ink: #E7E5E0;
+    --ink-2: #B6B2A9;
+    --muted: #8D8A82;
+    --hairline: #2A2E34;
+    --hairline-soft: #23272C;
+    --accent: #C4831F;
+    --accent-soft: rgba(196, 131, 31, 0.20);
+    --accent-band: rgba(196, 131, 31, 0.11);
+    --good: #5FA37B;
+    --good-bg: rgba(95, 163, 123, 0.16);
+    --warn: #C0913F;
+    --warn-bg: rgba(192, 145, 63, 0.15);
+    --shadow: 0 1px 2px rgba(0, 0, 0, .3), 0 6px 18px rgba(0, 0, 0, .25);
+  }
+
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--ground);
+    color: var(--ink);
+    font-family: var(--sans);
+    font-size: 16px;
+    line-height: 1.55;
+    -webkit-font-smoothing: antialiased;
+  }
+  .wrap {
+    max-width: 780px;
+    margin: 0 auto;
+    padding: 32px 20px 64px;
+    display: flex;
+    flex-direction: column;
+    gap: 28px;
+  }
+
+  /* --- header --- */
+  header { display: flex; flex-direction: column; gap: 10px; }
+  .eyebrow {
+    font-family: var(--mono);
+    font-size: 11px;
+    letter-spacing: .14em;
+    text-transform: uppercase;
+    color: var(--muted);
+  }
+  h1 {
+    font-family: var(--serif);
+    font-weight: 400;
+    font-size: clamp(30px, 7vw, 42px);
+    line-height: 1.1;
+    margin: 0;
+    text-wrap: balance;
+    letter-spacing: -.01em;
+  }
+  h1 em { font-style: italic; color: var(--accent); }
+  .sub { color: var(--ink-2); margin: 0; max-width: 58ch; }
+
+  .daybar {
+    display: flex; align-items: center; gap: 12px;
+    margin-top: 4px;
+  }
+  .track {
+    flex: 1; height: 6px; border-radius: 3px;
+    background: var(--hairline); overflow: hidden;
+  }
+  .track > i { display: block; height: 100%; background: var(--accent); border-radius: 3px; }
+  .daylabel { font-family: var(--mono); font-size: 12px; color: var(--muted); white-space: nowrap; }
+
+  /* --- cards --- */
+  .card {
+    background: var(--surface);
+    border: 1px solid var(--hairline);
+    border-radius: 10px;
+    box-shadow: var(--shadow);
+    padding: 20px;
+  }
+  h2 {
+    font-family: var(--serif);
+    font-weight: 400;
+    font-size: 21px;
+    margin: 0 0 4px;
+    letter-spacing: -.005em;
+  }
+  .note { color: var(--muted); font-size: 13.5px; margin: 0; }
+
+  /* --- stat tiles --- */
+  .stats {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+    gap: 12px;
+  }
+  .stat { display: flex; flex-direction: column; gap: 2px; padding: 16px 18px; }
+  .stat .k {
+    font-family: var(--mono); font-size: 10.5px; letter-spacing: .12em;
+    text-transform: uppercase; color: var(--muted);
+  }
+  .stat .v {
+    font-family: var(--mono); font-size: 29px; font-weight: 600;
+    font-variant-numeric: tabular-nums; letter-spacing: -.02em; line-height: 1.2;
+  }
+  .stat .v small { font-size: 15px; font-weight: 400; color: var(--ink-2); margin-left: 1px; }
+  .stat .d { font-size: 12.5px; color: var(--muted); font-variant-numeric: tabular-nums; }
+
+  /* --- chart --- */
+  figure { margin: 0; display: flex; flex-direction: column; gap: 14px; }
+  .chartbox { position: relative; width: 100%; overflow-x: auto; }
+  svg { display: block; width: 100%; height: auto; touch-action: pan-y; }
+  .ax { font-family: var(--mono); font-size: 10px; fill: var(--muted); }
+  .grid { stroke: var(--hairline-soft); stroke-width: 1; }
+  .axis { stroke: var(--hairline); stroke-width: 1; }
+
+  .keys { display: flex; flex-wrap: wrap; gap: 16px; }
+  .key { display: flex; align-items: center; gap: 7px; font-size: 12.5px; color: var(--ink-2); }
+  .key .swatch { width: 22px; height: 0; border-top: 2px solid var(--accent); }
+  .key .swatch.dash { border-top-style: dashed; }
+  .key .swatch.band {
+    height: 11px; border: 0; border-radius: 2px;
+    background: var(--accent-band); outline: 1px solid var(--accent-soft);
+  }
+
+  #tip {
+    position: absolute; pointer-events: none; opacity: 0;
+    transform: translate(-50%, -100%);
+    background: var(--surface); border: 1px solid var(--hairline);
+    border-radius: 7px; padding: 7px 10px; box-shadow: var(--shadow);
+    font-family: var(--mono); font-size: 11.5px; line-height: 1.5;
+    white-space: nowrap; transition: opacity .12s; z-index: 3;
+  }
+  #tip b { font-weight: 600; }
+  #tip .lab { color: var(--muted); }
+
+  /* --- tables --- */
+  .scroll { overflow-x: auto; }
+  table { border-collapse: collapse; width: 100%; font-size: 14px; }
+  th, td { text-align: right; padding: 9px 10px; border-bottom: 1px solid var(--hairline-soft); }
+  th:first-child, td:first-child { text-align: left; }
+  thead th {
+    font-family: var(--mono); font-size: 10.5px; letter-spacing: .1em;
+    text-transform: uppercase; color: var(--muted); font-weight: 500;
+    border-bottom: 1px solid var(--hairline);
+  }
+  tbody td { font-variant-numeric: tabular-nums; font-family: var(--mono); }
+  tbody td:first-child { font-family: var(--sans); }
+  tbody tr:last-child td { border-bottom: 0; }
+  tr.now td { background: var(--accent-soft); }
+
+  /* --- macro bar --- */
+  .macro { display: flex; flex-direction: column; gap: 9px; }
+  .macrobar { display: flex; height: 30px; border-radius: 6px; overflow: hidden; gap: 2px; }
+  .macrobar span { display: block; }
+  .m-p { background: var(--accent); }
+  .m-c { background: var(--accent); opacity: .55; }
+  .m-g { background: var(--accent); opacity: .28; }
+  .macrolegend { display: flex; flex-wrap: wrap; gap: 18px; font-size: 13px; }
+  .macrolegend div { display: flex; align-items: baseline; gap: 6px; }
+  .macrolegend b { font-family: var(--mono); font-variant-numeric: tabular-nums; }
+  .macrolegend .dot { width: 9px; height: 9px; border-radius: 2px; align-self: center; }
+
+  /* --- phases --- */
+  ol.phases { list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; gap: 0; }
+  ol.phases li {
+    display: grid; grid-template-columns: 30px 1fr; gap: 14px;
+    padding: 15px 0; border-bottom: 1px solid var(--hairline-soft);
+  }
+  ol.phases li:last-child { border-bottom: 0; padding-bottom: 0; }
+  ol.phases li:first-child { padding-top: 0; }
+  .pnum {
+    font-family: var(--mono); font-size: 12px; color: var(--accent);
+    border: 1px solid var(--accent-soft); border-radius: 50%;
+    width: 28px; height: 28px; display: grid; place-items: center;
+    background: var(--accent-soft); font-weight: 600;
+  }
+  .ptitle { font-weight: 600; font-size: 15px; }
+  .pdays { font-family: var(--mono); font-size: 11.5px; color: var(--muted); }
+  .pbody { color: var(--ink-2); font-size: 14px; margin: 3px 0 0; }
+  .ptarget {
+    font-family: var(--mono); font-size: 12px; color: var(--ink);
+    margin-top: 6px; display: inline-block;
+    background: var(--hairline-soft); padding: 3px 8px; border-radius: 4px;
+  }
+
+  /* --- rules --- */
+  ul.rules { margin: 0; padding: 0; list-style: none; display: flex; flex-direction: column; gap: 11px; }
+  ul.rules li { display: grid; grid-template-columns: 20px 1fr; gap: 11px; font-size: 14.5px; color: var(--ink-2); }
+  ul.rules li b { color: var(--ink); font-weight: 600; }
+  .tick { color: var(--accent); font-family: var(--mono); font-size: 13px; }
+
+  .pill {
+    display: inline-flex; align-items: center; gap: 5px;
+    font-family: var(--mono); font-size: 11px; letter-spacing: .04em;
+    padding: 3px 9px; border-radius: 20px;
+    background: var(--good-bg); color: var(--good); font-weight: 600;
+  }
+  .pill.warn { background: var(--warn-bg); color: var(--warn); }
+
+  footer { color: var(--muted); font-size: 12.5px; border-top: 1px solid var(--hairline); padding-top: 18px; }
+  footer p { margin: 0 0 6px; }
+  @media (prefers-reduced-motion: reduce) { * { transition: none !important; } }
+</style>
+
+<div class="wrap">
+
+  <header>
+    <div class="eyebrow">Plan personal · inicio 12 ago 2026</div>
+    <h1>90 días para <em>descubrir</em> el físico que ya construiste</h1>
+    <p class="sub">61.2 kg de masa magra están debajo de 18.2 kg de grasa. El músculo ya existe — el trabajo es destaparlo.</p>
+    <div class="daybar">
+      <div class="track"><i style="width:1.1%"></i></div>
+      <div class="daylabel">Día 1 / 90</div>
+    </div>
+  </header>
+
+  <section class="stats">
+    <div class="card stat">
+      <div class="k">Peso</div>
+      <div class="v">79.4<small> kg</small></div>
+      <div class="d">Meta día 90 · 72.0 kg</div>
+    </div>
+    <div class="card stat">
+      <div class="k">Grasa corporal</div>
+      <div class="v">22.9<small> %</small></div>
+      <div class="d">Meta día 90 · 15 %</div>
+    </div>
+    <div class="card stat">
+      <div class="k">Cintura</div>
+      <div class="v">95<small> cm</small></div>
+      <div class="d">Meta día 90 · 85 cm</div>
+    </div>
+    <div class="card stat">
+      <div class="k">Masa magra</div>
+      <div class="v">61.2<small> kg</small></div>
+      <div class="d">Conservar — no perder</div>
+    </div>
+  </section>
+
+  <section class="card">
+    <figure>
+      <div>
+        <h2>Trayectoria de peso</h2>
+        <p class="note">La banda es el rango sostenible: 0.45–0.65 kg por semana. Salirse por debajo significa ajustar; salirse por arriba cuesta músculo.</p>
+      </div>
+      <div class="chartbox">
+        <svg id="chart" viewBox="0 0 720 330" role="img" aria-label="Proyección de peso de 79.4 kg a 72.0 kg en 90 días, con banda sostenible entre 0.45 y 0.65 kg por semana."></svg>
+        <div id="tip" aria-hidden="true"></div>
+      </div>
+      <div class="keys">
+        <div class="key"><span class="swatch"></span>Peso medido</div>
+        <div class="key"><span class="swatch dash"></span>Trayectoria objetivo</div>
+        <div class="key"><span class="swatch band"></span>Rango sostenible</div>
+      </div>
+    </figure>
+  </section>
+
+  <section class="card">
+    <h2>Checkpoints</h2>
+    <p class="note">Fotos y medidas completas en cada uno. La cintura manda: hay semanas en que el peso no se mueve y ella sí.</p>
+    <div class="scroll" style="margin-top:14px">
+      <table>
+        <thead>
+          <tr><th>Momento</th><th>Fecha</th><th>Peso</th><th>Grasa</th><th>Cintura</th></tr>
+        </thead>
+        <tbody>
+          <tr class="now"><td>Hoy · día 1</td><td>12 ago</td><td>79.4 kg</td><td>22.9 %</td><td>95 cm</td></tr>
+          <tr><td>Checkpoint 30</td><td>11 sep</td><td>76.9 kg</td><td>20.4 %</td><td>91 cm</td></tr>
+          <tr><td>Checkpoint 60</td><td>11 oct</td><td>74.5 kg</td><td>17.8 %</td><td>88 cm</td></tr>
+          <tr><td>Checkpoint 90</td><td>10 nov</td><td>72.0 kg</td><td>15.0 %</td><td>85 cm</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </section>
+
+  <section class="card">
+    <h2>Presupuesto diario</h2>
+    <p class="note">1,800 kcal. Gasto estimado 2,347 kcal — déficit de 547 kcal (23 %).</p>
+    <div class="macro" style="margin-top:16px">
+      <div class="macrobar" role="img" aria-label="Reparto de 1800 kcal: proteína 640, carbohidratos 620, grasa 540">
+        <span class="m-p" style="width:35.6%"></span>
+        <span class="m-c" style="width:34.4%"></span>
+        <span class="m-g" style="width:30.0%"></span>
+      </div>
+      <div class="macrolegend">
+        <div><span class="dot m-p"></span>Proteína <b>160 g</b></div>
+        <div><span class="dot m-c"></span>Carbohidratos <b>155 g</b></div>
+        <div><span class="dot m-g"></span>Grasa <b>60 g</b></div>
+      </div>
+      <p class="note" style="margin-top:6px">La proteína es el único número no negociable: 2.0 g/kg es lo que separa perder grasa de perder músculo.</p>
+    </div>
+  </section>
+
+  <section class="card">
+    <h2>Las tres fases</h2>
+    <ol class="phases">
+      <li>
+        <div class="pnum">1</div>
+        <div>
+          <div class="ptitle">Adaptación <span class="pdays">· días 1–30</span></div>
+          <p class="pbody">Establecer el déficit y el hábito de registro. Terminar el Journey «Fuerza suprema» — quedan ~17 sesiones. No busques heroísmo, busca consistencia.</p>
+          <span class="ptarget">meta · 76.9 kg · cintura 91 cm</span>
+        </div>
+      </li>
+      <li>
+        <div class="pnum">2</div>
+        <div>
+          <div class="ptitle">Progresión <span class="pdays">· días 31–60</span></div>
+          <p class="pbody">El Journey actual termina cerca del día 35. Ahí se elige el siguiente con datos reales de cómo respondió tu cuerpo, y se recalibran las calorías.</p>
+          <span class="ptarget">meta · 74.5 kg · cintura 88 cm</span>
+        </div>
+      </li>
+      <li>
+        <div class="pnum">3</div>
+        <div>
+          <div class="ptitle">Definición <span class="pdays">· días 61–90</span></div>
+          <p class="pbody">La fase en que el cambio se vuelve visible, y también la más dura: el déficit acumulado se siente. Mantener las cargas es la prioridad.</p>
+          <span class="ptarget">meta · 72.0 kg · 15 % grasa</span>
+        </div>
+      </li>
+    </ol>
+  </section>
+
+  <section class="card">
+    <h2>No negociables</h2>
+    <ul class="rules" style="margin-top:14px">
+      <li><span class="tick">→</span><span><b>160 g de proteína al día.</b> Si algo falla, que no sea esto.</span></li>
+      <li><span class="tick">→</span><span><b>Tres sesiones de fuerza por semana.</b> Es lo que le dice a tu cuerpo que conserve el músculo.</span></li>
+      <li><span class="tick">→</span><span><b>Pésate a diario, mismas condiciones.</b> Boxer, pantaloneta y reloj — igual siempre, así el peso de la ropa se cancela.</span></li>
+      <li><span class="tick">→</span><span><b>Mide la cintura cada domingo.</b> Detecta el progreso que la báscula no ve.</span></li>
+      <li><span class="tick">→</span><span><b>Duerme 7 horas mínimo.</b> Con el mismo déficit, dormir mal cambia qué pierdes.</span></li>
+      <li><span class="tick">→</span><span><b>Registra los días malos.</b> Un mal día registrado es información; sin registrar es solo un hueco.</span></li>
+    </ul>
+  </section>
+
+  <section class="card">
+    <h2>Pendientes</h2>
+    <p class="note">Tres cosas abiertas antes de que el sistema quede completo.</p>
+    <ul class="rules" style="margin-top:14px">
+      <li><span class="pill warn">1</span><span>Habilitar <b>barra de dominadas</b> y <b>máquinas</b> en el equipamiento de Freeletics — hoy el Coach no te prescribe el mejor ejercicio de espalda que tienes.</span></li>
+      <li><span class="pill warn">2</span><span>Pasar los promedios del <b>Garmin</b> (pasos, sueño, FC en reposo) para afinar el gasto estimado.</span></li>
+      <li><span class="pill warn">3</span><span>Activar <b>Strava</b> en Freeletics y Garmin — solo sincroniza hacia adelante.</span></li>
+    </ul>
+  </section>
+
+  <footer>
+    <p>Grasa corporal estimada por el método US Navy (cintura, cuello, estatura). Metabolismo basal por Mifflin-St Jeor. El factor de actividad es una estimación y se recalibra en la semana 2 con la tendencia real de peso.</p>
+    <p>Esto no es consejo médico. Ante mareos, dolor persistente o pérdida sostenida mayor a 1 kg/semana, frena y consulta a un profesional.</p>
+  </footer>
+</div>
+
+<script>
+(function () {
+  const START = 79.4, DAYS = 90;
+  const RATE = 0.575 / 7, LO = 0.45 / 7, HI = 0.65 / 7;   // kg por día
+  const medidos = [{ d: 0, kg: 79.4 }];
+
+  const W = 720, H = 330, ML = 46, MR = 18, MT = 18, MB = 40;
+  const iw = W - ML - MR, ih = H - MT - MB;
+  const yMin = 70, yMax = 80;
+
+  const X = d => ML + (d / DAYS) * iw;
+  const Y = kg => MT + (yMax - kg) / (yMax - yMin) * ih;
+  const proj = (d, r) => START - r * d;
+
+  const svg = document.getElementById('chart');
+  const tip = document.getElementById('tip');
+  const NS = 'http://www.w3.org/2000/svg';
+  const el = (n, a) => { const e = document.createElementNS(NS, n); for (const k in a) e.setAttribute(k, a[k]); return e; };
+
+  // horizontal grid + y labels
+  for (let kg = yMin; kg <= yMax; kg += 2) {
+    svg.appendChild(el('line', { x1: ML, x2: W - MR, y1: Y(kg), y2: Y(kg), class: 'grid' }));
+    const t = el('text', { x: ML - 9, y: Y(kg) + 3.5, 'text-anchor': 'end', class: 'ax' });
+    t.textContent = kg;
+    svg.appendChild(t);
+  }
+  // x labels at month checkpoints
+  [[0, 'día 1'], [30, 'día 30'], [60, 'día 60'], [90, 'día 90']].forEach(([d, lab]) => {
+    svg.appendChild(el('line', { x1: X(d), x2: X(d), y1: MT, y2: MT + ih, class: 'grid' }));
+    const t = el('text', { x: X(d), y: MT + ih + 20, 'text-anchor': d === 0 ? 'start' : d === 90 ? 'end' : 'middle', class: 'ax' });
+    t.textContent = lab;
+    svg.appendChild(t);
+  });
+  svg.appendChild(el('line', { x1: ML, x2: W - MR, y1: MT + ih, y2: MT + ih, class: 'axis' }));
+
+  // sustainable corridor
+  const band = [];
+  for (let d = 0; d <= DAYS; d += 5) band.push(`${X(d)},${Y(proj(d, LO))}`);
+  for (let d = DAYS; d >= 0; d -= 5) band.push(`${X(d)},${Y(proj(d, HI))}`);
+  svg.appendChild(el('polygon', { points: band.join(' '), fill: 'var(--accent-band)', stroke: 'var(--accent-soft)', 'stroke-width': 1 }));
+
+  // target trajectory
+  svg.appendChild(el('line', {
+    x1: X(0), y1: Y(proj(0, RATE)), x2: X(DAYS), y2: Y(proj(DAYS, RATE)),
+    stroke: 'var(--accent)', 'stroke-width': 2, 'stroke-dasharray': '5 5', 'stroke-linecap': 'round', opacity: .8
+  }));
+
+  // checkpoint markers on the target line
+  [30, 60, 90].forEach(d => {
+    svg.appendChild(el('circle', { cx: X(d), cy: Y(proj(d, RATE)), r: 3.5, fill: 'var(--surface)', stroke: 'var(--accent)', 'stroke-width': 2 }));
+  });
+
+  // measured points (solid) — the real data
+  if (medidos.length > 1) {
+    svg.appendChild(el('polyline', {
+      points: medidos.map(p => `${X(p.d)},${Y(p.kg)}`).join(' '),
+      fill: 'none', stroke: 'var(--accent)', 'stroke-width': 2, 'stroke-linejoin': 'round'
+    }));
+  }
+  medidos.forEach(p => {
+    svg.appendChild(el('circle', { cx: X(p.d), cy: Y(p.kg), r: 5.5, fill: 'var(--accent)', stroke: 'var(--surface)', 'stroke-width': 2 }));
+  });
+
+  // label the endpoints, not every point
+  const lblStart = el('text', { x: X(0) + 12, y: Y(START) - 11, class: 'ax', 'font-size': 11.5, fill: 'var(--ink)' });
+  lblStart.textContent = '79.4 kg hoy';
+  svg.appendChild(lblStart);
+  const lblEnd = el('text', { x: X(DAYS) - 2, y: Y(72) + 22, 'text-anchor': 'end', class: 'ax', 'font-size': 11.5, fill: 'var(--ink)' });
+  lblEnd.textContent = '72.0 kg';
+  svg.appendChild(lblEnd);
+
+  // hover crosshair + tooltip
+  const hair = el('line', { y1: MT, y2: MT + ih, stroke: 'var(--accent)', 'stroke-width': 1, opacity: 0 });
+  svg.appendChild(hair);
+  const hit = el('rect', { x: ML, y: MT, width: iw, height: ih, fill: 'transparent', style: 'cursor:crosshair' });
+  svg.appendChild(hit);
+
+  function move(ev) {
+    const r = svg.getBoundingClientRect();
+    const cx = (ev.touches ? ev.touches[0].clientX : ev.clientX) - r.left;
+    const d = Math.max(0, Math.min(DAYS, Math.round(((cx / r.width * W) - ML) / iw * DAYS)));
+    const px = X(d);
+    hair.setAttribute('x1', px); hair.setAttribute('x2', px); hair.setAttribute('opacity', .35);
+    const real = medidos.find(p => p.d === d);
+    const sem = Math.floor(d / 7) + 1;
+    tip.innerHTML =
+      `<b>Día ${d}</b> <span class="lab">· semana ${sem}</span><br>` +
+      `<span class="lab">objetivo</span> <b>${proj(d, RATE).toFixed(1)} kg</b><br>` +
+      `<span class="lab">rango</span> ${proj(d, HI).toFixed(1)}–${proj(d, LO).toFixed(1)} kg` +
+      (real ? `<br><span class="lab">medido</span> <b>${real.kg.toFixed(1)} kg</b>` : '');
+    tip.style.left = (px / W * r.width) + 'px';
+    tip.style.top = (Y(proj(d, RATE)) / H * r.height - 12) + 'px';
+    tip.style.opacity = 1;
+  }
+  function leave() { tip.style.opacity = 0; hair.setAttribute('opacity', 0); }
+  hit.addEventListener('mousemove', move);
+  hit.addEventListener('mouseleave', leave);
+  hit.addEventListener('touchmove', function (e) { move(e); e.preventDefault(); }, { passive: false });
+  hit.addEventListener('touchend', leave);
+})();
+</script>
