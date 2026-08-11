@@ -53,12 +53,12 @@ Llegar a 12 % exigiría perder 9.9 kg, o sea 0.77 kg/semana. Es posible, pero re
 | Macro | Gramos | kcal | Por qué |
 |-------|--------|------|---------|
 | **Proteína** | **160 g** | 640 | 2.0 g/kg — protege tu masa magra en déficit. El número más importante del plan. |
-| Carbohidratos | 120 g | 480 | Frijoles y papa. Casi no comes arroz, y no hace falta. |
-| Grasa | 80 g | 720 | Ajustado a tu comida real: chicharrón y punta de anca. |
+| Carbohidratos | 145 g | 580 | Arepa de media tela dos veces al día, papa y frijoles. |
+| Grasa | 70 g | 630 | Queso, tocineta, chicharrón y aceite ya te dan de sobra. |
 
 **De dónde sale:** con tus pasos reales del Garmin (**9,618/día de promedio** — eres más activo de lo que asumí), tu gasto es ~2,450 kcal/día. El déficit es de ~600 kcal/día, un 24 %.
 
-El reparto de macros está armado alrededor de lo que ya comes, no de un plan genérico. El detalle está en [`nutricion.md`](nutricion.md).
+El reparto está armado para que tu comida real quepa dentro: **las arepas se quedan**. El detalle está en [`nutricion.md`](nutricion.md).
 
 ---
 

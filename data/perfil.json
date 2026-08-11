@@ -23,7 +23,10 @@
     "fc_reposo": 56,
     "dias_entrenamiento_semana": 3,
     "experiencia_entrenando": null,
-    "_fuente": "export Garmin Jul 15 - Ago 11 2026"
+    "_fuente": "export Garmin Jul 15 - Ago 11 2026",
+    "caminata_perro": "1-2 km diarios (ya incluido en los 9618 pasos)",
+    "hiit_preferido": "30s fuerte / 90s caminando x 10-15 reps",
+    "hiit_limite_fase1": "1 sesion/semana, nunca antes de fuerza, saltarla si durmio <6h"
   },
   "calculado": {
     "tmb_kcal": 1676,
@@ -33,8 +36,8 @@
     "deficit_pct": 24,
     "kcal_objetivo": 1850,
     "proteina_g": 160,
-    "carbohidratos_g": 120,
-    "grasa_g": 80,
+    "carbohidratos_g": 145,
+    "grasa_g": 70,
     "grasa_corporal_pct_estimada": 22.9,
     "masa_magra_kg": 61.2,
     "masa_grasa_kg": 18.2,
@@ -50,12 +53,19 @@
     "horario_entrenamiento": null,
     "alcohol_semanal": null,
     "alimentos_frecuentes": [
-      "chicharron (airfryer)",
-      "frijoles",
-      "punta de anca",
+      "arepa de media tela (2x/dia)",
+      "huevos",
+      "queso",
+      "tocineta",
       "pollo",
+      "res",
+      "cerdo",
+      "punta de anca",
+      "chicharron (airfryer)",
       "papa",
-      "huevos"
+      "frijoles",
+      "ensalada lechuga+tomate",
+      "burrito"
     ],
     "alimentos_poco_frecuentes": [
       "arroz",
@@ -64,10 +74,18 @@
     ],
     "agua_litros_dia": 1,
     "huecos_dieta": [
-      "verduras ausentes",
-      "agua 1L de 3L",
-      "fruta casi nula"
-    ]
+      "desayuno 730 kcal con solo 34g proteina",
+      "calorias liquidas: Milo ~233 kcal/dia",
+      "comida rapida de fin de semana borra el deficit semanal",
+      "agua 1L de 3L"
+    ],
+    "bebidas": [
+      "Milo en leche",
+      "jugo de naranja"
+    ],
+    "comida_rapida": "hamburguesa o perro con tocineta, fines de semana y a veces entre semana",
+    "verduras": "SI come - ensalada en el almuerzo (correccion del intake anterior)",
+    "estimacion_consumo_actual": "~2050 kcal/dia segun lo descrito; el peso estable sugiere ~2450 real (subestimacion tipica del 20-40%)"
   },
   "freeletics": {
     "_fuente": "capturas de pantalla del 2026-08-11",

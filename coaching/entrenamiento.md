@@ -81,20 +81,47 @@ Sé honesto ahí. Es lo único que le impide al Coach volar a ciegas.
 | Día | Sesión |
 |-----|--------|
 | Lunes | Freeletics — fuerza |
-| Martes | Freeletics |
-| Miércoles | Descanso o caminata |
-| Jueves | Freeletics — fuerza |
-| Viernes | Carrera fácil (zona 2) |
-| Sábado | Freeletics |
+| Martes | Caminata del perro |
+| Miércoles | Freeletics — fuerza |
+| Jueves | **Tu HIIT** (30 s / 90 s × 10–15) o carrera fácil |
+| Viernes | Freeletics — fuerza |
+| Sábado | Freeletics o carrera fácil |
 | Domingo | Descanso + check-in semanal |
 
-La distribución exacta la decide tu Coach según el Journey. Lo que sí quiero cuidar son dos cosas:
+La caminata del perro va todos los días, esté o no en la tabla.
 
-**Al menos 3 sesiones de fuerza por semana.** Es el mínimo para conservar músculo en déficit. Si tu Journey te está dando 2 o menos, hay que ajustar la frecuencia en los ajustes del Coach.
+La distribución exacta la decide tu Coach. Lo que sí quiero cuidar: **al menos 3 sesiones de fuerza por semana** — es el mínimo para conservar músculo en déficit. Si tu Journey te está dando 2 o menos, hay que subir la frecuencia en los ajustes del Coach.
 
-**Una carrera fácil, no intervalos.** Dijiste que te gusta correr, así que la conservamos. Pero a ritmo conversacional, en zona 2 según tu Garmin — deberías poder hablar sin quedarte sin aire. Los intervalos no hacen falta: Freeletics ya te da ese estímulo de sobra, y meterlos además solo gastaría recuperación que necesitas para la fuerza.
+**Prioridad cuando el tiempo aprieta:** primero la fuerza, luego el resto de Freeletics, al final el cardio.
 
-**Prioridad cuando el tiempo aprieta:** primero las sesiones de fuerza, luego el resto de Freeletics, al final la carrera.
+---
+
+## Cardio: la caminata, tu HIIT y la carrera
+
+### La caminata del perro — no la subestimes
+
+Ese 1–2 km diario ya está dentro de tus 9,618 pasos, y vale más de lo que parece. No es "solo caminar": es actividad diaria garantizada que **no depende de tu motivación**, porque el perro te obliga. En 90 días, un hábito que no requiere fuerza de voluntad vale más que uno que sí.
+
+Consérvalo tal cual. Y si algún día quieres sumar gasto, alargarlo es la forma más barata de hacerlo sin tocar la recuperación.
+
+### Tu HIIT (30 s fuerte / 90 s caminando × 10–15)
+
+El protocolo está bien: la relación 1:3 entre esfuerzo y recuperación está bien elegida, y 10–15 repeticiones es un volumen sensato. No hay nada que arreglarle.
+
+Lo único que hay que cuidar es **cuánto**, por dos razones concretas: ya haces "Fuerza HIIT" dentro de Freeletics, así que ese estímulo ya está en tu semana; y entras a un déficit de 600 kcal durmiendo 6 horas, o sea con la capacidad de recuperación reducida por los dos lados a la vez.
+
+**Reglas para la fase 1:**
+
+- **Máximo una sesión por semana**, además de lo que traiga Freeletics.
+- **Nunca el día antes de una sesión de fuerza.** El jueves es el hueco natural.
+- **Nunca en lugar de la fuerza.** El HIIT quema calorías; la fuerza protege tu músculo. Si solo alcanza para una, siempre la fuerza.
+- **Si dormiste menos de 6 horas, sáltatelo** y sal a caminar. Un HIIT sobre mal sueño suma fatiga sin sumar adaptación.
+
+Cuando el sueño esté estable en 7 h, subimos a dos por semana. Ese ajuste se gana con descanso, no con ganas.
+
+### Carrera fácil
+
+30–45 min a ritmo conversacional, zona 2 según el Garmin: deberías poder hablar sin quedarte sin aire. La mayoría corre esta sesión demasiado rápido, y eso arruina la recuperación para la fuerza sin quemar más grasa a cambio.
 
 ---
 

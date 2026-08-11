@@ -1,96 +1,120 @@
 # Nutrición
 
-**1,850 kcal · 160 g proteína · 120 g carbohidratos · 80 g grasa**
+**1,850 kcal · 160 g proteína · 145 g carbohidratos · 70 g grasa**
 
-Este reparto está armado alrededor de lo que **tú ya comes**: chicharrón, frijoles, punta de anca, pollo, papa y huevos. Poca harina, poco arroz, más grasa que un plan genérico. Un plan construido con comida que no te gusta se abandona en la semana 3.
-
----
-
-## Por qué estos números
-
-Con tus pasos reales del Garmin (**9,618 al día de promedio** — eres bastante más activo de lo que asumí), tu gasto sube a ~2,450 kcal. Eso te da **1,850 kcal en vez de las 1,800** que había calculado. Cincuenta calorías no cambian el resultado, pero sí me dejan darte un poco más de margen.
-
-El reparto de macros es lo que sí cambió de verdad:
-
-| Macro | Antes | Ahora | Por qué |
-|-------|-------|-------|---------|
-| Proteína | 160 g | **160 g** | No se toca. Es lo que protege tu músculo. |
-| Grasa | 60 g | **80 g** | Comes chicharrón y punta de anca. Cortes grasos con un presupuesto de grasa apretado es una receta para fallar. |
-| Carbohidratos | 155 g | **120 g** | Casi no comes arroz. Tus carbohidratos vienen de frijoles y papa, y con eso alcanza. |
-
-Es el mismo total calórico, repartido como realmente comes.
+Armado alrededor de lo que realmente comes: arepa de media tela, huevos, papa, proteína animal, frijoles y chicharrón. **Las arepas se quedan.** Un plan que te las quita se abandona en la semana 3, y no son el problema.
 
 ---
 
-## La proteína es el único número no negociable
+## Qué cambió al conocer tu dieta real
 
-De los tres macros, dos son flexibles y uno no.
+| Macro | Versión anterior | Ahora | Por qué |
+|-------|-----------------|-------|---------|
+| Proteína | 160 g | **160 g** | Nunca se toca. |
+| Carbohidratos | 120 g | **145 g** | Comes arepa dos veces al día. Con 120 g no cabían, y quitártelas sería pelear contra tu cultura alimentaria. |
+| Grasa | 80 g | **70 g** | El espacio sale de aquí. Tienes fuentes de grasa de sobra: queso, tocineta, chicharrón, aceite. |
 
-Estás en déficit. Tu cuerpo va a sacar energía de sus reservas — pero puede sacarla de la grasa **o del músculo**, y esa proporción la decides con dos señales: entrenar fuerza (lo cubre Freeletics) y comer suficiente proteína.
-
-Con 160 g y entrenamiento de fuerza, pierdes casi solo grasa y conservas tus 61 kg de masa magra. Con 80 g, bajas igual de rápido en la báscula pero una parte importante será músculo, y a los 90 días estarás más liviano con el mismo aspecto blando. Es la diferencia entre lograr el objetivo y no lograrlo.
-
-**Si un día tienes que fallar en algo, que no sea la proteína.**
-
----
-
-## Tus alimentos, en números
-
-| Alimento | Porción | kcal | Proteína | Grasa |
-|----------|---------|------|----------|-------|
-| Pechuga de pollo | 200 g | 330 | 62 g | 7 g |
-| Punta de anca | 150 g | 330 | 40 g | 18 g |
-| **Chicharrón (airfryer)** | 100 g | ~480 | 22 g | 42 g |
-| Huevo entero | 1 unidad | 78 | 6 g | 5 g |
-| Frijoles cocidos | 1 taza | 230 | 15 g | 1 g |
-| Papa cocida | 200 g | 170 | 4 g | 0 g |
-| Yogur griego natural | 170 g | 100 | 17 g | 0 g |
-
-**Sobre el chicharrón:** no lo voy a prohibir, porque te gusta y porque las prohibiciones se rompen. Pero mira el número — 100 g se llevan **la mitad de tu presupuesto de grasa del día** y una cuarta parte de las calorías, aportando solo 22 g de proteína.
-
-Cabe perfectamente **2 o 3 veces por semana** si el resto de ese día es magro: pollo, huevos, frijoles, verduras. Lo que no cabe es chicharrón diario. En airfryer ya ahorras la grasa añadida de la fritura, que es un buen punto de partida — pero la grasa del chicharrón es intrínseca al corte, no del aceite.
-
-Un truco práctico: en los días de chicharrón, que sea el plato de una sola comida y el resto del día proteína magra.
+Mismo total calórico, repartido para que tu comida de siempre quepa dentro.
 
 ---
 
-## Los tres huecos de tu alimentación
+## La cuenta que no cuadra — y por qué importa
 
-Mirando lo que me contaste, hay tres cosas ausentes. Ninguna es grave por separado; juntas van a hacer que 1,850 kcal se sientan mucho peor de lo que deberían.
+Estimando lo que me describiste: desayuno ~730 kcal, almuerzo ~650, cena ~600, con algo de comida rápida el fin de semana. Eso da un promedio de **~2,050 kcal al día**.
 
-### 1. Verduras — el hueco más importante
+Tu gasto es 2,450. Si esa estimación fuera exacta, ya estarías perdiendo casi 0.4 kg por semana sin hacer nada.
 
-No mencionaste ni una. Y en un déficit, **las verduras son la herramienta número uno contra el hambre**: 300 g de verduras son unas 60–80 kcal y llenan el estómago de verdad. Un plato de pollo con papa y ensalada grande sacia muchísimo más que el mismo pollo con papa solo, con casi la misma cuenta calórica.
+**No los estás perdiendo.** Y esa diferencia es, literalmente, el problema entero.
 
-Sin verduras, vas a pasar hambre innecesaria y el plan se va a sentir mucho más duro de lo que es.
+No es que me estés ocultando nada — es lo más normal del mundo, y está bien documentado: casi todo el mundo subestima su consumo real entre un 20 y un 40 %. La diferencia está en lo que no se ve al describir un día: el tamaño real de las porciones, el aceite de la cocina, la segunda arepa, la bebida que no se cuenta como comida, el picoteo mientras cocinas.
 
-**Meta: verduras en dos comidas al día.** No tienen que ser elaboradas — ensalada, verduras salteadas, o al vapor junto a la proteína.
-
-### 2. Agua — estás en un tercio de lo que necesitas
-
-1 litro al día es poco. La meta son **3 litros**.
-
-Y hay un detalle que te va a servir: en déficit, mucha gente confunde sed con hambre. Buena parte de los antojos de media tarde se resuelven con dos vasos de agua. Subir de 1 a 3 litros probablemente te quite más hambre que cualquier ajuste que yo haga a los macros.
-
-### 3. Fruta y fibra
-
-Casi no comes fruta. Los frijoles ayudan bastante con la fibra, así que no es una emergencia — pero suma micronutrientes y saciedad casi gratis. Con **una fruta al día** ya resuelves buena parte. No hace falta que te vuelvas fanático.
+**Esto es exactamente lo que van a destapar las fotos.** No es un ejercicio burocrático: es la única forma de ver la brecha entre lo que crees que comes y lo que comes. En dos semanas de registro vamos a saber dónde están esas 400 kcal, y ahí el plan deja de ser una hipótesis.
 
 ---
 
-## Un día ejemplo, con tu comida
+## Lo que ya haces bien
+
+Antes de tocar nada, tres cosas que están bien y no hay que cambiar:
+
+- **Tu almuerzo es correcto.** Proteína + papa + verduras es exactamente la estructura que quiero. No lo toques.
+- **Sí comes verduras.** Me habías dejado preocupado; retiro lo que dije. Ensalada con lechuga y tomate en el almuerzo ya es el hábito construido.
+- **Sacas a caminar al perro todos los días.** Ese 1–2 km diario ya está dentro de tus 9,618 pasos, y es un ancla de hábito excelente — no requiere motivación, el perro te obliga.
+
+---
+
+## Los tres arreglos, en orden de impacto
+
+### 1. El desayuno: mucha caloría, poca proteína
+
+Arepa + queso + 2 huevos + tocineta + Milo en leche ≈ **730 kcal con solo 34 g de proteína.**
+
+Eso es el **40 % de tu presupuesto diario a cambio del 21 % de tu proteína**. Es tu comida menos eficiente del día, con diferencia — y desayunar poca proteína también te deja con más hambre a media mañana.
+
+**El arreglo, sin quitarte la arepa:**
+
+| | Actual | Nuevo |
+|---|--------|-------|
+| Arepa media tela | ✅ se queda | ✅ se queda |
+| Loncha de queso | ✅ | ✅ |
+| Huevos | 2 | **4** |
+| Tocineta | 1 tira | ✅ |
+| Milo en leche / jugo | 233 / 110 kcal | **café solo, o leche sin Milo** |
+| **Total** | **730 kcal · 34 g P** | **~640 kcal · 46 g P** |
+
+Menos calorías y 12 g más de proteína, comiendo prácticamente lo mismo.
+
+**Sobre el Milo y el jugo de naranja:** son calorías líquidas — entran rápido, no sacian nada y desaparecen. El Milo son ~233 kcal diarias, unas 1,600 a la semana. El jugo de naranja tiene la mala fama inmerecida de ser "saludable": el azúcar es el mismo que el de una gaseosa, sin la fibra de la fruta entera. Cómete la naranja y toma agua.
+
+**Si extrañas el ritual del Milo:** un scoop de proteína en polvo con leche. Mismo vaso, misma costumbre, pero 24 g de proteína en vez de azúcar.
+
+### 2. El fin de semana: ahí se te va el déficit
+
+Este es el patrón más común que existe y probablemente el tuyo.
+
+Cinco días entre semana con un déficit de 300 kcal suman −1,500. Dos días de fin de semana con una hamburguesa o un perro con tocineta, más el resto de la comida del día, suman fácil +800 cada uno: **+1,600**.
+
+Resultado: el balance de la semana queda en cero. Comes bien de lunes a viernes, sientes que te esfuerzas, y la báscula no se mueve. No es tu metabolismo — es aritmética.
+
+**La solución no es prohibirlo.** Es planearlo:
+
+- **Una comida rápida por semana**, no dos. Elígela: hamburguesa o perro con tocineta.
+- **El día que toca, el resto es ligero.** Desayuno de 350 kcal (4 huevos + café, sin arepa) y almuerzo de 450 (proteína + ensalada grande, sin papa). Eso te deja **~1,000 kcal para la hamburguesa**, y cabe sin drama.
+- **Que sea una comida, no un día.** El problema rara vez es la hamburguesa; es la hamburguesa + papas + gaseosa + postre + el picoteo de después.
+
+Una comida rápida planificada por semana no frena nada. Dos no planificadas borran la semana entera.
+
+### 3. Las cenas: escoge mejor entre tus propias opciones
+
+Tus tres cenas habituales no son equivalentes:
+
+| Cena | kcal | Proteína | Veredicto |
+|------|------|----------|-----------|
+| **Arepa con carne** | ~500 | **44 g** | ⭐ La mejor. Que sea tu cena por defecto. |
+| Burrito | ~700 | ~30 g | Ocasional. Depende mucho de qué lleve. |
+| Arepa con chicharrón | ~680 | ~26 g | 1–2 veces por semana, no más. |
+
+La arepa con carne y la arepa con chicharrón se sienten igual de satisfactorias, pero una te da 44 g de proteína por 500 kcal y la otra 26 g por 680. Elegir la primera cuatro noches de la semana, en vez de la segunda, te ahorra 720 kcal y te suma 72 g de proteína — sin sentir que estás a dieta.
+
+**Y agrégales ensalada.** Ya la comes al almuerzo; llevarla también a la cena es el cambio más barato que tienes para llegar lleno sin sumar calorías.
+
+---
+
+## Tu día ejemplo, con tu comida
 
 | Comida | Qué | kcal | Proteína |
 |--------|-----|------|----------|
-| **Desayuno** | 3 huevos revueltos + 1/2 taza de frijoles + café | 350 | 26 g |
-| **Almuerzo** | 200 g de pollo + 200 g de papa + ensalada grande con aceite de oliva | 620 | 68 g |
-| **Merienda** | Yogur griego + 1 fruta | 180 | 17 g |
-| **Cena** | 150 g de punta de anca + verduras salteadas + 1/2 taza de frijoles | 545 | 51 g |
-| | **Total** | **1,695** | **162 g** |
+| **Desayuno** | Arepa media tela + 4 huevos + loncha de queso + café solo | 640 | 46 g |
+| **Almuerzo** | 200 g de pollo (o res/cerdo magro) + 150 g de papa + ensalada grande | 560 | 67 g |
+| **Cena** | Arepa media tela + 150 g de carne + ensalada | 500 | 44 g |
+| | **Total** | **1,700** | **157 g** |
 
-Quedan ~150 kcal de margen para aceite de cocina, un café con leche o un snack.
+Quedan ~150 kcal de margen para el aceite de cocina o un yogur griego si te da hambre en la noche.
 
-**Día con chicharrón:** cambia la cena por 100 g de chicharrón + ensalada grande + 1/2 taza de frijoles (~700 kcal, 32 g de proteína), y compensa subiendo la proteína del desayuno y el almuerzo — por ejemplo, 5 huevos en la mañana y 250 g de pollo al almuerzo.
+**Con dos arepas al día y sin quitarte nada.** Los cambios reales son: dos huevos más en el desayuno, fuera el Milo, y la cena de carne en vez de chicharrón. Eso es todo.
+
+**Día de chicharrón:** cambia la cena por arepa + 100 g de chicharrón + ensalada grande (~680 kcal, 26 g P), y compénsalo al almuerzo con 250 g de pollo en vez de 200. Dos veces por semana cabe.
+
+**Día de comida rápida:** desayuno de 4 huevos + café (350 kcal), almuerzo de proteína + ensalada sin papa (450), y la hamburguesa o el perro de noche (~900). Total ~1,700.
 
 ---
 
@@ -98,20 +122,20 @@ Quedan ~150 kcal de margen para aceite de cocina, un café con leche o un snack.
 
 **Proteína primero.** Arma cada plato empezando por la proteína, luego verduras, y al final el carbohidrato con lo que sobre.
 
-**Los carbohidratos, donde rinden.** Concentra la papa y los frijoles alrededor de tus sesiones de fuerza (lunes, miércoles, viernes). Rendirás mejor y mantendrás las cargas, que es la señal de que conservas músculo.
+**Un arepa por comida, no dos.** Si una arepa te deja con hambre, el problema no es la arepa — es que falta proteína o ensalada en ese plato.
 
-**Las calorías líquidas son el agujero negro.** Jugos, gaseosas, café con azúcar. Se van 400 kcal sin saciar nada. El café solo o con leche sin azúcar no es problema.
+**Los carbohidratos, donde rinden.** Concentra la papa y las arepas en los días de fuerza (lunes, miércoles, viernes).
 
-**Sobre el alcohol.** 7 kcal/g, casi como la grasa. Peor: frena la oxidación de grasas mientras se procesa y destroza el sueño profundo — que en tu caso es justo la palanca crítica. No lo prohíbo, pero cuenta doble contra ti. Si vas a beber, que sea un día planificado.
+**3 litros de agua.** Vas por 1. Buena parte de tus antojos de media tarde se resuelven ahí, porque en déficit se confunde sed con hambre.
 
-**Come fuera sin drama.** Proteína a la plancha, cambia la papa frita por ensalada, salsas aparte.
+**Sobre el alcohol.** 7 kcal/g, casi como la grasa. Frena la oxidación de grasas mientras se procesa y destroza el sueño profundo — que en tu caso es la palanca crítica. Si vas a beber, que sea un día planificado.
 
 ---
 
 ## Cómo registro tus comidas
 
-Mándame foto de cada plato. Yo identifico los alimentos, estimo porciones y calculo calorías y macros, y te devuelvo cuánto llevas del día y cuánta proteína te falta.
+Foto de cada plato. Identifico los alimentos, estimo porciones, calculo, y te digo cuánto llevas y cuánto te queda.
 
-La estimación por foto tiene un margen de ±15–20 %. No importa tanto como parece: el ajuste semanal corrige la desviación acumulada usando tu tendencia de peso, que es un dato objetivo. **Lo que sí importa es registrar todos los días**, incluidos los malos.
+La estimación tiene un margen de ±15–20 %, y el ajuste semanal corrige la desviación usando tu tendencia de peso, que es objetiva. **Lo que importa es registrar todos los días**, incluidos los malos.
 
-Un truco que mejora mucho la precisión: incluye algo de referencia de tamaño en la foto — un tenedor, tu mano, el plato completo. Estimar porciones sin escala es la mayor fuente de error.
+Un truco que mejora mucho la precisión: incluye algo de referencia de tamaño — un tenedor, tu mano, el plato completo. Estimar porciones sin escala es la mayor fuente de error, y en tu caso hay 400 kcal escondidas ahí que necesitamos encontrar.
