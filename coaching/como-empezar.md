@@ -61,22 +61,50 @@ Sirven para algo específico: si la cintura baja mientras brazo y muslo se manti
 
 ---
 
-## Paso 3 — Las fotos (5 min, opcionales)
+## Paso 3 — Las fotos de progreso
 
-Tres fotos: **frontal, lateral y de espalda**.
+Días 1, 30, 60 y 90. Son el registro más honesto de los 90 días, pero solo si se toman igual las cuatro veces.
 
-Cómo tomarlas para que la comparación sirva:
+### Las tres tomas
 
-- En la **mañana, en ayunas**, antes de entrenar o comer.
-- Con **la misma luz** siempre. Elige un lugar fijo — misma habitación, misma lámpara o misma ventana.
-- **Misma distancia y misma altura de cámara.** Marca dónde pones el teléfono y dónde te paras.
-- **Misma ropa** (ropa interior o shorts). De pie, relajado, brazos a los lados. **Sin posar y sin contraer.**
+**1. Frontal.** De frente, pies a la anchura de los hombros, **brazos colgando separados unos centímetros del cuerpo** — si los pegas al torso tapas la línea de la cintura, que es justo lo que medimos. Mirada al frente.
 
-Anota la hora y el lugar; los repetiremos exactamente igual en los días 30, 60 y 90.
+**2. Lateral.** Giras 90°, **siempre hacia el mismo lado**. Brazos colgando naturalmente o algo adelante para no tapar el abdomen.
 
-**Por qué tanto detalle:** los cambios corporales reales son lentos y sutiles. Una diferencia de iluminación o de postura puede simular un mes de progreso que no existió, o esconder uno que sí. Sin condiciones constantes, las fotos mienten en las dos direcciones.
+> Esta es la foto más importante para el objetivo: la grasa abdominal se ve de perfil mucho antes que de frente, y será la primera en mostrar que el plan funciona.
 
-Las fotos son opcionales y solo se guardan en el repositorio si tú lo autorizas explícitamente.
+**3. Espalda.** De espaldas, misma postura, brazos a los lados.
+
+### Relajado, siempre
+
+No metas la panza, no la saques, no contraigas nada. Respira normal y dispara **al final de una exhalación tranquila**.
+
+La tentación de contraer es natural, pero una foto contraída comparada con una relajada no vale nada — y peor, contraer **esconde el cambio real**. Queremos ver la diferencia, no una pose.
+
+### El montaje
+
+| | |
+|---|---|
+| **Altura de cámara** | A la altura del ombligo. Más alta o más baja distorsiona el torso y simula cambios. |
+| **Distancia** | ~2 m, cuerpo completo en el encuadre |
+| **Apoyo** | Repisa o silla + temporizador de 10 s |
+| **Marcas** | Cinta en el piso donde te paras y marca donde va el teléfono |
+| **Luz** | La misma siempre: misma habitación, misma lámpara o ventana, misma hora |
+| **Fondo** | Pared lisa |
+| **Ropa** | Solo boxer o pantaloneta, la misma las cuatro veces |
+| **Cuándo** | Mañana, en ayunas, después del baño, antes de entrenar |
+
+**Por qué tanto detalle:** los cambios reales son lentos y sutiles. Un cambio de iluminación o de ángulo puede simular un mes de progreso que no existió, o esconder uno que sí. Sin condiciones constantes las fotos mienten en las dos direcciones, y se pierde la mejor evidencia del proceso.
+
+Si la noche anterior hubo comida salada o mucha harina, se amanece algo hinchado y la foto sale peor. Es agua, no grasa — por eso se compara día 0 contra día 30, nunca una foto contra la del día anterior.
+
+### Dónde se guardan
+
+En un álbum del celular dedicado a esto. Se envían por el chat para el análisis, pero **no se suben al repositorio**: son personales y no tienen por qué quedar en un historial de versiones.
+
+### No las mires en el intermedio
+
+Revisarlas cada semana es la forma más rápida de no notar nada y frustrarse, porque el cambio diario es invisible. Guárdalas y no las abras hasta el día 30 — la comparación lado a lado a esa distancia es la que impacta.
 
 ---
 

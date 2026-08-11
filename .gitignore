@@ -1,0 +1,7 @@
+
+# Fotos de progreso: NO versionar
+data/fotos/
+*.jpg
+*.jpeg
+*.png
+*.heic
