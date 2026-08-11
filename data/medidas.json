@@ -1,5 +1,13 @@
 {
-  "_nota": "Medidas con cinta métrica, semanal (domingos) y en los checkpoints. La cintura es la métrica principal del objetivo.",
+  "_nota": "Medidas con cinta metrica, semanal (domingos) y en checkpoints. La cintura es la metrica principal.",
   "unidad": "cm",
-  "registros": []
+  "registros": [
+    {
+      "fecha": "2026-08-12",
+      "cintura": 95,
+      "cuello": 41,
+      "grasa_pct_us_navy": 22.9,
+      "ratio_cintura_estatura": 0.559
+    }
+  ]
 }

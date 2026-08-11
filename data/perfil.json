@@ -1,14 +1,14 @@
 {
   "_nota": "Intake en curso. Los valores en null están pendientes.",
-  "actualizado": "2026-08-11",
+  "actualizado": "2026-08-12",
   "basicos": {
     "nombre": null,
     "edad": 37,
     "sexo": "hombre",
     "estatura_cm": 170,
-    "peso_inicial_kg": null,
+    "peso_inicial_kg": 79.4,
     "objetivo": "reducir grasa abdominal y marcar el físico",
-    "peso_meta_kg": null
+    "peso_meta_kg": 72.0
   },
   "actividad": {
     "pasos_diarios_promedio": null,
@@ -18,17 +18,22 @@
     "experiencia_entrenando": null
   },
   "calculado": {
-    "_nota": "Pendiente del peso y la cintura matutinos. TMB por Mifflin-St Jeor: 10*peso + 6.25*170 - 5*37 + 5 = 10*peso + 882.5",
-    "tmb_kcal": null,
-    "factor_actividad": null,
-    "tdee_kcal": null,
-    "deficit_pct": null,
-    "kcal_objetivo": null,
-    "proteina_g": null,
-    "grasa_g": null,
-    "carbohidratos_g": null,
-    "grasa_corporal_pct_estimada": null,
-    "metodo_grasa": "US Navy (hombre: cintura, cuello, estatura)"
+    "tmb_kcal": 1676,
+    "factor_actividad": 1.4,
+    "factor_actividad_nota": "estimado; recalibrar con pasos Garmin y tendencia real de peso en semana 2",
+    "tdee_kcal": 2347,
+    "deficit_pct": 23,
+    "kcal_objetivo": 1800,
+    "proteina_g": 160,
+    "carbohidratos_g": 155,
+    "grasa_g": 60,
+    "grasa_corporal_pct_estimada": 22.9,
+    "masa_magra_kg": 61.2,
+    "masa_grasa_kg": 18.2,
+    "imc": 27.5,
+    "ratio_cintura_estatura": 0.559,
+    "metodo_grasa": "US Navy (hombre: cintura, cuello, estatura)",
+    "ritmo_objetivo_kg_semana": "0.55-0.6"
   },
   "contexto": {
     "suplementos_actuales": [],
@@ -40,13 +45,23 @@
   "freeletics": {
     "_fuente": "capturas de pantalla del 2026-08-11",
     "journey": "Fuerza suprema",
-    "journey_perfil": { "cardio": "1/3", "musculatura": "3/3" },
+    "journey_perfil": {
+      "cardio": "1/3",
+      "musculatura": "3/3"
+    },
     "journey_total_sesiones": 42,
     "journey_duracion_semanas": 12,
     "journey_progreso_pct": 60,
     "journey_fin_estimado": "~día 35 del plan de 90 días",
-    "dias_entrenamiento": ["lun", "mié", "vie"],
-    "actividades": ["Fuerza tradicional", "Fuerza HIIT"],
+    "dias_entrenamiento": [
+      "lun",
+      "mié",
+      "vie"
+    ],
+    "actividades": [
+      "Fuerza tradicional",
+      "Fuerza HIIT"
+    ],
     "duracion_workout_min": "30-45",
     "ejercicios_excluidos": "ninguno",
     "equipamiento_habilitado": [
@@ -78,9 +93,15 @@
     "carrera al aire libre"
   ],
   "fechas": {
-    "dia_1": null,
-    "checkpoint_30": null,
-    "checkpoint_60": null,
-    "checkpoint_90": null
+    "dia_1": "2026-08-12",
+    "checkpoint_30": "2026-09-11",
+    "checkpoint_60": "2026-10-11",
+    "checkpoint_90": "2026-11-10"
+  },
+  "objetivos_90_dias": {
+    "peso_kg": 72.0,
+    "grasa_pct": 15,
+    "cintura_cm": 85,
+    "masa_magra_kg": "61+ (conservar)"
   }
 }

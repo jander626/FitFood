@@ -1,5 +1,11 @@
 {
-  "_nota": "Peso matutino en ayunas. Un registro por día: {\"fecha\": \"AAAA-MM-DD\", \"kg\": 00.0}. El análisis usa la media móvil de 7 días, no los valores individuales.",
+  "_nota": "Peso matutino en ayunas, mismas condiciones (boxer, pantaloneta, reloj). El analisis usa media movil de 7 dias.",
   "unidad": "kg",
-  "registros": []
+  "registros": [
+    {
+      "fecha": "2026-08-12",
+      "kg": 79.4,
+      "condiciones": "ayunas, boxer+pantaloneta+reloj"
+    }
+  ]
 }
