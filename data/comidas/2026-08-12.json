@@ -1,0 +1,23 @@
+{
+  "fecha": "2026-08-12",
+  "dia_plan": 1,
+  "comidas": [
+    {
+      "momento": "desayuno",
+      "items": [
+        { "alimento": "arepa de media tela", "porcion_g": 100, "kcal": 200, "proteina_g": 4, "carbs_g": 42, "grasa_g": 2 },
+        { "alimento": "carne desmechada con sofrito", "porcion_g": 150, "kcal": 300, "proteina_g": 38, "carbs_g": 3, "grasa_g": 14 },
+        { "alimento": "aceite del sofrito", "porcion_g": 5, "kcal": 40, "proteina_g": 0, "carbs_g": 0, "grasa_g": 4 },
+        { "alimento": "agua", "kcal": 0, "proteina_g": 0, "carbs_g": 0, "grasa_g": 0 }
+      ],
+      "subtotal": { "kcal": 540, "proteina_g": 42, "carbs_g": 45, "grasa_g": 20 },
+      "confianza": "media-alta",
+      "origen": "foto",
+      "nota": "Sin calorias liquidas: tomo agua. Mejor ratio que el desayuno habitual (13 kcal por gramo de proteina vs 21). Candidato a plato por defecto."
+    }
+  ],
+  "totales": { "kcal": 540, "proteina_g": 42, "carbs_g": 45, "grasa_g": 20 },
+  "objetivo": { "kcal": 1850, "proteina_g": 160, "carbs_g": 145, "grasa_g": 70 },
+  "restante": { "kcal": 1310, "proteina_g": 118, "carbs_g": 100, "grasa_g": 50 },
+  "notas": "Primer registro del plan. El usuario elimino Milo/jugo del desayuno desde el dia 1."
+}
