@@ -27,10 +27,21 @@
       "confianza": "media",
       "origen": "foto",
       "nota": "Salsa casera con yogur griego en vez de crema/mayonesa: buena eleccion espontanea del usuario. Eligio salsa roja sobre mayonesa tras la recomendacion."
+    },
+    {
+      "momento": "cena",
+      "items": [
+        { "alimento": "empanada frita (pastel de pollo/carne)", "porcion_g": null, "kcal": 210, "proteina_g": 4.5, "carbs_g": 20, "grasa_g": 11 },
+        { "alimento": "empanada frita (pastel de pollo/carne)", "porcion_g": null, "kcal": 210, "proteina_g": 4.5, "carbs_g": 20, "grasa_g": 11 }
+      ],
+      "subtotal": { "kcal": 420, "proteina_g": 9, "carbs_g": 40, "grasa_g": 22 },
+      "confianza": "baja",
+      "origen": "estimado (usuario reporto en texto, comida callejera sin foto del plato final)",
+      "nota": "Comida improvisada en la calle. Baja en proteina, alta en grasa/carbohidrato por ser masa frita. Sin alternativas de proteina disponibles en el momento."
     }
   ],
-  "totales": { "kcal": 1425, "proteina_g": 127, "carbs_g": 113, "grasa_g": 45 },
+  "totales": { "kcal": 1845, "proteina_g": 136, "carbs_g": 153, "grasa_g": 67 },
   "objetivo": { "kcal": 1850, "proteina_g": 160, "carbs_g": 145, "grasa_g": 70 },
-  "restante": { "kcal": 425, "proteina_g": 33, "carbs_g": 32, "grasa_g": 25 },
-  "notas": "Primer registro del plan. El usuario elimino Milo/jugo del desayuno desde el dia 1. Va muy bien de proteina a mitad de dia."
+  "restante": { "kcal": 5, "proteina_g": 24, "carbs_g": -8, "grasa_g": 3 },
+  "notas": "Primer registro del plan. El usuario elimino Milo/jugo del desayuno desde el dia 1. Calorias del dia casi exactas al objetivo (1845 vs 1850). Proteina se quedo en 136g de 160g (-24g) por la cena improvisada en la calle -- normal en el dia 1, no requiere ajuste, solo observacion para el check-in semanal."
 }
