@@ -1,0 +1,61 @@
+{
+  "fecha": "2026-08-12",
+  "dia_plan": 1,
+  "comidas": [
+    {
+      "momento": "desayuno",
+      "items": [
+        {
+          "alimento": "arepa de media tela",
+          "porcion_g": 100,
+          "kcal": 200,
+          "proteina_g": 4,
+          "carbs_g": 42,
+          "grasa_g": 2
+        },
+        {
+          "alimento": "3 huevos",
+          "kcal": 220,
+          "proteina_g": 19,
+          "carbs_g": 2,
+          "grasa_g": 15
+        },
+        {
+          "alimento": "cafe con endulzante no calorico",
+          "kcal": 5,
+          "proteina_g": 0,
+          "carbs_g": 0,
+          "grasa_g": 0
+        }
+      ],
+      "subtotal": {
+        "kcal": 425,
+        "proteina_g": 23,
+        "carbs_g": 44,
+        "grasa_g": 17
+      },
+      "confianza": "media",
+      "origen": "reporte en texto",
+      "nota": "Cafe con endulzante en vez de Milo/azucar: sigue el ajuste recomendado."
+    }
+  ],
+  "totales": {
+    "kcal": 425,
+    "proteina_g": 23,
+    "carbs_g": 44,
+    "grasa_g": 17
+  },
+  "objetivo": {
+    "kcal": 1850,
+    "proteina_g": 160,
+    "carbs_g": 145,
+    "grasa_g": 70
+  },
+  "restante": {
+    "kcal": 1425,
+    "proteina_g": 137,
+    "carbs_g": 101,
+    "grasa_g": 53
+  },
+  "notas": "Dia 1 oficial del plan."
+}

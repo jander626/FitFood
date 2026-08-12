@@ -6,9 +6,10 @@
     "edad": 37,
     "sexo": "hombre",
     "estatura_cm": 170,
-    "peso_inicial_kg": 78.9,
     "objetivo": "reducir grasa abdominal y marcar el físico",
-    "peso_meta_kg": 72.0
+    "peso_meta_kg": 72.0,
+    "peso_linea_base_kg": 79.4,
+    "peso_dia_1_kg": 78.9
   },
   "actividad": {
     "pasos_diarios_promedio": 9618,
@@ -44,7 +45,8 @@
     "imc": 27.5,
     "ratio_cintura_estatura": 0.559,
     "metodo_grasa": "US Navy (hombre: cintura, cuello, estatura)",
-    "ritmo_objetivo_kg_semana": "0.55-0.6"
+    "ritmo_objetivo_kg_semana": "0.55-0.6",
+    "_nota_peso": "masa_magra/masa_grasa calculadas con peso_linea_base_kg (79.4, 11 ago) + grasa% de esa misma medicion. La curva de tendencia en el dashboard arranca en peso_dia_1_kg (78.9, 12 ago)."
   },
   "contexto": {
     "suplementos_actuales": [],
