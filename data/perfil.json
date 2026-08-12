@@ -1,12 +1,12 @@
 {
-  "_nota": "Intake COMPLETO. Dia 1 cerrado: peso, medidas y fotos registradas.",
+  "_nota": "El 11 ago fue el intake (fotos, medidas, primeras comidas, peso 79.4kg preliminar). El DIA 1 oficial es el 12 ago, con peso real 78.9kg y la primera sesion de Freeletics completada.",
   "actualizado": "2026-08-12",
   "basicos": {
     "nombre": null,
     "edad": 37,
     "sexo": "hombre",
     "estatura_cm": 170,
-    "peso_inicial_kg": 79.4,
+    "peso_inicial_kg": 78.9,
     "objetivo": "reducir grasa abdominal y marcar el físico",
     "peso_meta_kg": 72.0
   },
@@ -154,8 +154,8 @@
   "prioridad_1": "SUENO: de 6h03 a 7h minimo. Mayor palanca del plan.",
   "checkpoints_fotos": {
     "_nota": "Solo metadatos. Las fotos NO se versionan (ver .gitignore); viven en el album del celular del usuario.",
-    "dia_1": {
-      "fecha": "2026-08-12",
+    "linea_base": {
+      "fecha": "2026-08-11",
       "tomas": [
         "frontal",
         "lateral",
@@ -173,7 +173,8 @@
         "usar temporizador de 10s con telefono apoyado a la altura del ombligo, no selfie de espejo",
         "marcar con cinta la posicion de los pies y del telefono",
         "tomar con el telefono en vertical"
-      ]
+      ],
+      "nota": "Tomadas el dia del intake, un dia antes del inicio oficial del plan (dia 1 = 12 ago). Sirven como linea base para el checkpoint del dia 30."
     }
   }
 }

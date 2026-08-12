@@ -256,7 +256,7 @@
   <section class="stats">
     <div class="card stat">
       <div class="k">Peso</div>
-      <div class="v">79.4<small> kg</small></div>
+      <div class="v">78.9<small> kg</small></div>
       <div class="d">Meta día 90 · 72.0 kg</div>
     </div>
     <div class="card stat">
@@ -283,7 +283,7 @@
         <p class="note">La banda es el rango sostenible: 0.45–0.65 kg por semana. Salirse por debajo significa ajustar; salirse por arriba cuesta músculo.</p>
       </div>
       <div class="chartbox">
-        <svg id="chart" viewBox="0 0 720 330" role="img" aria-label="Proyección de peso de 79.4 kg a 72.0 kg en 90 días, con banda sostenible entre 0.45 y 0.65 kg por semana."></svg>
+        <svg id="chart" viewBox="0 0 720 330" role="img" aria-label="Proyección de peso de 78.9 kg a 72.0 kg en 90 días, con banda sostenible entre 0.45 y 0.65 kg por semana."></svg>
         <div id="tip" aria-hidden="true"></div>
       </div>
       <div class="keys">
@@ -303,7 +303,7 @@
           <tr><th>Momento</th><th>Fecha</th><th>Peso</th><th>Grasa</th><th>Cintura</th></tr>
         </thead>
         <tbody>
-          <tr class="now"><td>Hoy · día 1</td><td>12 ago</td><td>79.4 kg</td><td>22.9 %</td><td>95 cm</td></tr>
+          <tr class="now"><td>Hoy · día 1</td><td>12 ago</td><td>78.9 kg</td><td>22.9 %</td><td>95 cm</td></tr>
           <tr><td>Checkpoint 30</td><td>11 sep</td><td>76.9 kg</td><td>20.4 %</td><td>91 cm</td></tr>
           <tr><td>Checkpoint 60</td><td>11 oct</td><td>74.5 kg</td><td>17.8 %</td><td>88 cm</td></tr>
           <tr><td>Checkpoint 90</td><td>10 nov</td><td>72.0 kg</td><td>15.0 %</td><td>85 cm</td></tr>
@@ -430,9 +430,9 @@
 
 <script>
 (function () {
-  const START = 79.4, DAYS = 90;
+  const START = 78.9, DAYS = 90;
   const RATE = 0.575 / 7, LO = 0.45 / 7, HI = 0.65 / 7;   // kg por día
-  const medidos = [{ d: 0, kg: 79.4 }];
+  const medidos = [{ d: 0, kg: 78.9 }];
 
   const W = 720, H = 330, ML = 46, MR = 18, MT = 18, MB = 40;
   const iw = W - ML - MR, ih = H - MT - MB;
@@ -493,7 +493,7 @@
 
   // label the endpoints, not every point
   const lblStart = el('text', { x: X(0) + 12, y: Y(START) - 11, class: 'ax', 'font-size': 11.5, fill: 'var(--ink)' });
-  lblStart.textContent = '79.4 kg hoy';
+  lblStart.textContent = '78.9 kg hoy';
   svg.appendChild(lblStart);
   const lblEnd = el('text', { x: X(DAYS) - 2, y: Y(72) + 22, 'text-anchor': 'end', class: 'ax', 'font-size': 11.5, fill: 'var(--ink)' });
   lblEnd.textContent = '72.0 kg';

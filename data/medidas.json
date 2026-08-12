@@ -3,11 +3,12 @@
   "unidad": "cm",
   "registros": [
     {
-      "fecha": "2026-08-12",
+      "fecha": "2026-08-11",
       "cintura": 95,
       "cuello": 41,
       "grasa_pct_us_navy": 22.9,
-      "ratio_cintura_estatura": 0.559
+      "ratio_cintura_estatura": 0.559,
+      "nota": "Medicion del intake, un dia antes del inicio oficial (dia 1 = 12 ago). Sirve como linea base; siguiente medicion el domingo."
     }
   ]
 }

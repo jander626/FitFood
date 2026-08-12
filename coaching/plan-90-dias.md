@@ -1,6 +1,6 @@
 # Plan de 90 días
 
-**Punto de partida:** hombre, 37 años, 170 cm, 79.4 kg
+**Punto de partida:** hombre, 37 años, 170 cm, 78.9 kg (día 1 oficial, 12 de agosto)
 **Objetivo:** reducir grasa abdominal y marcar el físico
 
 > Esto no es consejo médico. Es un plan basado en evidencia con datos tuyos. Ante mareos, dolor persistente o pérdida sostenida mayor a 1 kg/semana, hay que frenar y consultar a un profesional.
@@ -11,7 +11,7 @@
 
 | Métrica | Valor | Lectura |
 |---------|-------|---------|
-| Peso | 79.4 kg | Punto de partida |
+| Peso | 78.9 kg | Punto de partida (día 1, 12 ago) |
 | Grasa corporal (US Navy) | **22.9 %** | Rango medio-alto para hombre |
 | Masa magra | **61.2 kg** | Buena base — ya tienes músculo construido |
 | Masa grasa | 18.2 kg | Esto es lo que sobra |

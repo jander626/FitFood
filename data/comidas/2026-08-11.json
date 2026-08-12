@@ -1,0 +1,145 @@
+{
+  "fecha": "2026-08-11",
+  "dia_plan": "pre-plan (intake, un dia antes del dia 1 oficial)",
+  "comidas": [
+    {
+      "momento": "desayuno",
+      "items": [
+        {
+          "alimento": "arepa de media tela",
+          "porcion_g": 100,
+          "kcal": 200,
+          "proteina_g": 4,
+          "carbs_g": 42,
+          "grasa_g": 2
+        },
+        {
+          "alimento": "carne desmechada con sofrito",
+          "porcion_g": 150,
+          "kcal": 300,
+          "proteina_g": 38,
+          "carbs_g": 3,
+          "grasa_g": 14
+        },
+        {
+          "alimento": "aceite del sofrito",
+          "porcion_g": 5,
+          "kcal": 40,
+          "proteina_g": 0,
+          "carbs_g": 0,
+          "grasa_g": 4
+        },
+        {
+          "alimento": "agua",
+          "kcal": 0,
+          "proteina_g": 0,
+          "carbs_g": 0,
+          "grasa_g": 0
+        }
+      ],
+      "subtotal": {
+        "kcal": 540,
+        "proteina_g": 42,
+        "carbs_g": 45,
+        "grasa_g": 20
+      },
+      "confianza": "media-alta",
+      "origen": "foto",
+      "nota": "Sin calorias liquidas: tomo agua. Mejor ratio que el desayuno habitual (13 kcal por gramo de proteina vs 21). Candidato a plato por defecto."
+    },
+    {
+      "momento": "almuerzo",
+      "items": [
+        {
+          "alimento": "pollo con salsa de yogur griego, queso, pina y pimenton",
+          "porcion_g": 230,
+          "kcal": 530,
+          "proteina_g": 80,
+          "carbs_g": 10,
+          "grasa_g": 16
+        },
+        {
+          "alimento": "papas airfryer",
+          "porcion_g": 150,
+          "kcal": 280,
+          "proteina_g": 4,
+          "carbs_g": 42,
+          "grasa_g": 9
+        },
+        {
+          "alimento": "ensalada (lechuga, zanahoria, pimenton amarillo)",
+          "porcion_g": 80,
+          "kcal": 40,
+          "proteina_g": 1,
+          "carbs_g": 8,
+          "grasa_g": 0
+        },
+        {
+          "alimento": "salsa roja (2 cucharadas)",
+          "kcal": 35,
+          "proteina_g": 0,
+          "carbs_g": 8,
+          "grasa_g": 0
+        }
+      ],
+      "subtotal": {
+        "kcal": 885,
+        "proteina_g": 85,
+        "carbs_g": 68,
+        "grasa_g": 25
+      },
+      "confianza": "media",
+      "origen": "foto",
+      "nota": "Salsa casera con yogur griego en vez de crema/mayonesa: buena eleccion espontanea del usuario. Eligio salsa roja sobre mayonesa tras la recomendacion."
+    },
+    {
+      "momento": "cena",
+      "items": [
+        {
+          "alimento": "empanada frita (pastel de pollo/carne)",
+          "porcion_g": null,
+          "kcal": 210,
+          "proteina_g": 4.5,
+          "carbs_g": 20,
+          "grasa_g": 11
+        },
+        {
+          "alimento": "empanada frita (pastel de pollo/carne)",
+          "porcion_g": null,
+          "kcal": 210,
+          "proteina_g": 4.5,
+          "carbs_g": 20,
+          "grasa_g": 11
+        }
+      ],
+      "subtotal": {
+        "kcal": 420,
+        "proteina_g": 9,
+        "carbs_g": 40,
+        "grasa_g": 22
+      },
+      "confianza": "baja",
+      "origen": "estimado (usuario reporto en texto, comida callejera sin foto del plato final)",
+      "nota": "Comida improvisada en la calle. Baja en proteina, alta en grasa/carbohidrato por ser masa frita. Sin alternativas de proteina disponibles en el momento."
+    }
+  ],
+  "totales": {
+    "kcal": 1845,
+    "proteina_g": 136,
+    "carbs_g": 153,
+    "grasa_g": 67
+  },
+  "objetivo": {
+    "kcal": 1850,
+    "proteina_g": 160,
+    "carbs_g": 145,
+    "grasa_g": 70
+  },
+  "restante": {
+    "kcal": 5,
+    "proteina_g": 24,
+    "carbs_g": -8,
+    "grasa_g": 3
+  },
+  "notas": "Primer registro del plan. El usuario elimino Milo/jugo del desayuno desde el dia 1. Calorias del dia casi exactas al objetivo (1845 vs 1850). Proteina se quedo en 136g de 160g (-24g) por la cena improvisada en la calle -- normal en el dia 1, no requiere ajuste, solo observacion para el check-in semanal."
+}

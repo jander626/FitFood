@@ -1,4 +1,46 @@
 {
   "_nota": "Sesiones realizadas. Cada registro: {\"fecha\", \"tipo\": \"fuerza|carrera\", \"sesion\": \"A|B|C|D\", \"ejercicios\": [{\"nombre\", \"peso_kg\", \"series\", \"reps\"}], \"rpe\", \"notas\"}. Para carrera: {\"km\", \"min\", \"fc_media\"}.",
-  "registros": []
+  "registros": [
+    {
+      "fecha": "2026-08-12",
+      "dia_plan": 1,
+      "tipo": "fuerza",
+      "fuente": "Freeletics (Fuerza HIIT)",
+      "ejercicios": [
+        {
+          "nombre": "Single Arm Chest Press (multifuncional)",
+          "peso_kg": 20,
+          "series": 3,
+          "reps": 12
+        },
+        {
+          "nombre": "Gym Ball Hip Thrusts",
+          "series": 3,
+          "reps": 10
+        },
+        {
+          "nombre": "Gym Ball Pushups",
+          "series": 3,
+          "reps": 12
+        },
+        {
+          "nombre": "Shrimp Squats",
+          "series": 3,
+          "reps": 16
+        },
+        {
+          "nombre": "Dumbbell Front Raise",
+          "peso_kg": 7.5,
+          "series": 1,
+          "reps": 22
+        },
+        {
+          "nombre": "High Jumps / Speed Skaters / Knee Jumps",
+          "notas": "bloques pliometricos de calentamiento y HIIT accesorio"
+        }
+      ],
+      "rpe": "nivel medio (feedback del usuario: se sintio bien)",
+      "notas": "Primera sesion oficial del plan. Cargas base para seguimiento: press multifuncional 20kg, front raise mancuerna 7.5kg."
+    }
+  ]
 }

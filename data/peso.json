@@ -3,9 +3,16 @@
   "unidad": "kg",
   "registros": [
     {
-      "fecha": "2026-08-12",
+      "fecha": "2026-08-11",
       "kg": 79.4,
-      "condiciones": "ayunas, boxer+pantaloneta+reloj"
+      "condiciones": "ayunas, boxer+pantaloneta+reloj",
+      "nota": "medicion preliminar del intake, un dia antes del inicio oficial"
+    },
+    {
+      "fecha": "2026-08-12",
+      "kg": 78.9,
+      "condiciones": "ayunas, boxer+pantaloneta+reloj",
+      "nota": "DIA 1 oficial del plan"
     }
   ]
 }
