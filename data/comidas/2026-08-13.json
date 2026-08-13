@@ -37,13 +37,72 @@
       "confianza": "media",
       "origen": "foto",
       "nota": "Buena mejora de proteina respecto al desayuno del dia 1 (23g). Sin calorias liquidas."
+    },
+    {
+      "momento": "almuerzo",
+      "items": [
+        {
+          "alimento": "costilla al horno con salsa BBQ",
+          "porcion_g": 220,
+          "kcal": 695,
+          "proteina_g": 36,
+          "carbs_g": 33,
+          "grasa_g": 44
+        },
+        {
+          "alimento": "ensalada (lechuga, zanahoria, mango, tomate cherry)",
+          "porcion_g": 120,
+          "kcal": 0,
+          "proteina_g": 0,
+          "carbs_g": 0,
+          "grasa_g": 0,
+          "nota": "incluido en el total de la costilla arriba"
+        }
+      ],
+      "subtotal": {
+        "kcal": 695,
+        "proteina_g": 36,
+        "carbs_g": 33,
+        "grasa_g": 44
+      },
+      "confianza": "media",
+      "origen": "foto",
+      "nota": "Costilla es corte muy graso -- consumio casi todo el presupuesto de grasa del dia de una sola comida."
+    },
+    {
+      "momento": "postre",
+      "items": [
+        {
+          "alimento": "mazamorra con leche",
+          "kcal": 250,
+          "proteina_g": 9,
+          "carbs_g": 38,
+          "grasa_g": 7
+        },
+        {
+          "alimento": "bocadillo de guayaba",
+          "porcion_g": 30,
+          "kcal": 85,
+          "proteina_g": 0,
+          "carbs_g": 21,
+          "grasa_g": 0
+        }
+      ],
+      "subtotal": {
+        "kcal": 335,
+        "proteina_g": 9,
+        "carbs_g": 59,
+        "grasa_g": 7
+      },
+      "confianza": "media",
+      "origen": "reporte en texto"
     }
   ],
   "totales": {
-    "kcal": 570,
-    "proteina_g": 31,
-    "carbs_g": 50,
-    "grasa_g": 25
+    "kcal": 1600,
+    "proteina_g": 76,
+    "carbs_g": 142,
+    "grasa_g": 76
   },
   "objetivo": {
     "kcal": 1850,
@@ -52,10 +111,10 @@
     "grasa_g": 70
   },
   "restante": {
-    "kcal": 1280,
-    "proteina_g": 129,
-    "carbs_g": 95,
-    "grasa_g": 45
+    "kcal": 250,
+    "proteina_g": 84,
+    "carbs_g": 3,
+    "grasa_g": -6
   },
-  "notas": "Dia 2 del plan. Jueves: toca carrera facil, no HIIT propio (dia antes de fuerza del viernes)."
+  "notas": "Almuerzo (costilla grasa) + postre dulce consumieron casi todo el presupuesto de grasa y carbohidrato del dia, dejando muy poco margen (250kcal) para llegar a 160g de proteina. Se recomendo priorizar proteina en la cena (pollo/pescado magro) aunque el dia cierre unas 150-200kcal por encima del objetivo."
 }
