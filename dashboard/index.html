@@ -186,6 +186,21 @@
   tbody td:first-child { font-family: var(--sans); }
   tbody tr:last-child td { border-bottom: 0; }
   tr.now td { background: var(--accent-soft); }
+  tbody tr[data-day] { cursor: pointer; }
+  tbody tr[data-day]:hover td { background: var(--hairline-soft); }
+  tbody tr[data-day].sel td { background: var(--accent-soft); }
+  .protpill {
+    display: inline-block; font-family: var(--mono); font-size: 11px; font-weight: 600;
+    padding: 2px 7px; border-radius: 20px; margin-left: 6px;
+  }
+
+  /* --- food log detail --- */
+  .fl-day { margin-top: 16px; padding-top: 14px; border-top: 1px solid var(--hairline); }
+  .fl-meal { display: flex; justify-content: space-between; gap: 12px; padding: 8px 0; border-bottom: 1px solid var(--hairline-soft); font-size: 13.5px; }
+  .fl-meal:last-child { border-bottom: 0; }
+  .fl-meal .fl-items { color: var(--ink-2); }
+  .fl-meal .fl-momento { font-family: var(--mono); font-size: 10.5px; letter-spacing: .08em; text-transform: uppercase; color: var(--muted); display: block; margin-bottom: 2px; }
+  .fl-meal .fl-macros { font-family: var(--mono); font-variant-numeric: tabular-nums; white-space: nowrap; color: var(--ink); }
 
   /* --- macro bar --- */
   .macro { display: flex; flex-direction: column; gap: 9px; }
@@ -330,6 +345,40 @@
     </div>
   </section>
 
+  <section class="card" id="tips-card">
+    <h2>Tips de la semana</h2>
+    <p class="note">Se actualiza cada domingo en el check-in semanal — observaciones concretas de tus propios datos, no genéricas.</p>
+    <div id="tips-content" style="margin-top:14px; display:flex; flex-direction:column; gap:10px">
+      <p class="note">Aún no hay una semana completa de datos. El primer análisis llega el <b>domingo 16 de agosto</b>.</p>
+    </div>
+  </section>
+
+  <section class="card">
+    <h2>Balance calórico</h2>
+    <p class="note">Barra = calorías consumidas ese día. La línea punteada de arriba es tu gasto estimado; la de abajo, tu objetivo. El espacio entre la barra y el gasto es el déficit real que lograste.</p>
+    <div class="chartbox" style="margin-top:14px">
+      <svg id="balance-chart" viewBox="0 0 720 260" role="img" aria-label="Calorías consumidas por día comparadas con el gasto estimado y el objetivo diario."></svg>
+      <div id="balance-tip" aria-hidden="true"></div>
+    </div>
+    <div class="keys">
+      <div class="key"><span style="display:inline-block;width:14px;height:14px;border-radius:3px;background:var(--accent)"></span>Consumidas</div>
+      <div class="key"><span class="swatch dash"></span>Objetivo (<span id="bal-obj-label"></span>)</div>
+      <div class="key"><span style="display:inline-block;width:22px;border-top:2px dotted var(--muted)"></span>Gasto estimado (<span id="bal-tdee-label"></span>)</div>
+    </div>
+  </section>
+
+  <section class="card">
+    <h2>Registro diario</h2>
+    <p class="note">Toca un día para ver el detalle de cada comida.</p>
+    <div class="scroll" style="margin-top:14px">
+      <table>
+        <thead><tr><th>Día</th><th>kcal</th><th>Proteína</th><th>Carbos</th><th>Grasa</th></tr></thead>
+        <tbody id="foodlog-body"></tbody>
+      </table>
+    </div>
+    <div id="foodlog-detail"></div>
+  </section>
+
   <section class="card">
     <h2>Los tres arreglos de la comida</h2>
     <p class="note">Ordenados por impacto. Ninguno te quita un alimento.</p>
@@ -428,6 +477,202 @@
   </footer>
 </div>
 
+<script id="fitfood-data">window.FITFOOD_DATA = {
+  "objetivo": {
+    "kcal": 1850,
+    "tdee": 2450,
+    "proteina": 160,
+    "carbs": 145,
+    "grasa": 70
+  },
+  "dias": [
+    {
+      "fecha": "2026-08-12",
+      "dia_plan": 1,
+      "kcal": 1810,
+      "proteina": 142,
+      "carbs": 142,
+      "grasa": 72,
+      "gasto_estimado": 2450,
+      "deficit_real": 640,
+      "peso": 78.9,
+      "entreno": true,
+      "comidas": [
+        {
+          "momento": "desayuno",
+          "items": [
+            "arepa de media tela",
+            "3 huevos",
+            "cafe con endulzante no calorico"
+          ],
+          "kcal": 425,
+          "proteina": 23
+        },
+        {
+          "momento": "almuerzo",
+          "items": [
+            "rollo de pollo con tocineta, relleno de piña y queso",
+            "salsa de ciruelas",
+            "pure de papa",
+            "ensalada de zanahoria con pasas y mango",
+            "te Hatsu blanco (medio vaso)"
+          ],
+          "kcal": 900,
+          "proteina": 60
+        },
+        {
+          "momento": "cena",
+          "items": [
+            "bistec de res (solomo/punta de anca)",
+            "pico de gallo (tomate, cebolla, cilantro)",
+            "agua"
+          ],
+          "kcal": 485,
+          "proteina": 59
+        }
+      ]
+    },
+    {
+      "fecha": "2026-08-13",
+      "dia_plan": 2,
+      "kcal": 1600,
+      "proteina": 76,
+      "carbs": 142,
+      "grasa": 76,
+      "gasto_estimado": 2450,
+      "deficit_real": 850,
+      "peso": 78.7,
+      "entreno": false,
+      "comidas": [
+        {
+          "momento": "desayuno",
+          "items": [
+            "arepa de media tela",
+            "4 huevos con tomate y cebolla",
+            "cafe con endulzante no calorico"
+          ],
+          "kcal": 570,
+          "proteina": 31
+        },
+        {
+          "momento": "almuerzo",
+          "items": [
+            "costilla al horno con salsa BBQ",
+            "ensalada (lechuga, zanahoria, mango, tomate cherry)"
+          ],
+          "kcal": 695,
+          "proteina": 36
+        },
+        {
+          "momento": "postre",
+          "items": [
+            "mazamorra con leche",
+            "bocadillo de guayaba"
+          ],
+          "kcal": 335,
+          "proteina": 9
+        }
+      ]
+    }
+  ]
+};</script>
+<script>
+(function () {
+  // ===== Registro diario + Balance calórico, desde window.FITFOOD_DATA =====
+  const DATA = window.FITFOOD_DATA;
+  if (DATA && DATA.dias && DATA.dias.length) {
+    const fmt = n => new Intl.NumberFormat('es-CO').format(Math.round(n));
+    const fechaCorta = f => {
+      const [y, m, d] = f.split('-');
+      const meses = ['ene','feb','mar','abr','may','jun','jul','ago','sep','oct','nov','dic'];
+      return `${parseInt(d)} ${meses[parseInt(m) - 1]}`;
+    };
+    const dias = [...DATA.dias].sort((a, b) => b.fecha.localeCompare(a.fecha));
+
+    // --- tabla registro diario ---
+    const body = document.getElementById('foodlog-body');
+    dias.forEach((d, i) => {
+      const tr = document.createElement('tr');
+      tr.dataset.day = d.fecha;
+      const protPct = d.proteina / DATA.objetivo.proteina;
+      const protColor = protPct >= 0.9 ? 'good' : 'warn';
+      tr.innerHTML = `
+        <td>Día ${d.dia_plan} · ${fechaCorta(d.fecha)}</td>
+        <td>${fmt(d.kcal)}</td>
+        <td>${fmt(d.proteina)} g<span class="protpill" style="background:var(--${protColor}-bg);color:var(--${protColor})">${Math.round(protPct * 100)}%</span></td>
+        <td>${fmt(d.carbs)} g</td>
+        <td>${fmt(d.grasa)} g</td>`;
+      tr.addEventListener('click', () => selectDay(d.fecha));
+      body.appendChild(tr);
+    });
+
+    const detailEl = document.getElementById('foodlog-detail');
+    function selectDay(fecha) {
+      [...body.children].forEach(tr => tr.classList.toggle('sel', tr.dataset.day === fecha));
+      const d = dias.find(x => x.fecha === fecha);
+      if (!d) { detailEl.innerHTML = ''; return; }
+      detailEl.innerHTML = `<div class="fl-day"><div class="note" style="margin-bottom:4px">Día ${d.dia_plan} · ${fechaCorta(d.fecha)}${d.peso ? ` · ${d.peso} kg` : ''}${d.entreno ? ' · 💪 entreno' : ''}</div>` +
+        d.comidas.map(c => `
+          <div class="fl-meal">
+            <div><span class="fl-momento">${c.momento}</span><span class="fl-items">${c.items.join(', ')}</span></div>
+            <div class="fl-macros">${fmt(c.kcal)} kcal · ${fmt(c.proteina)}g P</div>
+          </div>`).join('') + `</div>`;
+    }
+    if (dias.length) selectDay(dias[0].fecha);
+
+    // --- balance calorico chart ---
+    document.getElementById('bal-obj-label').textContent = fmt(DATA.objetivo.kcal);
+    document.getElementById('bal-tdee-label').textContent = fmt(DATA.objetivo.tdee);
+
+    const bSvg = document.getElementById('balance-chart');
+    const bTip = document.getElementById('balance-tip');
+    const NS2 = 'http://www.w3.org/2000/svg';
+    const bel = (n, a) => { const e = document.createElementNS(NS2, n); for (const k in a) e.setAttribute(k, a[k]); return e; };
+
+    const asc = [...DATA.dias].sort((a, b) => a.fecha.localeCompare(b.fecha));
+    const n = asc.length;
+    const barW = 46, gap = 22;
+    const bML = 46, bMR = 18, bMT = 18, bMB = 40;
+    const bW = Math.max(720, bML + bMR + n * (barW + gap));
+    const bH = 260;
+    const biw = bW - bML - bMR, bih = bH - bMT - bMB;
+    const yMax = Math.max(DATA.objetivo.tdee, ...asc.map(d => d.kcal)) * 1.08;
+    bSvg.setAttribute('viewBox', `0 0 ${bW} ${bH}`);
+    const bY = kcal => bMT + (1 - kcal / yMax) * bih;
+    const bX = i => bML + i * (barW + gap) + gap / 2;
+
+    for (let k = 0; k <= yMax; k += 500) {
+      bSvg.appendChild(bel('line', { x1: bML, x2: bW - bMR, y1: bY(k), y2: bY(k), class: 'grid' }));
+      const t = bel('text', { x: bML - 9, y: bY(k) + 3.5, 'text-anchor': 'end', class: 'ax' });
+      t.textContent = fmt(k);
+      bSvg.appendChild(t);
+    }
+    bSvg.appendChild(bel('line', { x1: bML, x2: bW - bMR, y1: bMT + bih, y2: bMT + bih, class: 'axis' }));
+    bSvg.appendChild(bel('line', { x1: bML, x2: bW - bMR, y1: bY(DATA.objetivo.kcal), y2: bY(DATA.objetivo.kcal), stroke: 'var(--accent)', 'stroke-width': 2, 'stroke-dasharray': '5 5', opacity: .8 }));
+    bSvg.appendChild(bel('line', { x1: bML, x2: bW - bMR, y1: bY(DATA.objetivo.tdee), y2: bY(DATA.objetivo.tdee), stroke: 'var(--muted)', 'stroke-width': 2, 'stroke-dasharray': '1.5 4' }));
+
+    asc.forEach((d, i) => {
+      const x = bX(i), y = bY(d.kcal), h = bMT + bih - y;
+      const bar = bel('rect', { x, y, width: barW, height: Math.max(h, 2), rx: 4, ry: 4, fill: 'var(--accent)' });
+      bSvg.appendChild(bar);
+      const lbl = bel('text', { x: x + barW / 2, y: bMT + bih + 18, 'text-anchor': 'middle', class: 'ax' });
+      lbl.textContent = fechaCorta(d.fecha).split(' ')[0];
+      bSvg.appendChild(lbl);
+      const hit = bel('rect', { x, y: bMT, width: barW, height: bih, fill: 'transparent', style: 'cursor:pointer' });
+      hit.addEventListener('mousemove', ev => {
+        const r = bSvg.getBoundingClientRect();
+        bTip.innerHTML = `<b>Día ${d.dia_plan}</b> · ${fechaCorta(d.fecha)}<br><span class="lab">consumidas</span> <b>${fmt(d.kcal)}</b><br><span class="lab">gasto</span> ${fmt(d.gasto_estimado)}<br><span class="lab">déficit</span> <b>${fmt(d.deficit_real)}</b> kcal`;
+        bTip.style.left = ((x + barW / 2) / bW * r.width) + 'px';
+        bTip.style.top = (y / bH * r.height - 10) + 'px';
+        bTip.style.opacity = 1;
+      });
+      hit.addEventListener('mouseleave', () => bTip.style.opacity = 0);
+      hit.addEventListener('click', () => selectDay(d.fecha));
+      bSvg.appendChild(hit);
+    });
+  }
+})();
+</script>
 <script>
 (function () {
   const START = 78.9, DAYS = 90;

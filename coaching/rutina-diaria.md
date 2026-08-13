@@ -70,6 +70,18 @@ Y ahí hago el análisis semanal completo: tendencia, cintura, adherencia y ajus
 
 ---
 
+## Todo lo que registras queda en el dashboard
+
+No es solo para mí — tu [dashboard](https://claude.ai/code/artifact/1f5d0100-3fcf-4461-aee4-bb87fb9f6124) (el que guardaste en la pantalla de inicio) tiene:
+
+- **Registro diario:** cada comida que envías, con sus macros. Tocas un día y ves el detalle.
+- **Balance calórico:** una barra por día con lo que comiste, comparado con tu gasto estimado y tu objetivo — así ves el déficit real de un vistazo.
+- **Tips de la semana:** cada domingo, en el check-in automático, reemplazo esa sección con 2-4 observaciones concretas de tu propia semana — no genéricas.
+
+Se actualiza cuando yo reconstruyo los datos (después de cada comida importante o en el check-in dominical), así que si registras algo y no lo ves reflejado de inmediato, en el siguiente check-in ya está.
+
+---
+
 # Cómo funciona la comida
 
 Funciona en **dos direcciones**. No es solo tú mandando fotos y yo calculando.
