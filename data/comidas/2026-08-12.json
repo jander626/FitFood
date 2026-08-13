@@ -90,13 +90,50 @@
       "confianza": "media",
       "origen": "foto + descripcion",
       "nota": "Salsa de ciruelas, pasas, mango y te endulzado concentran casi todo el carbohidrato del dia. Proteina buena por la pechuga."
+    },
+    {
+      "momento": "cena",
+      "items": [
+        {
+          "alimento": "bistec de res (solomo/punta de anca)",
+          "porcion_g": 200,
+          "kcal": 450,
+          "proteina_g": 58,
+          "carbs_g": 0,
+          "grasa_g": 22
+        },
+        {
+          "alimento": "pico de gallo (tomate, cebolla, cilantro)",
+          "porcion_g": 100,
+          "kcal": 35,
+          "proteina_g": 1,
+          "carbs_g": 7,
+          "grasa_g": 0
+        },
+        {
+          "alimento": "agua",
+          "kcal": 0,
+          "proteina_g": 0,
+          "carbs_g": 0,
+          "grasa_g": 0
+        }
+      ],
+      "subtotal": {
+        "kcal": 485,
+        "proteina_g": 59,
+        "carbs_g": 7,
+        "grasa_g": 22
+      },
+      "confianza": "media",
+      "origen": "foto + descripcion",
+      "nota": "Buena eleccion post-almuerzo dulce: proteina alta, carbohidrato casi nulo, agua como bebida. Corte no confirmado (solomo o punta de anca), macros similares en ambos."
     }
   ],
   "totales": {
-    "kcal": 1325,
-    "proteina_g": 83,
-    "carbs_g": 135,
-    "grasa_g": 50
+    "kcal": 1810,
+    "proteina_g": 142,
+    "carbs_g": 142,
+    "grasa_g": 72
   },
   "objetivo": {
     "kcal": 1850,
@@ -105,10 +142,10 @@
     "grasa_g": 70
   },
   "restante": {
-    "kcal": 525,
-    "proteina_g": 77,
-    "carbs_g": 10,
-    "grasa_g": 20
+    "kcal": 40,
+    "proteina_g": 18,
+    "carbs_g": 3,
+    "grasa_g": -2
   },
-  "notas": "Dia 1 oficial del plan. Almuerzo alto en azucares ocultos (salsa dulce, pasas, mango, te endulzado) dejo el presupuesto de carbohidratos muy ajustado para la cena -- se sugirio cena sin arepa."
+  "notas": "DIA 1 CERRADO. 1810/1850 kcal (98%), 142/160g proteina (89%) -- deficit de proteina vino del desayuno liviano (23g). Carbohidratos casi exactos (142/145g). Buen cierre para el primer dia."
 }
