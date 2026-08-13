@@ -14,7 +14,7 @@ por_cat = {c: [] for c in orden_cat}
 for a in alimentos:
     por_cat[a['categoria']].append(a)
 for c in por_cat:
-    por_cat[c].sort(key=lambda a: a['nombre'])
+    por_cat[c].sort(key=lambda a: -a['p100'])
 
 titulo_cat = {
     "Proteina animal": "Proteínas animales",
@@ -32,9 +32,20 @@ titulo_cat = {
 md = ["# Tabla de alimentos\n",
       "Valores por **100 g/ml de porción comestible**, cocida salvo que se indique. "
       "La columna «porción típica» te da el número ya calculado para una cantidad real, "
-      "así no tienes que hacer la regla de tres cada vez.\n",
+      "así no tienes que hacer la regla de tres cada vez. Cada tabla está ordenada de "
+      "**mayor a menor proteína por 100 g**.\n",
       "> Estimaciones de referencia (tablas de composición nutricional estándar). "
       "Sirven para decidir sobre la marcha; para el registro diario preciso, sigue mandando fotos.\n"]
+
+# --- Ranking general: top 20 alimentos por proteina/100g, todas las categorias ---
+top20 = sorted(alimentos, key=lambda a: -a['p100'])[:20]
+md.append("## Ranking: mayor proteína por 100 g\n")
+md.append("Vista rápida entre categorías — útil cuando solo quieres saber qué te rinde más proteína, sin importar el tipo de alimento.\n")
+md.append("| # | Alimento | Categoría | kcal/100g | Proteína/100g |")
+md.append("|---|---|---|---|---|")
+for i, a in enumerate(top20, 1):
+    md.append(f"| {i} | {a['nombre']} | {titulo_cat[a['categoria']]} | {a['kcal100']} | **{a['p100']} g** |")
+md.append("")
 
 for cat in orden_cat:
     items = por_cat[cat]

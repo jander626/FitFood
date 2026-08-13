@@ -14,6 +14,11 @@
     { "nombre": "Pescado blanco (tilapia, mojarra)", "categoria": "Proteina animal", "kcal100": 128, "p100": 26, "c100": 0, "g100": 3, "porcion_g": 200, "porcion_nota": "1 filete grande" },
     { "nombre": "Atun en agua (lata)", "categoria": "Proteina animal", "kcal100": 116, "p100": 26, "c100": 0, "g100": 1, "porcion_g": 100, "porcion_nota": "1 lata escurrida" },
     { "nombre": "Camarones cocidos", "categoria": "Proteina animal", "kcal100": 99, "p100": 24, "c100": 0, "g100": 0.3, "porcion_g": 150, "porcion_nota": "1 porcion" },
+    { "nombre": "Salmon (plancha/horno)", "categoria": "Proteina animal", "kcal100": 208, "p100": 20, "c100": 0, "g100": 13, "porcion_g": 180, "porcion_nota": "1 filete" },
+    { "nombre": "Trucha (plancha/horno)", "categoria": "Proteina animal", "kcal100": 148, "p100": 21, "c100": 0, "g100": 6.6, "porcion_g": 180, "porcion_nota": "1 filete" },
+    { "nombre": "Pechuga de pavo", "categoria": "Proteina animal", "kcal100": 135, "p100": 29, "c100": 0, "g100": 1, "porcion_g": 200, "porcion_nota": "1 pechuga mediana" },
+    { "nombre": "Carne molida de res (magra)", "categoria": "Proteina animal", "kcal100": 215, "p100": 26, "c100": 0, "g100": 12, "porcion_g": 150, "porcion_nota": "para preparar" },
+    { "nombre": "Jamon de cerdo (fiambre)", "categoria": "Proteina animal", "kcal100": 145, "p100": 18, "c100": 1.5, "g100": 6, "porcion_g": 30, "porcion_nota": "2 tajadas" },
 
     { "nombre": "Huevo entero (frito/revuelto)", "categoria": "Huevos y lacteos", "kcal100": 155, "p100": 13, "c100": 1.5, "g100": 11, "porcion_g": 50, "porcion_nota": "1 unidad" },
     { "nombre": "Clara de huevo", "categoria": "Huevos y lacteos", "kcal100": 52, "p100": 11, "c100": 0.7, "g100": 0.2, "porcion_g": 33, "porcion_nota": "1 clara" },
@@ -22,6 +27,8 @@
     { "nombre": "Yogur griego natural", "categoria": "Huevos y lacteos", "kcal100": 59, "p100": 10, "c100": 3.6, "g100": 0.4, "porcion_g": 170, "porcion_nota": "1 pote" },
     { "nombre": "Leche entera", "categoria": "Huevos y lacteos", "kcal100": 61, "p100": 3.2, "c100": 4.8, "g100": 3.3, "porcion_g": 240, "porcion_nota": "1 vaso" },
     { "nombre": "Kumis / yogur para tomar", "categoria": "Huevos y lacteos", "kcal100": 70, "p100": 3, "c100": 8, "g100": 3, "porcion_g": 200, "porcion_nota": "1 vaso" },
+    { "nombre": "Proteina en polvo (whey)", "categoria": "Huevos y lacteos", "kcal100": 380, "p100": 75, "c100": 8, "g100": 5, "porcion_g": 30, "porcion_nota": "1 scoop" },
+    { "nombre": "Requeson / queso cottage", "categoria": "Huevos y lacteos", "kcal100": 98, "p100": 11, "c100": 3.4, "g100": 4.3, "porcion_g": 100, "porcion_nota": "1/2 taza" },
 
     { "nombre": "Arepa de maiz (media tela)", "categoria": "Carbohidrato / tuberculo", "kcal100": 200, "p100": 4, "c100": 42, "g100": 2, "porcion_g": 100, "porcion_nota": "1 arepa media tela" },
     { "nombre": "Arroz blanco cocido", "categoria": "Carbohidrato / tuberculo", "kcal100": 130, "p100": 2.4, "c100": 28, "g100": 0.3, "porcion_g": 150, "porcion_nota": "1 taza" },
