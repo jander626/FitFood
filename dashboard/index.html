@@ -196,11 +196,17 @@
 
   /* --- food log detail --- */
   .fl-day { margin-top: 16px; padding-top: 14px; border-top: 1px solid var(--hairline); }
-  .fl-meal { display: flex; justify-content: space-between; gap: 12px; padding: 8px 0; border-bottom: 1px solid var(--hairline-soft); font-size: 13.5px; }
+  .fl-meal { padding: 10px 0; border-bottom: 1px solid var(--hairline-soft); }
   .fl-meal:last-child { border-bottom: 0; }
-  .fl-meal .fl-items { color: var(--ink-2); }
-  .fl-meal .fl-momento { font-family: var(--mono); font-size: 10.5px; letter-spacing: .08em; text-transform: uppercase; color: var(--muted); display: block; margin-bottom: 2px; }
-  .fl-meal .fl-macros { font-family: var(--mono); font-variant-numeric: tabular-nums; white-space: nowrap; color: var(--ink); }
+  .fl-meal-head { display: flex; justify-content: space-between; align-items: baseline; gap: 12px; }
+  .fl-momento { font-family: var(--mono); font-size: 10.5px; letter-spacing: .08em; text-transform: uppercase; color: var(--muted); }
+  .fl-momento .fl-conf { text-transform: none; letter-spacing: 0; opacity: .8; }
+  .fl-meal-macros { font-family: var(--mono); font-variant-numeric: tabular-nums; white-space: nowrap; font-size: 13px; color: var(--ink); font-weight: 600; }
+  .fl-items-list { list-style: none; margin: 8px 0 0; padding: 0; display: flex; flex-direction: column; gap: 5px; }
+  .fl-item { display: flex; justify-content: space-between; gap: 10px; font-size: 13px; }
+  .fl-item-name { color: var(--ink-2); }
+  .fl-item-name .fl-porcion { color: var(--muted); font-size: 12px; }
+  .fl-item-macros { font-family: var(--mono); font-variant-numeric: tabular-nums; white-space: nowrap; color: var(--muted); font-size: 12px; }
 
   /* --- macro bar --- */
   .macro { display: flex; flex-direction: column; gap: 9px; }
@@ -515,35 +521,132 @@
       "comidas": [
         {
           "momento": "desayuno",
-          "items": [
-            "arepa de media tela",
-            "3 huevos",
-            "cafe con endulzante no calorico"
-          ],
           "kcal": 425,
-          "proteina": 23
+          "proteina": 23,
+          "carbs": 44,
+          "grasa": 17,
+          "confianza": "media",
+          "items": [
+            {
+              "nombre": "arepa de media tela",
+              "porcion_g": 100,
+              "porcion_ml": null,
+              "kcal": 200,
+              "proteina": 4,
+              "carbs": 42,
+              "grasa": 2
+            },
+            {
+              "nombre": "3 huevos",
+              "porcion_g": null,
+              "porcion_ml": null,
+              "kcal": 220,
+              "proteina": 19,
+              "carbs": 2,
+              "grasa": 15
+            },
+            {
+              "nombre": "cafe con endulzante no calorico",
+              "porcion_g": null,
+              "porcion_ml": null,
+              "kcal": 5,
+              "proteina": 0,
+              "carbs": 0,
+              "grasa": 0
+            }
+          ]
         },
         {
           "momento": "almuerzo",
-          "items": [
-            "rollo de pollo con tocineta, relleno de piña y queso",
-            "salsa de ciruelas",
-            "pure de papa",
-            "ensalada de zanahoria con pasas y mango",
-            "te Hatsu blanco (medio vaso)"
-          ],
           "kcal": 900,
-          "proteina": 60
+          "proteina": 60,
+          "carbs": 91,
+          "grasa": 33,
+          "confianza": "media",
+          "items": [
+            {
+              "nombre": "rollo de pollo con tocineta, relleno de piña y queso",
+              "porcion_g": 220,
+              "porcion_ml": null,
+              "kcal": 450,
+              "proteina": 55,
+              "carbs": 6,
+              "grasa": 23
+            },
+            {
+              "nombre": "salsa de ciruelas",
+              "porcion_g": null,
+              "porcion_ml": null,
+              "kcal": 70,
+              "proteina": 0,
+              "carbs": 17,
+              "grasa": 0
+            },
+            {
+              "nombre": "pure de papa",
+              "porcion_g": 160,
+              "porcion_ml": null,
+              "kcal": 220,
+              "proteina": 4,
+              "carbs": 30,
+              "grasa": 8
+            },
+            {
+              "nombre": "ensalada de zanahoria con pasas y mango",
+              "porcion_g": 100,
+              "porcion_ml": null,
+              "kcal": 110,
+              "proteina": 1,
+              "carbs": 26,
+              "grasa": 2
+            },
+            {
+              "nombre": "te Hatsu blanco (medio vaso)",
+              "porcion_g": null,
+              "porcion_ml": 125,
+              "kcal": 50,
+              "proteina": 0,
+              "carbs": 12,
+              "grasa": 0
+            }
+          ]
         },
         {
           "momento": "cena",
-          "items": [
-            "bistec de res (solomo/punta de anca)",
-            "pico de gallo (tomate, cebolla, cilantro)",
-            "agua"
-          ],
           "kcal": 485,
-          "proteina": 59
+          "proteina": 59,
+          "carbs": 7,
+          "grasa": 22,
+          "confianza": "media",
+          "items": [
+            {
+              "nombre": "bistec de res (solomo/punta de anca)",
+              "porcion_g": 200,
+              "porcion_ml": null,
+              "kcal": 450,
+              "proteina": 58,
+              "carbs": 0,
+              "grasa": 22
+            },
+            {
+              "nombre": "pico de gallo (tomate, cebolla, cilantro)",
+              "porcion_g": 100,
+              "porcion_ml": null,
+              "kcal": 35,
+              "proteina": 1,
+              "carbs": 7,
+              "grasa": 0
+            },
+            {
+              "nombre": "agua",
+              "porcion_g": null,
+              "porcion_ml": null,
+              "kcal": 0,
+              "proteina": 0,
+              "carbs": 0,
+              "grasa": 0
+            }
+          ]
         }
       ]
     },
@@ -561,31 +664,96 @@
       "comidas": [
         {
           "momento": "desayuno",
-          "items": [
-            "arepa de media tela",
-            "4 huevos con tomate y cebolla",
-            "cafe con endulzante no calorico"
-          ],
           "kcal": 570,
-          "proteina": 31
+          "proteina": 31,
+          "carbs": 50,
+          "grasa": 25,
+          "confianza": "media",
+          "items": [
+            {
+              "nombre": "arepa de media tela",
+              "porcion_g": 100,
+              "porcion_ml": null,
+              "kcal": 200,
+              "proteina": 4,
+              "carbs": 42,
+              "grasa": 2
+            },
+            {
+              "nombre": "4 huevos con tomate y cebolla",
+              "porcion_g": null,
+              "porcion_ml": null,
+              "kcal": 365,
+              "proteina": 27,
+              "carbs": 8,
+              "grasa": 23
+            },
+            {
+              "nombre": "cafe con endulzante no calorico",
+              "porcion_g": null,
+              "porcion_ml": null,
+              "kcal": 5,
+              "proteina": 0,
+              "carbs": 0,
+              "grasa": 0
+            }
+          ]
         },
         {
           "momento": "almuerzo",
-          "items": [
-            "costilla al horno con salsa BBQ",
-            "ensalada (lechuga, zanahoria, mango, tomate cherry)"
-          ],
           "kcal": 695,
-          "proteina": 36
+          "proteina": 36,
+          "carbs": 33,
+          "grasa": 44,
+          "confianza": "media",
+          "items": [
+            {
+              "nombre": "costilla al horno con salsa BBQ",
+              "porcion_g": 220,
+              "porcion_ml": null,
+              "kcal": 695,
+              "proteina": 36,
+              "carbs": 33,
+              "grasa": 44
+            },
+            {
+              "nombre": "ensalada (lechuga, zanahoria, mango, tomate cherry)",
+              "porcion_g": 120,
+              "porcion_ml": null,
+              "kcal": 0,
+              "proteina": 0,
+              "carbs": 0,
+              "grasa": 0
+            }
+          ]
         },
         {
           "momento": "postre",
-          "items": [
-            "mazamorra con leche",
-            "bocadillo de guayaba"
-          ],
           "kcal": 335,
-          "proteina": 9
+          "proteina": 9,
+          "carbs": 59,
+          "grasa": 7,
+          "confianza": "media",
+          "items": [
+            {
+              "nombre": "mazamorra con leche",
+              "porcion_g": null,
+              "porcion_ml": null,
+              "kcal": 250,
+              "proteina": 9,
+              "carbs": 38,
+              "grasa": 7
+            },
+            {
+              "nombre": "bocadillo de guayaba",
+              "porcion_g": 30,
+              "porcion_ml": null,
+              "kcal": 85,
+              "proteina": 0,
+              "carbs": 21,
+              "grasa": 0
+            }
+          ]
         }
       ]
     }
@@ -660,12 +828,22 @@
       [...body.children].forEach(tr => tr.classList.toggle('sel', tr.dataset.day === fecha));
       const d = dias.find(x => x.fecha === fecha);
       if (!d) { detailEl.innerHTML = ''; return; }
+      const porcionTxt = it => it.porcion_g ? `${it.porcion_g} g` : (it.porcion_ml ? `${it.porcion_ml} ml` : 'porción');
       detailEl.innerHTML = `<div class="fl-day"><div class="note" style="margin-bottom:4px">Día ${d.dia_plan} · ${fechaCorta(d.fecha)}${d.peso ? ` · ${d.peso} kg` : ''}${d.entreno ? ' · 💪 entreno' : ''}</div>` +
         d.comidas.map(c => `
           <div class="fl-meal">
-            <div><span class="fl-momento">${c.momento}</span><span class="fl-items">${c.items.join(', ')}</span></div>
-            <div class="fl-macros">${fmt(c.kcal)} kcal · ${fmt(c.proteina)}g P</div>
-          </div>`).join('') + `</div>`;
+            <div class="fl-meal-head">
+              <span class="fl-momento">${c.momento}${c.confianza ? ` <span class="fl-conf">· confianza ${c.confianza}</span>` : ''}</span>
+              <span class="fl-meal-macros">${fmt(c.kcal)} kcal · ${fmt(c.proteina)}P · ${fmt(c.carbs)}C · ${fmt(c.grasa)}G</span>
+            </div>
+            <ul class="fl-items-list">
+              ${c.items.map(it => `
+                <li class="fl-item">
+                  <span class="fl-item-name">${it.nombre} <span class="fl-porcion">(${porcionTxt(it)} · supuesta)</span></span>
+                  <span class="fl-item-macros">${fmt(it.kcal)} kcal · ${it.proteina}P · ${it.carbs}C · ${it.grasa}G</span>
+                </li>`).join('')}
+            </ul>
+          </div>`).join('') + `<p class="note" style="margin-top:10px">¿Alguna porción o alimento está mal estimado? Dímelo por chat con el número correcto y lo corrijo aquí y en el total del día.</p></div>`;
     }
     if (dias.length) selectDay(dias[0].fecha);
 

@@ -45,9 +45,23 @@ for path in sorted(glob.glob(os.path.join(BASE, 'data/comidas/*.json'))):
         'comidas': [
             {
                 'momento': c['momento'],
-                'items': [i['alimento'] for i in c['items']],
                 'kcal': c['subtotal']['kcal'],
                 'proteina': c['subtotal']['proteina_g'],
+                'carbs': c['subtotal']['carbs_g'],
+                'grasa': c['subtotal']['grasa_g'],
+                'confianza': c.get('confianza'),
+                'items': [
+                    {
+                        'nombre': i['alimento'],
+                        'porcion_g': i.get('porcion_g'),
+                        'porcion_ml': i.get('porcion_ml'),
+                        'kcal': i['kcal'],
+                        'proteina': i['proteina_g'],
+                        'carbs': i['carbs_g'],
+                        'grasa': i['grasa_g'],
+                    }
+                    for i in c['items']
+                ],
             }
             for c in d['comidas']
         ],
