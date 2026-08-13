@@ -44,10 +44,10 @@
         {
           "alimento": "costilla al horno con salsa BBQ",
           "porcion_g": 220,
-          "kcal": 605,
-          "proteina_g": 35,
-          "carbs_g": 13,
-          "grasa_g": 44
+          "kcal": 726,
+          "proteina_g": 53,
+          "carbs_g": 7,
+          "grasa_g": 55
         },
         {
           "alimento": "ensalada (lechuga, zanahoria, mango, tomate cherry)",
@@ -59,14 +59,14 @@
         }
       ],
       "subtotal": {
-        "kcal": 695,
-        "proteina_g": 36,
-        "carbs_g": 33,
-        "grasa_g": 44
+        "kcal": 816,
+        "proteina_g": 54,
+        "carbs_g": 27,
+        "grasa_g": 55
       },
       "confianza": "media",
       "origen": "foto",
-      "nota": "Costilla es corte muy graso -- consumio casi todo el presupuesto de grasa del dia de una sola comida."
+      "nota": "Corregido: 220g de costilla de cerdo/BBQ a 330 kcal/100g (tabla de referencia) = 726 kcal, no 605. El calculo original repartio mal el estimado combinado entre los dos items."
     },
     {
       "momento": "postre",
@@ -98,10 +98,10 @@
     }
   ],
   "totales": {
-    "kcal": 1600,
-    "proteina_g": 76,
-    "carbs_g": 142,
-    "grasa_g": 76
+    "kcal": 1721,
+    "proteina_g": 94,
+    "carbs_g": 136,
+    "grasa_g": 87
   },
   "objetivo": {
     "kcal": 1850,
@@ -110,10 +110,10 @@
     "grasa_g": 70
   },
   "restante": {
-    "kcal": 250,
-    "proteina_g": 84,
-    "carbs_g": 3,
-    "grasa_g": -6
+    "kcal": 129,
+    "proteina_g": 66,
+    "carbs_g": 9,
+    "grasa_g": -17
   },
-  "notas": "Almuerzo (costilla grasa) + postre dulce consumieron casi todo el presupuesto de grasa y carbohidrato del dia, dejando muy poco margen (250kcal) para llegar a 160g de proteina. Se recomendo priorizar proteina en la cena (pollo/pescado magro) aunque el dia cierre unas 150-200kcal por encima del objetivo."
+  "notas": "Corregido el 2026-08-13: la costilla del almuerzo estaba subestimada (605 vs 726 kcal reales segun la tabla de referencia). Con la correccion, la grasa del dia ya supera el objetivo (87g de 70g) incluso antes de la cena -- si aun no se ha comido, priorizar cena baja en grasa (pescado/pollo a la plancha, sin mas fritos ni salsas)."
 }
