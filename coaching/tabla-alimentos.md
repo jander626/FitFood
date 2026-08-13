@@ -88,6 +88,16 @@ Valores por **100 g/ml de porción comestible**, cocida salvo que se indique. La
 | Mayonesa | 680 | 1 g | 1.5 g | 75 g | 1 cucharada (15g): **102 kcal**, 0.1g P, 0.2g C, 11.2g G |
 | Nueces / almendras | 600 | 20 g | 20 g | 52 g | 1 punado (25g): **150 kcal**, 5.0g P, 5.0g C, 13.0g G |
 
+## Snacks empacados (papas, Doritos, De Todito...)
+
+| Alimento | kcal/100g | Proteína | Carbos | Grasa | Porción típica |
+|---|---|---|---|---|---|
+| Chitos / Kchitos | 560 | 5 g | 55 g | 35 g | 1 paquete individual (32g): **179 kcal**, 1.6g P, 17.6g C, 11.2g G |
+| De Todito (queso) | 510 | 6 g | 58 g | 27 g | 1 paquete individual (40g): **204 kcal**, 2.4g P, 23.2g C, 10.8g G |
+| Doritos (nacho) | 500 | 7 g | 58 g | 26 g | 1 paquete individual (45g): **225 kcal**, 3.1g P, 26.1g C, 11.7g G |
+| Papas fritas de paquete | 536 | 6.6 g | 53 g | 34 g | 1 paquete pequeño (30g): **161 kcal**, 2.0g P, 15.9g C, 10.2g G |
+| Platanitos fritos de paquete | 536 | 2 g | 58 g | 32 g | 1 paquete pequeño (35g): **188 kcal**, 0.7g P, 20.3g C, 11.2g G |
+
 ## Dulces, salsas y bebidas
 
 | Alimento | kcal/100g | Proteína | Carbos | Grasa | Porción típica |

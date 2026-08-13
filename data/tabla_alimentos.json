@@ -57,6 +57,12 @@
     { "nombre": "Mayonesa", "categoria": "Grasa", "kcal100": 680, "p100": 1, "c100": 1.5, "g100": 75, "porcion_g": 15, "porcion_nota": "1 cucharada" },
     { "nombre": "Nueces / almendras", "categoria": "Grasa", "kcal100": 600, "p100": 20, "c100": 20, "g100": 52, "porcion_g": 25, "porcion_nota": "1 punado" },
 
+    { "nombre": "Papas fritas de paquete", "categoria": "Snack empacado", "kcal100": 536, "p100": 6.6, "c100": 53, "g100": 34, "porcion_g": 30, "porcion_nota": "1 paquete pequeño" },
+    { "nombre": "Doritos (nacho)", "categoria": "Snack empacado", "kcal100": 500, "p100": 7, "c100": 58, "g100": 26, "porcion_g": 45, "porcion_nota": "1 paquete individual" },
+    { "nombre": "De Todito (queso)", "categoria": "Snack empacado", "kcal100": 510, "p100": 6, "c100": 58, "g100": 27, "porcion_g": 40, "porcion_nota": "1 paquete individual" },
+    { "nombre": "Platanitos fritos de paquete", "categoria": "Snack empacado", "kcal100": 536, "p100": 2, "c100": 58, "g100": 32, "porcion_g": 35, "porcion_nota": "1 paquete pequeño" },
+    { "nombre": "Chitos / Kchitos", "categoria": "Snack empacado", "kcal100": 560, "p100": 5, "c100": 55, "g100": 35, "porcion_g": 32, "porcion_nota": "1 paquete individual" },
+
     { "nombre": "Mazamorra con leche (sin azucar)", "categoria": "Dulce / bebida", "kcal100": 65, "p100": 2.4, "c100": 10, "g100": 1.8, "porcion_g": 390, "porcion_nota": "1 taza mazamorra + 1 taza leche" },
     { "nombre": "Bocadillo de guayaba", "categoria": "Dulce / bebida", "kcal100": 285, "p100": 0.3, "c100": 71, "g100": 0.1, "porcion_g": 30, "porcion_nota": "1 unidad pequena" },
     { "nombre": "Panela", "categoria": "Dulce / bebida", "kcal100": 380, "p100": 0, "c100": 98, "g100": 0, "porcion_g": 15, "porcion_nota": "1 cucharada" },

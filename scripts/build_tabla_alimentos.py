@@ -9,7 +9,7 @@ alimentos = data['alimentos']
 
 # --- Orden y agrupación por categoría ---
 orden_cat = ["Proteina animal", "Huevos y lacteos", "Carbohidrato / tuberculo",
-             "Legumbre", "Verdura", "Fruta", "Grasa", "Dulce / bebida"]
+             "Legumbre", "Verdura", "Fruta", "Grasa", "Snack empacado", "Dulce / bebida"]
 por_cat = {c: [] for c in orden_cat}
 for a in alimentos:
     por_cat[a['categoria']].append(a)
@@ -24,6 +24,7 @@ titulo_cat = {
     "Verdura": "Verduras",
     "Fruta": "Frutas",
     "Grasa": "Grasas y untables",
+    "Snack empacado": "Snacks empacados (papas, Doritos, De Todito...)",
     "Dulce / bebida": "Dulces, salsas y bebidas",
 }
 
