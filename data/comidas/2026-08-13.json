@@ -1,0 +1,61 @@
+{
+  "fecha": "2026-08-13",
+  "dia_plan": 2,
+  "comidas": [
+    {
+      "momento": "desayuno",
+      "items": [
+        {
+          "alimento": "arepa de media tela",
+          "porcion_g": 100,
+          "kcal": 200,
+          "proteina_g": 4,
+          "carbs_g": 42,
+          "grasa_g": 2
+        },
+        {
+          "alimento": "4 huevos con tomate y cebolla",
+          "kcal": 365,
+          "proteina_g": 27,
+          "carbs_g": 8,
+          "grasa_g": 23
+        },
+        {
+          "alimento": "cafe con endulzante no calorico",
+          "kcal": 5,
+          "proteina_g": 0,
+          "carbs_g": 0,
+          "grasa_g": 0
+        }
+      ],
+      "subtotal": {
+        "kcal": 570,
+        "proteina_g": 31,
+        "carbs_g": 50,
+        "grasa_g": 25
+      },
+      "confianza": "media",
+      "origen": "foto",
+      "nota": "Buena mejora de proteina respecto al desayuno del dia 1 (23g). Sin calorias liquidas."
+    }
+  ],
+  "totales": {
+    "kcal": 570,
+    "proteina_g": 31,
+    "carbs_g": 50,
+    "grasa_g": 25
+  },
+  "objetivo": {
+    "kcal": 1850,
+    "proteina_g": 160,
+    "carbs_g": 145,
+    "grasa_g": 70
+  },
+  "restante": {
+    "kcal": 1280,
+    "proteina_g": 129,
+    "carbs_g": 95,
+    "grasa_g": 45
+  },
+  "notas": "Dia 2 del plan. Jueves: toca carrera facil, no HIIT propio (dia antes de fuerza del viernes)."
+}
