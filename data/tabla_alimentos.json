@@ -9,6 +9,8 @@
     { "nombre": "Costilla de res al horno", "categoria": "Proteina animal", "kcal100": 315, "p100": 22, "c100": 0, "g100": 25, "porcion_g": 220, "porcion_nota": "corte visible en el plato" },
     { "nombre": "Costilla de cerdo / BBQ", "categoria": "Proteina animal", "kcal100": 330, "p100": 24, "c100": 3, "g100": 25, "porcion_g": 200, "porcion_nota": "con salsa BBQ" },
     { "nombre": "Lomo de cerdo", "categoria": "Proteina animal", "kcal100": 242, "p100": 27, "c100": 0, "g100": 14, "porcion_g": 180, "porcion_nota": "1 porcion" },
+    { "nombre": "Pierna de cerdo / pernil (horneado)", "categoria": "Proteina animal", "kcal100": 215, "p100": 27, "c100": 0, "g100": 11, "porcion_g": 200, "porcion_nota": "1 porcion" },
+    { "nombre": "Bondiola de cerdo (parrilla)", "categoria": "Proteina animal", "kcal100": 280, "p100": 24, "c100": 0, "g100": 20, "porcion_g": 180, "porcion_nota": "1 porcion" },
     { "nombre": "Chicharron (piel de cerdo frita)", "categoria": "Proteina animal", "kcal100": 520, "p100": 22, "c100": 0, "g100": 47, "porcion_g": 100, "porcion_nota": "porcion mediana en airfryer" },
     { "nombre": "Tocineta / bacon frita", "categoria": "Proteina animal", "kcal100": 541, "p100": 37, "c100": 1, "g100": 42, "porcion_g": 15, "porcion_nota": "1 tira" },
     { "nombre": "Pescado blanco (tilapia, mojarra)", "categoria": "Proteina animal", "kcal100": 128, "p100": 26, "c100": 0, "g100": 3, "porcion_g": 200, "porcion_nota": "1 filete grande" },

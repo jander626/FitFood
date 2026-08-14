@@ -17,19 +17,19 @@ Vista rápida entre categorías — útil cuando solo quieres saber qué te rind
 | 5 | Punta de anca / sirloin | Proteínas animales | 200 | **30 g** |
 | 6 | Pechuga de pavo | Proteínas animales | 135 | **29 g** |
 | 7 | Lomo de cerdo | Proteínas animales | 242 | **27 g** |
-| 8 | Muslo de pollo con piel | Proteínas animales | 209 | **26 g** |
-| 9 | Pescado blanco (tilapia, mojarra) | Proteínas animales | 128 | **26 g** |
-| 10 | Atun en agua (lata) | Proteínas animales | 116 | **26 g** |
-| 11 | Carne molida de res (magra) | Proteínas animales | 215 | **26 g** |
-| 12 | Carne desmechada (guisada) | Proteínas animales | 200 | **25 g** |
-| 13 | Queso mozzarella | Huevos y lácteos | 280 | **25 g** |
-| 14 | Costilla de cerdo / BBQ | Proteínas animales | 330 | **24 g** |
-| 15 | Camarones cocidos | Proteínas animales | 99 | **24 g** |
-| 16 | Chorizo espanol (curado) | Proteínas animales | 455 | **24 g** |
-| 17 | Costilla de res al horno | Proteínas animales | 315 | **22 g** |
-| 18 | Chicharron (piel de cerdo frita) | Proteínas animales | 520 | **22 g** |
-| 19 | Trucha (plancha/horno) | Proteínas animales | 148 | **21 g** |
-| 20 | Salmon (plancha/horno) | Proteínas animales | 208 | **20 g** |
+| 8 | Pierna de cerdo / pernil (horneado) | Proteínas animales | 215 | **27 g** |
+| 9 | Muslo de pollo con piel | Proteínas animales | 209 | **26 g** |
+| 10 | Pescado blanco (tilapia, mojarra) | Proteínas animales | 128 | **26 g** |
+| 11 | Atun en agua (lata) | Proteínas animales | 116 | **26 g** |
+| 12 | Carne molida de res (magra) | Proteínas animales | 215 | **26 g** |
+| 13 | Carne desmechada (guisada) | Proteínas animales | 200 | **25 g** |
+| 14 | Queso mozzarella | Huevos y lácteos | 280 | **25 g** |
+| 15 | Costilla de cerdo / BBQ | Proteínas animales | 330 | **24 g** |
+| 16 | Bondiola de cerdo (parrilla) | Proteínas animales | 280 | **24 g** |
+| 17 | Camarones cocidos | Proteínas animales | 99 | **24 g** |
+| 18 | Chorizo espanol (curado) | Proteínas animales | 455 | **24 g** |
+| 19 | Costilla de res al horno | Proteínas animales | 315 | **22 g** |
+| 20 | Chicharron (piel de cerdo frita) | Proteínas animales | 520 | **22 g** |
 
 ## Proteínas animales
 
@@ -41,12 +41,14 @@ Vista rápida entre categorías — útil cuando solo quieres saber qué te rind
 | Punta de anca / sirloin | 200 | 30 g | 0 g | 9 g | 1 porcion (200g): **400 kcal**, 60.0g P, 0.0g C, 18.0g G |
 | Pechuga de pavo | 135 | 29 g | 0 g | 1 g | 1 pechuga mediana (200g): **270 kcal**, 58.0g P, 0.0g C, 2.0g G |
 | Lomo de cerdo | 242 | 27 g | 0 g | 14 g | 1 porcion (180g): **436 kcal**, 48.6g P, 0.0g C, 25.2g G |
+| Pierna de cerdo / pernil (horneado) | 215 | 27 g | 0 g | 11 g | 1 porcion (200g): **430 kcal**, 54.0g P, 0.0g C, 22.0g G |
 | Muslo de pollo con piel | 209 | 26 g | 0 g | 11 g | 2 muslos (150g): **314 kcal**, 39.0g P, 0.0g C, 16.5g G |
 | Pescado blanco (tilapia, mojarra) | 128 | 26 g | 0 g | 3 g | 1 filete grande (200g): **256 kcal**, 52.0g P, 0.0g C, 6.0g G |
 | Atun en agua (lata) | 116 | 26 g | 0 g | 1 g | 1 lata escurrida (100g): **116 kcal**, 26.0g P, 0.0g C, 1.0g G |
 | Carne molida de res (magra) | 215 | 26 g | 0 g | 12 g | para preparar (150g): **322 kcal**, 39.0g P, 0.0g C, 18.0g G |
 | Carne desmechada (guisada) | 200 | 25 g | 2 g | 9 g | para arepa/relleno (150g): **300 kcal**, 37.5g P, 3.0g C, 13.5g G |
 | Costilla de cerdo / BBQ | 330 | 24 g | 3 g | 25 g | con salsa BBQ (200g): **660 kcal**, 48.0g P, 6.0g C, 50.0g G |
+| Bondiola de cerdo (parrilla) | 280 | 24 g | 0 g | 20 g | 1 porcion (180g): **504 kcal**, 43.2g P, 0.0g C, 36.0g G |
 | Camarones cocidos | 99 | 24 g | 0 g | 0.3 g | 1 porcion (150g): **148 kcal**, 36.0g P, 0.0g C, 0.4g G |
 | Chorizo espanol (curado) | 455 | 24 g | 2 g | 38 g | unas 5 tajadas (50g): **228 kcal**, 12.0g P, 1.0g C, 19.0g G |
 | Costilla de res al horno | 315 | 22 g | 0 g | 25 g | corte visible en el plato (220g): **693 kcal**, 48.4g P, 0.0g C, 55.0g G |
