@@ -79,6 +79,8 @@ new_tag = f'<script id="fitfood-data">window.FITFOOD_DATA = {data_json};</script
 
 html_path = os.path.join(BASE, 'dashboard/index.html')
 html = open(html_path).read()
+if '<script id="fitfood-data">' not in html:
+    raise SystemExit('No se encontró el tag <script id="fitfood-data"> en dashboard/index.html')
 html2 = re.sub(
     r'<script id="fitfood-data">.*?</script>',
     lambda m: new_tag,
@@ -86,8 +88,6 @@ html2 = re.sub(
     count=1,
     flags=re.DOTALL,
 )
-if html2 == html:
-    raise SystemExit('No se encontró el tag <script id="fitfood-data"> en dashboard/index.html')
 open(html_path, 'w').write(html2)
 
 print(f"OK: {len(dias)} dias incrustados en dashboard/index.html")

@@ -41,6 +41,43 @@
       ],
       "rpe": "nivel medio (feedback del usuario: se sintio bien)",
       "notas": "Primera sesion oficial del plan. Cargas base para seguimiento: press multifuncional 20kg, front raise mancuerna 7.5kg."
+    },
+    {
+      "fecha": "2026-08-14",
+      "dia_plan": 3,
+      "tipo": "fuerza",
+      "fuente": "Freeletics",
+      "duracion_min": 40,
+      "kg_totales_levantados": 2160,
+      "ejercicios": [
+        {
+          "nombre": "One-Handed Pushups (mejora de competencia)",
+          "reps": 20
+        },
+        {
+          "nombre": "Negative Handstand Pushups",
+          "reps": 16
+        },
+        {
+          "nombre": "Fuerza HIIT",
+          "duracion": "07:05"
+        },
+        {
+          "nombre": "Serie guiada (bloque 1, probable maquina)",
+          "duracion": "02:00",
+          "peso_kg": null
+        },
+        {
+          "nombre": "HIIT accesorio",
+          "duracion": "14:08"
+        },
+        {
+          "nombre": "Serie guiada (bloque 2, probable maquina)",
+          "duracion": "03:23",
+          "peso_kg": null
+        }
+      ],
+      "notas": "Trabajo de habilidad avanzada (one-handed pushups, negative handstand pushups). Peso especifico de las 'Serie guiada' no visible en el resumen -- pendiente si el usuario quiere detallarlo para seguimiento de cargas."
     }
   ]
 }
