@@ -52,10 +52,11 @@
     "suplementos_actuales": [
       {
         "nombre": "Ashwagandha (Micro Ingredients, softgel)",
-        "dosis": "2 softgels/noche = 300mg extracto 20:1 (equiv. 6000mg raiz) + 10mg pimienta negra",
-        "horario": "antes de dormir",
+        "dosis": "2 softgels = 300mg extracto 20:1 (equiv. 6000mg raiz) + 10mg pimienta negra",
+        "horario": "antes de dormir, USO OCASIONAL (no diario)",
         "desde": "2026-08-13",
-        "veredicto": "conservar -- dosis en rango clinico, momento correcto, evidencia razonable para sueno/estres"
+        "condiciones_medicas_o_medicamentos": "ninguno confirmado por el usuario",
+        "veredicto": "sin riesgo, pero evidencia de sueno/estres requiere uso diario sostenido (8-12 semanas en estudios clinicos). Uso ocasional probablemente no genera efecto acumulativo notable."
       }
     ],
     "lesiones_condiciones": [],
