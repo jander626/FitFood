@@ -95,13 +95,42 @@
       },
       "confianza": "media",
       "origen": "reporte en texto"
+    },
+    {
+      "momento": "cena",
+      "items": [
+        {
+          "alimento": "arepa de media tela",
+          "porcion_g": 100,
+          "kcal": 200,
+          "proteina_g": 4,
+          "carbs_g": 42,
+          "grasa_g": 2
+        },
+        {
+          "alimento": "carne desmechada",
+          "porcion_g": 100,
+          "kcal": 200,
+          "proteina_g": 25,
+          "carbs_g": 2,
+          "grasa_g": 9
+        }
+      ],
+      "subtotal": {
+        "kcal": 400,
+        "proteina_g": 29,
+        "carbs_g": 44,
+        "grasa_g": 11
+      },
+      "confianza": "alta",
+      "origen": "reporte en texto (porcion exacta indicada por el usuario)"
     }
   ],
   "totales": {
-    "kcal": 1721,
-    "proteina_g": 94,
-    "carbs_g": 136,
-    "grasa_g": 87
+    "kcal": 2121,
+    "proteina_g": 123,
+    "carbs_g": 180,
+    "grasa_g": 98
   },
   "objetivo": {
     "kcal": 1850,
@@ -110,10 +139,10 @@
     "grasa_g": 70
   },
   "restante": {
-    "kcal": 129,
-    "proteina_g": 66,
-    "carbs_g": 9,
-    "grasa_g": -17
+    "kcal": -271,
+    "proteina_g": 37,
+    "carbs_g": -35,
+    "grasa_g": -28
   },
-  "notas": "Corregido el 2026-08-13: la costilla del almuerzo estaba subestimada (605 vs 726 kcal reales segun la tabla de referencia). Con la correccion, la grasa del dia ya supera el objetivo (87g de 70g) incluso antes de la cena -- si aun no se ha comido, priorizar cena baja en grasa (pescado/pollo a la plancha, sin mas fritos ni salsas)."
+  "notas": "Dia cerrado por encima del objetivo (271kcal, 35g carbo, 28g grasa de mas) y corto en proteina (37g). Efecto combinado de la correccion de la costilla del almuerzo mas esta cena con arepa. Un solo dia no cambia la tendencia -- el sistema promedia por semana."
 }
