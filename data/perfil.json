@@ -49,7 +49,15 @@
     "_nota_peso": "masa_magra/masa_grasa calculadas con peso_linea_base_kg (79.4, 11 ago) + grasa% de esa misma medicion. La curva de tendencia en el dashboard arranca en peso_dia_1_kg (78.9, 12 ago)."
   },
   "contexto": {
-    "suplementos_actuales": [],
+    "suplementos_actuales": [
+      {
+        "nombre": "Ashwagandha (Micro Ingredients, softgel)",
+        "dosis": "2 softgels/noche = 300mg extracto 20:1 (equiv. 6000mg raiz) + 10mg pimienta negra",
+        "horario": "antes de dormir",
+        "desde": "2026-08-13",
+        "veredicto": "conservar -- dosis en rango clinico, momento correcto, evidencia razonable para sueno/estres"
+      }
+    ],
     "lesiones_condiciones": [],
     "alimentos_excluidos": [],
     "horario_entrenamiento": null,

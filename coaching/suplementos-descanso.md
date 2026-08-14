@@ -82,6 +82,7 @@ Antes de nada: los suplementos aportan quizá el 5 % del resultado. El otro 95 %
 | **Proteína en polvo** | Según haga falta | No es mágica, es comida práctica. Útil para llegar a 160 g los días de chicharrón, donde la grasa se te va rápido. |
 | **Cafeína** | 100–200 mg pre-entreno | Rendimiento y concentración. Respetando el corte de las 14:00 — en tu caso esto no es negociable. |
 | **Vitamina D3** | 1000–2000 UI/día | Solo si hay poca exposición solar o déficit confirmado. |
+| **Ashwagandha** | 300 mg extracto 20:1 (equiv. 6,000 mg raíz), antes de dormir | Ya la tomas (Micro Ingredients, 2 softgels/noche desde el 13 ago). De los pocos adaptógenos con evidencia real: baja cortisol y mejora calidad de sueño. Dosis en rango clínico, momento correcto. **No sustituye acostarte a las 9:40 pm** — ayuda a dormir mejor, no compensa dormir menos horas. |
 
 ## Situacional
 
