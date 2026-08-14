@@ -56,6 +56,7 @@ Vista rápida entre categorías — útil cuando solo quieres saber qué te rind
 | Trucha (plancha/horno) | 148 | 21 g | 0 g | 6.6 g | 1 filete (180g): **266 kcal**, 37.8g P, 0.0g C, 11.9g G |
 | Salmon (plancha/horno) | 208 | 20 g | 0 g | 13 g | 1 filete (180g): **374 kcal**, 36.0g P, 0.0g C, 23.4g G |
 | Jamon de cerdo (fiambre) | 145 | 18 g | 1.5 g | 6 g | 2 tajadas (30g): **44 kcal**, 5.4g P, 0.4g C, 1.8g G |
+| Hamburguesa en lechuga (sin pan, carne magra, tomate) | 138 | 16.7 g | 1.7 g | 7.2 g | 1 unidad, ~110g de carne, lechuga como envoltura (180g): **248 kcal**, 30.1g P, 3.1g C, 13.0g G |
 | Chorizo criollo/antioqueno (parrilla) | 300 | 15 g | 3 g | 26 g | 1 unidad (80g): **240 kcal**, 12.0g P, 2.4g C, 20.8g G |
 | Salchichon (fiambre) | 300 | 14 g | 2 g | 26 g | 2-3 tajadas (30g): **90 kcal**, 4.2g P, 0.6g C, 7.8g G |
 | Salchicha tipo Viena/Frankfurt (hervida) | 230 | 11 g | 3 g | 20 g | 1 unidad (50g): **115 kcal**, 5.5g P, 1.5g C, 10.0g G |
