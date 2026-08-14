@@ -94,13 +94,51 @@
       "confianza": "media",
       "origen": "foto + descripcion",
       "nota": "Papas confirmadas por el usuario en 80g (no estimacion visual). Usuario confirmo uso de ketchup y mayonesa (1 cda c/u)."
+    },
+    {
+      "momento": "snack tarde",
+      "items": [
+        {
+          "alimento": "yogur helado sin azucar (heladeria)",
+          "porcion_g": 150,
+          "kcal": 150.0,
+          "proteina_g": 6.8,
+          "carbs_g": 24.0,
+          "grasa_g": 3.8
+        },
+        {
+          "alimento": "arequipe sin azucar (chorrito)",
+          "porcion_g": 15,
+          "kcal": 40.5,
+          "proteina_g": 0.8,
+          "carbs_g": 6.0,
+          "grasa_g": 1.1
+        },
+        {
+          "alimento": "granola de coco sin azucar",
+          "porcion_g": 15,
+          "kcal": 69.0,
+          "proteina_g": 1.2,
+          "carbs_g": 8.3,
+          "grasa_g": 3.3
+        }
+      ],
+      "subtotal": {
+        "kcal": 259.5,
+        "proteina_g": 8.8,
+        "carbs_g": 38.3,
+        "grasa_g": 8.2
+      },
+      "confianza": "media",
+      "origen": "foto + descripcion",
+      "nota": "Copa de heladeria: yogur helado sin azucar, arequipe sin azucar y granola de coco sin azucar. Sin azucar no significa bajo en grasa/carbs -- la granola y el arequipe aportan la mayoria de la grasa."
     }
   ],
   "totales": {
-    "kcal": 1266.0,
-    "proteina_g": 103.8,
-    "carbs_g": 67.6,
-    "grasa_g": 63.5
+    "kcal": 1525.5,
+    "proteina_g": 112.6,
+    "carbs_g": 105.9,
+    "grasa_g": 71.7
   },
   "objetivo": {
     "kcal": 1850,
@@ -109,10 +147,10 @@
     "grasa_g": 70
   },
   "restante": {
-    "kcal": 584.0,
-    "proteina_g": 56.2,
-    "carbs_g": 77.4,
-    "grasa_g": 6.5
+    "kcal": 324.5,
+    "proteina_g": 47.4,
+    "carbs_g": 39.1,
+    "grasa_g": -1.7
   },
   "notas": "Dia 3 del plan. | Corregido 2026-08-14: arepa media tela real = 50g (pesada por el usuario), no 100g. Recalculados subtotales y totales del dia."
 }

@@ -133,6 +133,7 @@ Vista rápida entre categorías — útil cuando solo quieres saber qué te rind
 
 | Alimento | kcal/100g | Proteína | Carbos | Grasa | Porción típica |
 |---|---|---|---|---|---|
+| Granola de coco sin azucar | 460 | 8 g | 55 g | 22 g | 1 cucharada colmada (15g): **69 kcal**, 1.2g P, 8.2g C, 3.3g G |
 | Doritos (nacho) | 500 | 7 g | 58 g | 26 g | 1 paquete individual (45g): **225 kcal**, 3.1g P, 26.1g C, 11.7g G |
 | Papas fritas de paquete | 536 | 6.6 g | 53 g | 34 g | 1 paquete pequeño (30g): **161 kcal**, 2.0g P, 15.9g C, 10.2g G |
 | De Todito (queso) | 510 | 6 g | 58 g | 27 g | 1 paquete individual (40g): **204 kcal**, 2.4g P, 23.2g C, 10.8g G |
@@ -147,6 +148,8 @@ Vista rápida entre categorías — útil cuando solo quieres saber qué te rind
 |---|---|---|---|---|---|
 | Hamburguesa (con pan, queso, carne) | 280 | 15 g | 22 g | 15 g | 1 unidad completa (300g): **840 kcal**, 45.0g P, 66.0g C, 45.0g G |
 | Perro caliente con tocineta | 260 | 10 g | 22 g | 15 g | 1 unidad completa (280g): **728 kcal**, 28.0g P, 61.6g C, 42.0g G |
+| Arequipe / dulce de leche sin azucar | 270 | 5 g | 40 g | 7 g | 1 chorrito/cucharada (15g): **40 kcal**, 0.8g P, 6.0g C, 1.1g G |
+| Yogur helado sin azucar (heladeria) | 100 | 4.5 g | 16 g | 2.5 g | 1 copa mediana sola, sin toppings (150g): **150 kcal**, 6.8g P, 24.0g C, 3.8g G |
 | Milo en leche | 97 | 3.2 g | 13 g | 3.3 g | 1 vaso (240g): **233 kcal**, 7.7g P, 31.2g C, 7.9g G |
 | Mazamorra con leche (sin azucar) | 65 | 2.4 g | 10 g | 1.8 g | 1 taza mazamorra + 1 taza leche (390g): **254 kcal**, 9.4g P, 39.0g C, 7.0g G |
 | Salsa de tomate / ketchup | 100 | 1.2 g | 25 g | 0.2 g | 1 cucharada (15g): **15 kcal**, 0.2g P, 3.8g C, 0.0g G |
