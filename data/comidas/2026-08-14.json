@@ -1,0 +1,62 @@
+{
+  "fecha": "2026-08-14",
+  "dia_plan": 3,
+  "comidas": [
+    {
+      "momento": "desayuno",
+      "items": [
+        {
+          "alimento": "arepa de media tela",
+          "porcion_g": 100,
+          "kcal": 200,
+          "proteina_g": 4,
+          "carbs_g": 42,
+          "grasa_g": 2,
+          "nota_porcion": "estimacion visual, pendiente confirmar con bascula real del usuario"
+        },
+        {
+          "alimento": "4 huevos con tomate y cebolla",
+          "kcal": 365,
+          "proteina_g": 27,
+          "carbs_g": 8,
+          "grasa_g": 23
+        },
+        {
+          "alimento": "agua",
+          "kcal": 0,
+          "proteina_g": 0,
+          "carbs_g": 0,
+          "grasa_g": 0
+        }
+      ],
+      "subtotal": {
+        "kcal": 565,
+        "proteina_g": 31,
+        "carbs_g": 50,
+        "grasa_g": 25
+      },
+      "confianza": "media",
+      "origen": "reporte en texto",
+      "nota": "Usuario pidio verificar la porcion de la arepa (preocupado por que se asumiera 50g). Confirmado: siempre se ha usado 100g. Pendiente pesar con bascula real para precision."
+    }
+  ],
+  "totales": {
+    "kcal": 565,
+    "proteina_g": 31,
+    "carbs_g": 50,
+    "grasa_g": 25
+  },
+  "objetivo": {
+    "kcal": 1850,
+    "proteina_g": 160,
+    "carbs_g": 145,
+    "grasa_g": 70
+  },
+  "restante": {
+    "kcal": 1285,
+    "proteina_g": 129,
+    "carbs_g": 95,
+    "grasa_g": 45
+  },
+  "notas": "Dia 3 del plan."
+}
