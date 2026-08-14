@@ -39,13 +39,67 @@
       "confianza": "media",
       "origen": "reporte en texto",
       "nota": "Usuario pidio verificar la porcion de la arepa (preocupado por que se asumiera 50g). Confirmado: siempre se ha usado 100g. Pendiente pesar con bascula real para precision."
+    },
+    {
+      "momento": "almuerzo",
+      "items": [
+        {
+          "alimento": "bistec de res (churrasco/punta de anca, asado)",
+          "porcion_g": 220,
+          "kcal": 484.0,
+          "proteina_g": 70.4,
+          "carbs_g": 0.0,
+          "grasa_g": 22.0
+        },
+        {
+          "alimento": "papas fritas caseras",
+          "porcion_g": 80,
+          "kcal": 152.0,
+          "proteina_g": 2.4,
+          "carbs_g": 24.0,
+          "grasa_g": 5.6
+        },
+        {
+          "alimento": "ensalada (lechuga, tomate, cebolla, aguacate, mango, limon)",
+          "porcion_g": 155,
+          "kcal": 104.0,
+          "proteina_g": 2.0,
+          "carbs_g": 13.0,
+          "grasa_g": 6.0
+        },
+        {
+          "alimento": "salsa de tomate (ketchup)",
+          "porcion_g": 15,
+          "kcal": 15.0,
+          "proteina_g": 0.2,
+          "carbs_g": 3.8,
+          "grasa_g": 0.0
+        },
+        {
+          "alimento": "mayonesa",
+          "porcion_g": 15,
+          "kcal": 102.0,
+          "proteina_g": 0.2,
+          "carbs_g": 0.2,
+          "grasa_g": 11.3
+        }
+      ],
+      "subtotal": {
+        "kcal": 857.0,
+        "proteina_g": 75.2,
+        "carbs_g": 41.0,
+        "grasa_g": 44.9
+      },
+      "confianza": "media",
+      "origen": "foto + descripcion",
+      "nota": "Papas confirmadas por el usuario en 80g (no estimacion visual). Usuario confirmo uso de ketchup y mayonesa (1 cda c/u)."
     }
   ],
   "totales": {
-    "kcal": 465.0,
-    "proteina_g": 29.0,
-    "carbs_g": 29.0,
-    "grasa_g": 24.0
+    "kcal": 1322.0,
+    "proteina_g": 104.2,
+    "carbs_g": 70.0,
+    "grasa_g": 68.9
   },
   "objetivo": {
     "kcal": 1850,
@@ -54,10 +108,10 @@
     "grasa_g": 70
   },
   "restante": {
-    "kcal": 1385.0,
-    "proteina_g": 131.0,
-    "carbs_g": 116.0,
-    "grasa_g": 46.0
+    "kcal": 528.0,
+    "proteina_g": 55.8,
+    "carbs_g": 75.0,
+    "grasa_g": 1.1
   },
   "notas": "Dia 3 del plan. | Corregido 2026-08-14: arepa media tela real = 50g (pesada por el usuario), no 100g. Recalculados subtotales y totales del dia."
 }
