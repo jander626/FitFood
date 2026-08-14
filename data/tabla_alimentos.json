@@ -36,7 +36,7 @@
     { "nombre": "Proteina en polvo (whey)", "categoria": "Huevos y lacteos", "kcal100": 380, "p100": 75, "c100": 8, "g100": 5, "porcion_g": 30, "porcion_nota": "1 scoop" },
     { "nombre": "Requeson / queso cottage", "categoria": "Huevos y lacteos", "kcal100": 98, "p100": 11, "c100": 3.4, "g100": 4.3, "porcion_g": 100, "porcion_nota": "1/2 taza" },
 
-    { "nombre": "Arepa de maiz (media tela)", "categoria": "Carbohidrato / tuberculo", "kcal100": 200, "p100": 4, "c100": 42, "g100": 2, "porcion_g": 100, "porcion_nota": "1 arepa media tela" },
+    { "nombre": "Arepa de maiz (media tela)", "categoria": "Carbohidrato / tuberculo", "kcal100": 200, "p100": 4, "c100": 42, "g100": 2, "porcion_g": 50, "porcion_nota": "1 arepa media tela (pesada en bascula por el usuario = 50g)" },
     { "nombre": "Arroz blanco cocido", "categoria": "Carbohidrato / tuberculo", "kcal100": 130, "p100": 2.4, "c100": 28, "g100": 0.3, "porcion_g": 150, "porcion_nota": "1 taza" },
     { "nombre": "Pasta cocida", "categoria": "Carbohidrato / tuberculo", "kcal100": 131, "p100": 5, "c100": 25, "g100": 1.1, "porcion_g": 180, "porcion_nota": "1 plato" },
     { "nombre": "Papa cocida", "categoria": "Carbohidrato / tuberculo", "kcal100": 87, "p100": 2, "c100": 20, "g100": 0.1, "porcion_g": 150, "porcion_nota": "1 papa mediana" },

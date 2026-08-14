@@ -7,11 +7,12 @@
       "items": [
         {
           "alimento": "arepa de media tela",
-          "porcion_g": 100,
-          "kcal": 200,
-          "proteina_g": 4,
-          "carbs_g": 42,
-          "grasa_g": 2
+          "porcion_g": 50,
+          "kcal": 100.0,
+          "proteina_g": 2.0,
+          "carbs_g": 21.0,
+          "grasa_g": 1.0,
+          "nota_correccion": "Corregido 2026-08-14: el usuario peso su arepa real en bascula = 50g, no 100g."
         },
         {
           "alimento": "4 huevos con tomate y cebolla",
@@ -29,10 +30,10 @@
         }
       ],
       "subtotal": {
-        "kcal": 570,
-        "proteina_g": 31,
-        "carbs_g": 50,
-        "grasa_g": 25
+        "kcal": 470.0,
+        "proteina_g": 29.0,
+        "carbs_g": 29.0,
+        "grasa_g": 24.0
       },
       "confianza": "media",
       "origen": "foto",
@@ -101,11 +102,12 @@
       "items": [
         {
           "alimento": "arepa de media tela",
-          "porcion_g": 100,
-          "kcal": 200,
-          "proteina_g": 4,
-          "carbs_g": 42,
-          "grasa_g": 2
+          "porcion_g": 50,
+          "kcal": 100.0,
+          "proteina_g": 2.0,
+          "carbs_g": 21.0,
+          "grasa_g": 1.0,
+          "nota_correccion": "Corregido 2026-08-14: el usuario peso su arepa real en bascula = 50g, no 100g."
         },
         {
           "alimento": "carne desmechada",
@@ -117,20 +119,20 @@
         }
       ],
       "subtotal": {
-        "kcal": 400,
-        "proteina_g": 29,
-        "carbs_g": 44,
-        "grasa_g": 11
+        "kcal": 300.0,
+        "proteina_g": 27.0,
+        "carbs_g": 23.0,
+        "grasa_g": 10.0
       },
       "confianza": "alta",
       "origen": "reporte en texto (porcion exacta indicada por el usuario)"
     }
   ],
   "totales": {
-    "kcal": 2121,
-    "proteina_g": 123,
-    "carbs_g": 180,
-    "grasa_g": 98
+    "kcal": 1921.0,
+    "proteina_g": 119.0,
+    "carbs_g": 138.0,
+    "grasa_g": 96.0
   },
   "objetivo": {
     "kcal": 1850,
@@ -139,10 +141,10 @@
     "grasa_g": 70
   },
   "restante": {
-    "kcal": -271,
-    "proteina_g": 37,
-    "carbs_g": -35,
-    "grasa_g": -28
+    "kcal": -71.0,
+    "proteina_g": 41.0,
+    "carbs_g": 7.0,
+    "grasa_g": -26.0
   },
-  "notas": "Dia cerrado por encima del objetivo (271kcal, 35g carbo, 28g grasa de mas) y corto en proteina (37g). Efecto combinado de la correccion de la costilla del almuerzo mas esta cena con arepa. Un solo dia no cambia la tendencia -- el sistema promedia por semana."
+  "notas": "Dia cerrado por encima del objetivo (271kcal, 35g carbo, 28g grasa de mas) y corto en proteina (37g). Efecto combinado de la correccion de la costilla del almuerzo mas esta cena con arepa. Un solo dia no cambia la tendencia -- el sistema promedia por semana. | Corregido 2026-08-14: arepa media tela real = 50g (pesada por el usuario), no 100g. Recalculados subtotales y totales del dia."
 }
