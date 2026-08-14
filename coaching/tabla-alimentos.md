@@ -148,6 +148,7 @@ Vista rápida entre categorías — útil cuando solo quieres saber qué te rind
 
 | Alimento | kcal/100g | Proteína | Carbos | Grasa | Porción típica |
 |---|---|---|---|---|---|
+| Hamburguesa casera (2 panes delgados, carne magra, lechuga, tomate, sin queso) | 209 | 16.8 g | 17.8 g | 7.7 g | 1 unidad, ~110g de carne (210g): **439 kcal**, 35.3g P, 37.4g C, 16.2g G |
 | Hamburguesa (con pan, queso, carne) | 280 | 15 g | 22 g | 15 g | 1 unidad completa (300g): **840 kcal**, 45.0g P, 66.0g C, 45.0g G |
 | Perro caliente con tocineta | 260 | 10 g | 22 g | 15 g | 1 unidad completa (280g): **728 kcal**, 28.0g P, 61.6g C, 42.0g G |
 | Arequipe / dulce de leche sin azucar | 270 | 5 g | 40 g | 7 g | 1 chorrito/cucharada (15g): **40 kcal**, 0.8g P, 6.0g C, 1.1g G |

@@ -96,6 +96,7 @@
     { "nombre": "Gaseosa", "categoria": "Dulce / bebida", "kcal100": 42, "p100": 0, "c100": 10.6, "g100": 0, "porcion_g": 350, "porcion_nota": "1 lata" },
     { "nombre": "Cerveza", "categoria": "Dulce / bebida", "kcal100": 43, "p100": 0.5, "c100": 3.6, "g100": 0, "porcion_g": 330, "porcion_nota": "1 botella" },
     { "nombre": "Hamburguesa (con pan, queso, carne)", "categoria": "Dulce / bebida", "kcal100": 280, "p100": 15, "c100": 22, "g100": 15, "porcion_g": 300, "porcion_nota": "1 unidad completa" },
+    { "nombre": "Hamburguesa casera (2 panes delgados, carne magra, lechuga, tomate, sin queso)", "categoria": "Dulce / bebida", "kcal100": 209, "p100": 16.8, "c100": 17.8, "g100": 7.7, "porcion_g": 210, "porcion_nota": "1 unidad, ~110g de carne" },
     { "nombre": "Perro caliente con tocineta", "categoria": "Dulce / bebida", "kcal100": 260, "p100": 10, "c100": 22, "g100": 15, "porcion_g": 280, "porcion_nota": "1 unidad completa" }
   ]
 }
