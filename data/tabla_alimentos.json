@@ -19,6 +19,10 @@
     { "nombre": "Pechuga de pavo", "categoria": "Proteina animal", "kcal100": 135, "p100": 29, "c100": 0, "g100": 1, "porcion_g": 200, "porcion_nota": "1 pechuga mediana" },
     { "nombre": "Carne molida de res (magra)", "categoria": "Proteina animal", "kcal100": 215, "p100": 26, "c100": 0, "g100": 12, "porcion_g": 150, "porcion_nota": "para preparar" },
     { "nombre": "Jamon de cerdo (fiambre)", "categoria": "Proteina animal", "kcal100": 145, "p100": 18, "c100": 1.5, "g100": 6, "porcion_g": 30, "porcion_nota": "2 tajadas" },
+    { "nombre": "Chorizo espanol (curado)", "categoria": "Proteina animal", "kcal100": 455, "p100": 24, "c100": 2, "g100": 38, "porcion_g": 50, "porcion_nota": "unas 5 tajadas" },
+    { "nombre": "Chorizo criollo/antioqueno (parrilla)", "categoria": "Proteina animal", "kcal100": 300, "p100": 15, "c100": 3, "g100": 26, "porcion_g": 80, "porcion_nota": "1 unidad" },
+    { "nombre": "Salchichon (fiambre)", "categoria": "Proteina animal", "kcal100": 300, "p100": 14, "c100": 2, "g100": 26, "porcion_g": 30, "porcion_nota": "2-3 tajadas" },
+    { "nombre": "Salchicha tipo Viena/Frankfurt (hervida)", "categoria": "Proteina animal", "kcal100": 230, "p100": 11, "c100": 3, "g100": 20, "porcion_g": 50, "porcion_nota": "1 unidad" },
 
     { "nombre": "Huevo entero (frito/revuelto)", "categoria": "Huevos y lacteos", "kcal100": 155, "p100": 13, "c100": 1.5, "g100": 11, "porcion_g": 50, "porcion_nota": "1 unidad" },
     { "nombre": "Clara de huevo", "categoria": "Huevos y lacteos", "kcal100": 52, "p100": 11, "c100": 0.7, "g100": 0.2, "porcion_g": 33, "porcion_nota": "1 clara" },

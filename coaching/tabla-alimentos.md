@@ -25,11 +25,11 @@ Vista rápida entre categorías — útil cuando solo quieres saber qué te rind
 | 13 | Queso mozzarella | Huevos y lácteos | 280 | **25 g** |
 | 14 | Costilla de cerdo / BBQ | Proteínas animales | 330 | **24 g** |
 | 15 | Camarones cocidos | Proteínas animales | 99 | **24 g** |
-| 16 | Costilla de res al horno | Proteínas animales | 315 | **22 g** |
-| 17 | Chicharron (piel de cerdo frita) | Proteínas animales | 520 | **22 g** |
-| 18 | Trucha (plancha/horno) | Proteínas animales | 148 | **21 g** |
-| 19 | Salmon (plancha/horno) | Proteínas animales | 208 | **20 g** |
-| 20 | Queso costeno / fresco | Huevos y lácteos | 320 | **20 g** |
+| 16 | Chorizo espanol (curado) | Proteínas animales | 455 | **24 g** |
+| 17 | Costilla de res al horno | Proteínas animales | 315 | **22 g** |
+| 18 | Chicharron (piel de cerdo frita) | Proteínas animales | 520 | **22 g** |
+| 19 | Trucha (plancha/horno) | Proteínas animales | 148 | **21 g** |
+| 20 | Salmon (plancha/horno) | Proteínas animales | 208 | **20 g** |
 
 ## Proteínas animales
 
@@ -48,11 +48,15 @@ Vista rápida entre categorías — útil cuando solo quieres saber qué te rind
 | Carne desmechada (guisada) | 200 | 25 g | 2 g | 9 g | para arepa/relleno (150g): **300 kcal**, 37.5g P, 3.0g C, 13.5g G |
 | Costilla de cerdo / BBQ | 330 | 24 g | 3 g | 25 g | con salsa BBQ (200g): **660 kcal**, 48.0g P, 6.0g C, 50.0g G |
 | Camarones cocidos | 99 | 24 g | 0 g | 0.3 g | 1 porcion (150g): **148 kcal**, 36.0g P, 0.0g C, 0.4g G |
+| Chorizo espanol (curado) | 455 | 24 g | 2 g | 38 g | unas 5 tajadas (50g): **228 kcal**, 12.0g P, 1.0g C, 19.0g G |
 | Costilla de res al horno | 315 | 22 g | 0 g | 25 g | corte visible en el plato (220g): **693 kcal**, 48.4g P, 0.0g C, 55.0g G |
 | Chicharron (piel de cerdo frita) | 520 | 22 g | 0 g | 47 g | porcion mediana en airfryer (100g): **520 kcal**, 22.0g P, 0.0g C, 47.0g G |
 | Trucha (plancha/horno) | 148 | 21 g | 0 g | 6.6 g | 1 filete (180g): **266 kcal**, 37.8g P, 0.0g C, 11.9g G |
 | Salmon (plancha/horno) | 208 | 20 g | 0 g | 13 g | 1 filete (180g): **374 kcal**, 36.0g P, 0.0g C, 23.4g G |
 | Jamon de cerdo (fiambre) | 145 | 18 g | 1.5 g | 6 g | 2 tajadas (30g): **44 kcal**, 5.4g P, 0.4g C, 1.8g G |
+| Chorizo criollo/antioqueno (parrilla) | 300 | 15 g | 3 g | 26 g | 1 unidad (80g): **240 kcal**, 12.0g P, 2.4g C, 20.8g G |
+| Salchichon (fiambre) | 300 | 14 g | 2 g | 26 g | 2-3 tajadas (30g): **90 kcal**, 4.2g P, 0.6g C, 7.8g G |
+| Salchicha tipo Viena/Frankfurt (hervida) | 230 | 11 g | 3 g | 20 g | 1 unidad (50g): **115 kcal**, 5.5g P, 1.5g C, 10.0g G |
 
 ## Huevos y lácteos
 
