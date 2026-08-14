@@ -137,7 +137,9 @@ Vista rápida entre categorías — útil cuando solo quieres saber qué te rind
 | Papas fritas de paquete | 536 | 6.6 g | 53 g | 34 g | 1 paquete pequeño (30g): **161 kcal**, 2.0g P, 15.9g C, 10.2g G |
 | De Todito (queso) | 510 | 6 g | 58 g | 27 g | 1 paquete individual (40g): **204 kcal**, 2.4g P, 23.2g C, 10.8g G |
 | Chitos / Kchitos | 560 | 5 g | 55 g | 35 g | 1 paquete individual (32g): **179 kcal**, 1.6g P, 17.6g C, 11.2g G |
+| Helado sin azucar (light) | 90 | 3 g | 16 g | 2 g | 1 paleta/barra pequeña (65g): **58 kcal**, 2.0g P, 10.4g C, 1.3g G |
 | Platanitos fritos de paquete | 536 | 2 g | 58 g | 32 g | 1 paquete pequeño (35g): **188 kcal**, 0.7g P, 20.3g C, 11.2g G |
+| Gelatina sin azucar | 8 | 1.5 g | 0.5 g | 0 g | 1 pocillo (120g): **10 kcal**, 1.8g P, 0.6g C, 0.0g G |
 
 ## Dulces, salsas y bebidas
 

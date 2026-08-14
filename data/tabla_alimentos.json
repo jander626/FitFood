@@ -33,6 +33,8 @@
     { "nombre": "Yogur griego natural", "categoria": "Huevos y lacteos", "kcal100": 59, "p100": 10, "c100": 3.6, "g100": 0.4, "porcion_g": 170, "porcion_nota": "1 pote" },
     { "nombre": "Leche entera", "categoria": "Huevos y lacteos", "kcal100": 61, "p100": 3.2, "c100": 4.8, "g100": 3.3, "porcion_g": 240, "porcion_nota": "1 vaso" },
     { "nombre": "Kumis / yogur para tomar", "categoria": "Huevos y lacteos", "kcal100": 70, "p100": 3, "c100": 8, "g100": 3, "porcion_g": 200, "porcion_nota": "1 vaso" },
+    { "nombre": "Helado sin azucar (light)", "categoria": "Snack empacado", "kcal100": 90, "p100": 3, "c100": 16, "g100": 2, "porcion_g": 65, "porcion_nota": "1 paleta/barra pequeña" },
+    { "nombre": "Gelatina sin azucar", "categoria": "Snack empacado", "kcal100": 8, "p100": 1.5, "c100": 0.5, "g100": 0, "porcion_g": 120, "porcion_nota": "1 pocillo" },
     { "nombre": "Proteina en polvo (whey)", "categoria": "Huevos y lacteos", "kcal100": 380, "p100": 75, "c100": 8, "g100": 5, "porcion_g": 30, "porcion_nota": "1 scoop" },
     { "nombre": "Requeson / queso cottage", "categoria": "Huevos y lacteos", "kcal100": 98, "p100": 11, "c100": 3.4, "g100": 4.3, "porcion_g": 100, "porcion_nota": "1/2 taza" },
 
