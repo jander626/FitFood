@@ -121,12 +121,14 @@ Vista rápida entre categorías — útil cuando solo quieres saber qué te rind
 | Naranja | 47 | 0.9 g | 12 g | 0.1 g | 1 unidad (150g): **70 kcal**, 1.4g P, 18.0g C, 0.2g G |
 | Mango | 60 | 0.8 g | 15 g | 0.4 g | 1/2 unidad (100g): **60 kcal**, 0.8g P, 15.0g C, 0.4g G |
 | Pina | 50 | 0.5 g | 13 g | 0.1 g | 1 taza en trozos (100g): **50 kcal**, 0.5g P, 13.0g C, 0.1g G |
+| Manzana | 52 | 0.3 g | 14 g | 0.2 g | 1 unidad (150g): **78 kcal**, 0.4g P, 21.0g C, 0.3g G |
 
 ## Grasas y untables
 
 | Alimento | kcal/100g | Proteína | Carbos | Grasa | Porción típica |
 |---|---|---|---|---|---|
 | Nueces / almendras | 600 | 20 g | 20 g | 52 g | 1 punado (25g): **150 kcal**, 5.0g P, 5.0g C, 13.0g G |
+| Coco rallado (crudo, sin azucar) | 354 | 3.3 g | 15 g | 33 g | 2 cucharadas (20g): **71 kcal**, 0.7g P, 3.0g C, 6.6g G |
 | Mayonesa | 680 | 1 g | 1.5 g | 75 g | 1 cucharada (15g): **102 kcal**, 0.1g P, 0.2g C, 11.2g G |
 | Mantequilla | 717 | 0.9 g | 0.1 g | 81 g | 1 cucharadita (10g): **72 kcal**, 0.1g P, 0.0g C, 8.1g G |
 | Aceite (cualquiera) | 884 | 0 g | 0 g | 100 g | 1 cucharada (14g): **124 kcal**, 0.0g P, 0.0g C, 14.0g G |

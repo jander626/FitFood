@@ -1,12 +1,75 @@
 {
   "fecha": "2026-08-15",
   "dia_plan": 4,
-  "comidas": [],
+  "comidas": [
+    {
+      "momento": "desayuno",
+      "items": [
+        {
+          "alimento": "yogur griego natural",
+          "porcion_g": 170,
+          "kcal": 100.3,
+          "proteina_g": 17.0,
+          "carbs_g": 6.1,
+          "grasa_g": 0.7
+        },
+        {
+          "alimento": "coco rallado (crudo, sin azucar)",
+          "porcion_g": 30,
+          "kcal": 106.2,
+          "proteina_g": 1.0,
+          "carbs_g": 4.5,
+          "grasa_g": 9.9
+        },
+        {
+          "alimento": "granola de coco sin azucar",
+          "porcion_g": 15,
+          "kcal": 69.0,
+          "proteina_g": 1.2,
+          "carbs_g": 8.3,
+          "grasa_g": 3.3
+        },
+        {
+          "alimento": "pina",
+          "porcion_g": 60,
+          "kcal": 30.0,
+          "proteina_g": 0.3,
+          "carbs_g": 7.8,
+          "grasa_g": 0.1
+        },
+        {
+          "alimento": "mango",
+          "porcion_g": 50,
+          "kcal": 30.0,
+          "proteina_g": 0.4,
+          "carbs_g": 7.5,
+          "grasa_g": 0.2
+        },
+        {
+          "alimento": "manzana",
+          "porcion_g": 80,
+          "kcal": 41.6,
+          "proteina_g": 0.2,
+          "carbs_g": 11.2,
+          "grasa_g": 0.2
+        }
+      ],
+      "subtotal": {
+        "kcal": 377.1,
+        "proteina_g": 20.1,
+        "carbs_g": 45.4,
+        "grasa_g": 14.4
+      },
+      "confianza": "media",
+      "origen": "foto + descripcion",
+      "nota": "Bowl de yogur griego con coco rallado abundante, granola de coco, pina, mango y manzana. Porciones de fruta y coco estimadas por volumen visual."
+    }
+  ],
   "totales": {
-    "kcal": 0,
-    "proteina_g": 0,
-    "carbs_g": 0,
-    "grasa_g": 0
+    "kcal": 377.1,
+    "proteina_g": 20.1,
+    "carbs_g": 45.4,
+    "grasa_g": 14.4
   },
   "objetivo": {
     "kcal": 1850,
@@ -15,10 +78,10 @@
     "grasa_g": 70
   },
   "restante": {
-    "kcal": 1850,
-    "proteina_g": 160,
-    "carbs_g": 145,
-    "grasa_g": 70
+    "kcal": 1472.9,
+    "proteina_g": 139.9,
+    "carbs_g": 99.6,
+    "grasa_g": 55.6
   },
   "notas": "Dia 4 (sabado). Usuario planea trotar 8km con su perro. Comidas pendientes de reportar durante el dia."
 }
