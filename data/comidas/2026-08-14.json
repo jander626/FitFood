@@ -132,13 +132,35 @@
       "confianza": "media",
       "origen": "foto + descripcion",
       "nota": "Copa de heladeria: yogur helado sin azucar, arequipe sin azucar y granola de coco sin azucar. Sin azucar no significa bajo en grasa/carbs -- la granola y el arequipe aportan la mayoria de la grasa."
+    },
+    {
+      "momento": "cena",
+      "items": [
+        {
+          "alimento": "hamburguesa casera (2 panes delgados, carne magra ~110g, lechuga, tomate, sin queso)",
+          "porcion_g": 210,
+          "kcal": 438.9,
+          "proteina_g": 35.3,
+          "carbs_g": 37.4,
+          "grasa_g": 16.2
+        }
+      ],
+      "subtotal": {
+        "kcal": 438.9,
+        "proteina_g": 35.3,
+        "carbs_g": 37.4,
+        "grasa_g": 16.2
+      },
+      "confianza": "media",
+      "origen": "reporte en texto",
+      "nota": "Usuario confirmo que se comio la hamburguesa con pan (no en lechuga)."
     }
   ],
   "totales": {
-    "kcal": 1525.5,
-    "proteina_g": 112.6,
-    "carbs_g": 105.9,
-    "grasa_g": 71.7
+    "kcal": 1964.4,
+    "proteina_g": 147.9,
+    "carbs_g": 143.3,
+    "grasa_g": 87.9
   },
   "objetivo": {
     "kcal": 1850,
@@ -147,10 +169,10 @@
     "grasa_g": 70
   },
   "restante": {
-    "kcal": 324.5,
-    "proteina_g": 47.4,
-    "carbs_g": 39.1,
-    "grasa_g": -1.7
+    "kcal": -114.4,
+    "proteina_g": 12.1,
+    "carbs_g": 1.7,
+    "grasa_g": -17.9
   },
   "notas": "Dia 3 del plan. | Corregido 2026-08-14: arepa media tela real = 50g (pesada por el usuario), no 100g. Recalculados subtotales y totales del dia."
 }
