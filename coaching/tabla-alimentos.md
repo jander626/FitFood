@@ -72,6 +72,7 @@ Vista rápida entre categorías — útil cuando solo quieres saber qué te rind
 | Clara de huevo | 52 | 11 g | 0.7 g | 0.2 g | 1 clara (33g): **17 kcal**, 3.6g P, 0.2g C, 0.1g G |
 | Requeson / queso cottage | 98 | 11 g | 3.4 g | 4.3 g | 1/2 taza (100g): **98 kcal**, 11.0g P, 3.4g C, 4.3g G |
 | Yogur griego natural | 59 | 10 g | 3.6 g | 0.4 g | 1 pote (170g): **100 kcal**, 17.0g P, 6.1g C, 0.7g G |
+| Queso crema | 340 | 6 g | 4 g | 34 g | 2 cucharadas (30g): **102 kcal**, 1.8g P, 1.2g C, 10.2g G |
 | Leche entera | 61 | 3.2 g | 4.8 g | 3.3 g | 1 vaso (240g): **146 kcal**, 7.7g P, 11.5g C, 7.9g G |
 | Kumis / yogur para tomar | 70 | 3 g | 8 g | 3 g | 1 vaso (200g): **140 kcal**, 6.0g P, 16.0g C, 6.0g G |
 

@@ -85,13 +85,52 @@
       "confianza": "alta",
       "origen": "reporte en texto",
       "nota": "200ml de cerveza, antes del almuerzo."
+    },
+    {
+      "momento": "almuerzo",
+      "items": [
+        {
+          "alimento": "bondiola de cerdo (congelada cruda, asada a la plancha)",
+          "porcion_g": 350,
+          "kcal": 735.0,
+          "proteina_g": 63.0,
+          "carbs_g": 0.0,
+          "grasa_g": 52.5,
+          "nota": "350g pesados congelados/crudos; se uso tasa de crudo (no la tasa de cocido de la tabla) para no sobreestimar por la merma de agua en coccion."
+        },
+        {
+          "alimento": "papas cocidas con salsa (yogur griego, queso crema, cilantro, ajo)",
+          "porcion_g": 260,
+          "kcal": 276.7,
+          "proteina_g": 8.5,
+          "carbs_g": 42.1,
+          "grasa_g": 8.8
+        },
+        {
+          "alimento": "ensalada de mango, zanahoria y aguacate",
+          "porcion_g": 160,
+          "kcal": 124.6,
+          "proteina_g": 1.8,
+          "carbs_g": 18.6,
+          "grasa_g": 6.4
+        }
+      ],
+      "subtotal": {
+        "kcal": 1136.3,
+        "proteina_g": 73.3,
+        "carbs_g": 60.7,
+        "grasa_g": 67.7
+      },
+      "confianza": "media",
+      "origen": "foto + descripcion",
+      "nota": "Bondiola congelada 350g (ver nota de conversion cruda->cocida). Salsa de las papas es yogur griego + queso crema + cilantro + ajo, no la version baja en grasa sugerida -- esto sube bastante la grasa del dia."
     }
   ],
   "totales": {
-    "kcal": 463.1,
-    "proteina_g": 21.1,
-    "carbs_g": 52.6,
-    "grasa_g": 14.4
+    "kcal": 1599.4,
+    "proteina_g": 94.4,
+    "carbs_g": 113.3,
+    "grasa_g": 82.1
   },
   "objetivo": {
     "kcal": 1850,
@@ -100,10 +139,10 @@
     "grasa_g": 70
   },
   "restante": {
-    "kcal": 1386.9,
-    "proteina_g": 138.9,
-    "carbs_g": 92.4,
-    "grasa_g": 55.6
+    "kcal": 250.6,
+    "proteina_g": 65.6,
+    "carbs_g": 31.7,
+    "grasa_g": -12.1
   },
   "notas": "Dia 4 (sabado). Usuario planea trotar 8km con su perro. Comidas pendientes de reportar durante el dia."
 }
