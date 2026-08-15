@@ -63,12 +63,34 @@
       "confianza": "media",
       "origen": "foto + descripcion",
       "nota": "Bowl de yogur griego con coco rallado abundante, granola de coco, pina, mango y manzana. Porciones de fruta y coco estimadas por volumen visual."
+    },
+    {
+      "momento": "bebida",
+      "items": [
+        {
+          "alimento": "cerveza",
+          "porcion_ml": 200,
+          "kcal": 86.0,
+          "proteina_g": 1.0,
+          "carbs_g": 7.2,
+          "grasa_g": 0.0
+        }
+      ],
+      "subtotal": {
+        "kcal": 86.0,
+        "proteina_g": 1.0,
+        "carbs_g": 7.2,
+        "grasa_g": 0.0
+      },
+      "confianza": "alta",
+      "origen": "reporte en texto",
+      "nota": "200ml de cerveza, antes del almuerzo."
     }
   ],
   "totales": {
-    "kcal": 377.1,
-    "proteina_g": 20.1,
-    "carbs_g": 45.4,
+    "kcal": 463.1,
+    "proteina_g": 21.1,
+    "carbs_g": 52.6,
     "grasa_g": 14.4
   },
   "objetivo": {
@@ -78,9 +100,9 @@
     "grasa_g": 70
   },
   "restante": {
-    "kcal": 1472.9,
-    "proteina_g": 139.9,
-    "carbs_g": 99.6,
+    "kcal": 1386.9,
+    "proteina_g": 138.9,
+    "carbs_g": 92.4,
     "grasa_g": 55.6
   },
   "notas": "Dia 4 (sabado). Usuario planea trotar 8km con su perro. Comidas pendientes de reportar durante el dia."
