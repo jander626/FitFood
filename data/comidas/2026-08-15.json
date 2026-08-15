@@ -1,0 +1,24 @@
+{
+  "fecha": "2026-08-15",
+  "dia_plan": 4,
+  "comidas": [],
+  "totales": {
+    "kcal": 0,
+    "proteina_g": 0,
+    "carbs_g": 0,
+    "grasa_g": 0
+  },
+  "objetivo": {
+    "kcal": 1850,
+    "proteina_g": 160,
+    "carbs_g": 145,
+    "grasa_g": 70
+  },
+  "restante": {
+    "kcal": 1850,
+    "proteina_g": 160,
+    "carbs_g": 145,
+    "grasa_g": 70
+  },
+  "notas": "Dia 4 (sabado). Usuario planea trotar 8km con su perro. Comidas pendientes de reportar durante el dia."
+}
