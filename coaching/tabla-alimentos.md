@@ -83,6 +83,7 @@ Vista rápida entre categorías — útil cuando solo quieres saber qué te rind
 | Pasta cocida | 131 | 5 g | 25 g | 1.1 g | 1 plato (180g): **236 kcal**, 9.0g P, 45.0g C, 2.0g G |
 | Arepa de maiz (media tela) | 200 | 4 g | 42 g | 2 g | 1 arepa media tela (pesada en bascula por el usuario = 50g) (50g): **100 kcal**, 2.0g P, 21.0g C, 1.0g G |
 | Papa frita (con aceite) | 190 | 3 g | 30 g | 7 g | porcion mediana (150g): **285 kcal**, 4.5g P, 45.0g C, 10.5g G |
+| Avena cocida (con agua) | 70 | 2.5 g | 12 g | 1.5 g | 1 taza cocida (200g): **140 kcal**, 5.0g P, 24.0g C, 3.0g G |
 | Papa airfryer sin aceite | 120 | 2.5 g | 27 g | 0.3 g | porcion mediana, sin aceite anadido (150g): **180 kcal**, 3.8g P, 40.5g C, 0.4g G |
 | Pure de papa (con leche/mantequilla) | 138 | 2.5 g | 19 g | 5 g | cama de pure (160g): **221 kcal**, 4.0g P, 30.4g C, 8.0g G |
 | Arroz blanco cocido | 130 | 2.4 g | 28 g | 0.3 g | 1 taza (150g): **195 kcal**, 3.6g P, 42.0g C, 0.4g G |

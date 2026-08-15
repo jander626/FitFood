@@ -39,6 +39,7 @@
     { "nombre": "Gelatina sin azucar", "categoria": "Snack empacado", "kcal100": 8, "p100": 1.5, "c100": 0.5, "g100": 0, "porcion_g": 120, "porcion_nota": "1 pocillo" },
     { "nombre": "Proteina en polvo (whey)", "categoria": "Huevos y lacteos", "kcal100": 380, "p100": 75, "c100": 8, "g100": 5, "porcion_g": 30, "porcion_nota": "1 scoop" },
     { "nombre": "Requeson / queso cottage", "categoria": "Huevos y lacteos", "kcal100": 98, "p100": 11, "c100": 3.4, "g100": 4.3, "porcion_g": 100, "porcion_nota": "1/2 taza" },
+    { "nombre": "Avena cocida (con agua)", "categoria": "Carbohidrato / tuberculo", "kcal100": 70, "p100": 2.5, "c100": 12, "g100": 1.5, "porcion_g": 200, "porcion_nota": "1 taza cocida" },
 
     { "nombre": "Arepa de maiz (media tela)", "categoria": "Carbohidrato / tuberculo", "kcal100": 200, "p100": 4, "c100": 42, "g100": 2, "porcion_g": 50, "porcion_nota": "1 arepa media tela (pesada en bascula por el usuario = 50g)" },
     { "nombre": "Arroz blanco cocido", "categoria": "Carbohidrato / tuberculo", "kcal100": 130, "p100": 2.4, "c100": 28, "g100": 0.3, "porcion_g": 150, "porcion_nota": "1 taza" },
