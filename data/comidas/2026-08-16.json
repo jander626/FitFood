@@ -71,13 +71,43 @@
       "confianza": "media",
       "origen": "reporte en texto",
       "nota": "Wrap de pollo tal como se planeo: tortilla 21cm, pollo ~100g, lechuga, tomate, queso. Papas 80g con 1 cucharada de salsa de ajo."
+    },
+    {
+      "momento": "snack tarde",
+      "items": [
+        {
+          "alimento": "arepa de maiz (media tela)",
+          "porcion_g": 75,
+          "kcal": 150.0,
+          "proteina_g": 3.0,
+          "carbs_g": 31.5,
+          "grasa_g": 1.5
+        },
+        {
+          "alimento": "hogao (tomate y cebolla, poquito)",
+          "porcion_g": 45,
+          "kcal": 56.0,
+          "proteina_g": 0.4,
+          "carbs_g": 2.6,
+          "grasa_g": 5.1
+        }
+      ],
+      "subtotal": {
+        "kcal": 206.0,
+        "proteina_g": 3.4,
+        "carbs_g": 34.1,
+        "grasa_g": 6.6
+      },
+      "confianza": "media",
+      "origen": "reporte en texto",
+      "nota": "Arepa de maiz 75g (esta es de maiz, distinta a la de platano del desayuno) con un poco de hogao."
     }
   ],
   "totales": {
-    "kcal": 1109.3,
-    "proteina_g": 66.9,
-    "carbs_g": 90.8,
-    "grasa_g": 53.8
+    "kcal": 1315.3,
+    "proteina_g": 70.3,
+    "carbs_g": 124.9,
+    "grasa_g": 60.4
   },
   "objetivo": {
     "kcal": 1850,
@@ -86,10 +116,10 @@
     "grasa_g": 70
   },
   "restante": {
-    "kcal": 740.7,
-    "proteina_g": 93.1,
-    "carbs_g": 54.2,
-    "grasa_g": 16.2
+    "kcal": 534.7,
+    "proteina_g": 89.7,
+    "carbs_g": 20.1,
+    "grasa_g": 9.6
   },
   "notas": "Dia 5 (domingo). Comidas pendientes de reportar durante el dia."
 }
