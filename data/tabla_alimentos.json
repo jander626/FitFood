@@ -52,6 +52,7 @@
     { "nombre": "Yuca cocida", "categoria": "Carbohidrato / tuberculo", "kcal100": 160, "p100": 1.4, "c100": 38, "g100": 0.3, "porcion_g": 150, "porcion_nota": "1 porcion" },
     { "nombre": "Platano maduro frito (tajadas)", "categoria": "Carbohidrato / tuberculo", "kcal100": 220, "p100": 1.3, "c100": 40, "g100": 7, "porcion_g": 100, "porcion_nota": "2-3 tajadas" },
     { "nombre": "Platano verde cocido", "categoria": "Carbohidrato / tuberculo", "kcal100": 122, "p100": 1.3, "c100": 32, "g100": 0.4, "porcion_g": 120, "porcion_nota": "1 porcion" },
+    { "nombre": "Patacones (platano verde, doble friccion)", "categoria": "Carbohidrato / tuberculo", "kcal100": 190, "p100": 1.5, "c100": 28, "g100": 8.5, "porcion_g": 110, "porcion_nota": "2 unidades medianas" },
     { "nombre": "Pan integral", "categoria": "Carbohidrato / tuberculo", "kcal100": 265, "p100": 13, "c100": 47, "g100": 3.5, "porcion_g": 30, "porcion_nota": "1 rebanada" },
     { "nombre": "Maiz trillado / mazamorra (sin leche)", "categoria": "Carbohidrato / tuberculo", "kcal100": 96, "p100": 2.3, "c100": 21, "g100": 0.6, "porcion_g": 150, "porcion_nota": "1 taza" },
 
@@ -97,6 +98,7 @@
     { "nombre": "Arequipe / dulce de leche sin azucar", "categoria": "Dulce / bebida", "kcal100": 270, "p100": 5, "c100": 40, "g100": 7, "porcion_g": 15, "porcion_nota": "1 chorrito/cucharada" },
     { "nombre": "Granola de coco sin azucar", "categoria": "Snack empacado", "kcal100": 460, "p100": 8, "c100": 55, "g100": 22, "porcion_g": 15, "porcion_nota": "1 cucharada colmada" },
     { "nombre": "Jugo de naranja natural", "categoria": "Dulce / bebida", "kcal100": 45, "p100": 0.7, "c100": 10, "g100": 0.2, "porcion_g": 240, "porcion_nota": "1 vaso" },
+    { "nombre": "Jugo de mora (con azucar)", "categoria": "Dulce / bebida", "kcal100": 48, "p100": 0.3, "c100": 12, "g100": 0, "porcion_g": 250, "porcion_nota": "1 vaso" },
     { "nombre": "Gaseosa", "categoria": "Dulce / bebida", "kcal100": 42, "p100": 0, "c100": 10.6, "g100": 0, "porcion_g": 350, "porcion_nota": "1 lata" },
     { "nombre": "Cerveza", "categoria": "Dulce / bebida", "kcal100": 43, "p100": 0.5, "c100": 3.6, "g100": 0, "porcion_g": 330, "porcion_nota": "1 botella" },
     { "nombre": "Hamburguesa (con pan, queso, carne)", "categoria": "Dulce / bebida", "kcal100": 280, "p100": 15, "c100": 22, "g100": 15, "porcion_g": 300, "porcion_nota": "1 unidad completa" },

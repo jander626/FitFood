@@ -90,6 +90,7 @@ Vista rápida entre categorías — útil cuando solo quieres saber qué te rind
 | Arroz blanco cocido | 130 | 2.4 g | 28 g | 0.3 g | 1 taza (150g): **195 kcal**, 3.6g P, 42.0g C, 0.4g G |
 | Maiz trillado / mazamorra (sin leche) | 96 | 2.3 g | 21 g | 0.6 g | 1 taza (150g): **144 kcal**, 3.4g P, 31.5g C, 0.9g G |
 | Papa cocida | 87 | 2 g | 20 g | 0.1 g | 1 papa mediana (150g): **130 kcal**, 3.0g P, 30.0g C, 0.2g G |
+| Patacones (platano verde, doble friccion) | 190 | 1.5 g | 28 g | 8.5 g | 2 unidades medianas (110g): **209 kcal**, 1.7g P, 30.8g C, 9.4g G |
 | Yuca cocida | 160 | 1.4 g | 38 g | 0.3 g | 1 porcion (150g): **240 kcal**, 2.1g P, 57.0g C, 0.4g G |
 | Platano maduro frito (tajadas) | 220 | 1.3 g | 40 g | 7 g | 2-3 tajadas (100g): **220 kcal**, 1.3g P, 40.0g C, 7.0g G |
 | Platano verde cocido | 122 | 1.3 g | 32 g | 0.4 g | 1 porcion (120g): **146 kcal**, 1.6g P, 38.4g C, 0.5g G |
@@ -166,6 +167,7 @@ Vista rápida entre categorías — útil cuando solo quieres saber qué te rind
 | Cerveza | 43 | 0.5 g | 3.6 g | 0 g | 1 botella (330g): **142 kcal**, 1.6g P, 11.9g C, 0.0g G |
 | Bocadillo de guayaba | 285 | 0.3 g | 71 g | 0.1 g | 1 unidad pequena (30g): **86 kcal**, 0.1g P, 21.3g C, 0.0g G |
 | Salsa de ciruelas (plum sauce) | 235 | 0.3 g | 57 g | 0.2 g | 2 cucharadas (30g): **70 kcal**, 0.1g P, 17.1g C, 0.1g G |
+| Jugo de mora (con azucar) | 48 | 0.3 g | 12 g | 0 g | 1 vaso (250g): **120 kcal**, 0.8g P, 30.0g C, 0.0g G |
 | Panela | 380 | 0 g | 98 g | 0 g | 1 cucharada (15g): **57 kcal**, 0.0g P, 14.7g C, 0.0g G |
 | Te endulzado (Hatsu y similares) | 40 | 0 g | 10 g | 0 g | 1 vaso (250g): **100 kcal**, 0.0g P, 25.0g C, 0.0g G |
 | Gaseosa | 42 | 0 g | 10.6 g | 0 g | 1 lata (350g): **147 kcal**, 0.0g P, 37.1g C, 0.0g G |
