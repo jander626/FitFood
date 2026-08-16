@@ -29,6 +29,12 @@
       "kg": 78.7,
       "condiciones": "ayunas, boxer+pantaloneta+reloj",
       "nota": "DIA 4. Sube 0.2kg vs ayer, coherente con la cena mas alta en sodio/grasa (hamburguesa) del dia 3."
+    },
+    {
+      "fecha": "2026-08-16",
+      "kg": 78.6,
+      "condiciones": "ayunas, boxer+pantaloneta+reloj",
+      "nota": "DIA 5. Baja 0.1kg pese al dia 4 sobre el objetivo (+521kcal, +46g grasa) -- consistente con el trote de 8km compensando el balance calorico total."
     }
   ]
 }
