@@ -41,13 +41,43 @@
       "confianza": "media",
       "origen": "foto + descripcion",
       "nota": "Corregido: platano cocido (no frito, hecho en wafflera) y huevos asados con minima mantequilla (no fritos). 2 arepas de 60g cada una confirmadas por el usuario."
+    },
+    {
+      "momento": "almuerzo",
+      "items": [
+        {
+          "alimento": "wrap de pollo (tortilla 21cm, lechuga, tomate, queso)",
+          "porcion_g": 225,
+          "kcal": 398.0,
+          "proteina_g": 42.0,
+          "carbs_g": 27.0,
+          "grasa_g": 13.0
+        },
+        {
+          "alimento": "papas (80g) con salsa de ajo",
+          "porcion_g": 100,
+          "kcal": 282.0,
+          "proteina_g": 2.6,
+          "carbs_g": 24.4,
+          "grasa_g": 19.6
+        }
+      ],
+      "subtotal": {
+        "kcal": 680.0,
+        "proteina_g": 44.6,
+        "carbs_g": 51.4,
+        "grasa_g": 32.6
+      },
+      "confianza": "media",
+      "origen": "reporte en texto",
+      "nota": "Wrap de pollo tal como se planeo: tortilla 21cm, pollo ~100g, lechuga, tomate, queso. Papas 80g con 1 cucharada de salsa de ajo."
     }
   ],
   "totales": {
-    "kcal": 429.3,
-    "proteina_g": 22.3,
-    "carbs_g": 39.4,
-    "grasa_g": 21.2
+    "kcal": 1109.3,
+    "proteina_g": 66.9,
+    "carbs_g": 90.8,
+    "grasa_g": 53.8
   },
   "objetivo": {
     "kcal": 1850,
@@ -56,10 +86,10 @@
     "grasa_g": 70
   },
   "restante": {
-    "kcal": 1420.7,
-    "proteina_g": 137.7,
-    "carbs_g": 105.6,
-    "grasa_g": 48.8
+    "kcal": 740.7,
+    "proteina_g": 93.1,
+    "carbs_g": 54.2,
+    "grasa_g": 16.2
   },
   "notas": "Dia 5 (domingo). Comidas pendientes de reportar durante el dia."
 }
