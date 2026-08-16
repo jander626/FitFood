@@ -52,6 +52,7 @@
     { "nombre": "Yuca cocida", "categoria": "Carbohidrato / tuberculo", "kcal100": 160, "p100": 1.4, "c100": 38, "g100": 0.3, "porcion_g": 150, "porcion_nota": "1 porcion" },
     { "nombre": "Platano maduro frito (tajadas)", "categoria": "Carbohidrato / tuberculo", "kcal100": 220, "p100": 1.3, "c100": 40, "g100": 7, "porcion_g": 100, "porcion_nota": "2-3 tajadas" },
     { "nombre": "Platano verde cocido", "categoria": "Carbohidrato / tuberculo", "kcal100": 122, "p100": 1.3, "c100": 32, "g100": 0.4, "porcion_g": 120, "porcion_nota": "1 porcion" },
+    { "nombre": "Platano maduro cocido (hervido)", "categoria": "Carbohidrato / tuberculo", "kcal100": 116, "p100": 1.2, "c100": 30, "g100": 0.3, "porcion_g": 120, "porcion_nota": "1 porcion" },
     { "nombre": "Patacones (platano verde, doble friccion)", "categoria": "Carbohidrato / tuberculo", "kcal100": 190, "p100": 1.5, "c100": 28, "g100": 8.5, "porcion_g": 110, "porcion_nota": "2 unidades medianas" },
     { "nombre": "Pan integral", "categoria": "Carbohidrato / tuberculo", "kcal100": 265, "p100": 13, "c100": 47, "g100": 3.5, "porcion_g": 30, "porcion_nota": "1 rebanada" },
     { "nombre": "Maiz trillado / mazamorra (sin leche)", "categoria": "Carbohidrato / tuberculo", "kcal100": 96, "p100": 2.3, "c100": 21, "g100": 0.6, "porcion_g": 150, "porcion_nota": "1 taza" },
