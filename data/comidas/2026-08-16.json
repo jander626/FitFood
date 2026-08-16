@@ -24,18 +24,19 @@
         },
         {
           "alimento": "milo sin azucar (light)",
-          "porcion_ml": 100,
-          "kcal": 22.5,
-          "proteina_g": 1.0,
-          "carbs_g": 3.5,
-          "grasa_g": 0.65
+          "porcion_ml": 150,
+          "kcal": 67.5,
+          "proteina_g": 3.0,
+          "carbs_g": 10.5,
+          "grasa_g": 1.95,
+          "nota_correccion": "Corregido: preparado con leche Colanta semidescremada deslactosada (no agua), 150ml totales (no 100ml)."
         }
       ],
       "subtotal": {
-        "kcal": 384.3,
-        "proteina_g": 20.3,
-        "carbs_g": 32.4,
-        "grasa_g": 19.9
+        "kcal": 429.3,
+        "proteina_g": 22.3,
+        "carbs_g": 39.4,
+        "grasa_g": 21.2
       },
       "confianza": "media",
       "origen": "foto + descripcion",
@@ -43,10 +44,10 @@
     }
   ],
   "totales": {
-    "kcal": 384.3,
-    "proteina_g": 20.3,
-    "carbs_g": 32.4,
-    "grasa_g": 19.9
+    "kcal": 429.3,
+    "proteina_g": 22.3,
+    "carbs_g": 39.4,
+    "grasa_g": 21.2
   },
   "objetivo": {
     "kcal": 1850,
@@ -55,10 +56,10 @@
     "grasa_g": 70
   },
   "restante": {
-    "kcal": 1465.7,
-    "proteina_g": 139.7,
-    "carbs_g": 112.6,
-    "grasa_g": 50.1
+    "kcal": 1420.7,
+    "proteina_g": 137.7,
+    "carbs_g": 105.6,
+    "grasa_g": 48.8
   },
   "notas": "Dia 5 (domingo). Comidas pendientes de reportar durante el dia."
 }
