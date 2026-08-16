@@ -161,6 +161,7 @@ Vista rápida entre categorías — útil cuando solo quieres saber qué te rind
 | Yogur helado sin azucar (heladeria) | 100 | 4.5 g | 16 g | 2.5 g | 1 copa mediana sola, sin toppings (150g): **150 kcal**, 6.8g P, 24.0g C, 3.8g G |
 | Milo en leche | 97 | 3.2 g | 13 g | 3.3 g | 1 vaso (240g): **233 kcal**, 7.7g P, 31.2g C, 7.9g G |
 | Mazamorra con leche (sin azucar) | 65 | 2.4 g | 10 g | 1.8 g | 1 taza mazamorra + 1 taza leche (390g): **254 kcal**, 9.4g P, 39.0g C, 7.0g G |
+| Milo sin azucar (version light) | 45 | 2 g | 7 g | 1.3 g | 1 vaso (200g): **90 kcal**, 4.0g P, 14.0g C, 2.6g G |
 | Salsa de tomate / ketchup | 100 | 1.2 g | 25 g | 0.2 g | 1 cucharada (15g): **15 kcal**, 0.2g P, 3.8g C, 0.0g G |
 | Salsa BBQ | 172 | 1 g | 40 g | 0.5 g | 1 cucharada (20g): **34 kcal**, 0.2g P, 8.0g C, 0.1g G |
 | Jugo de naranja natural | 45 | 0.7 g | 10 g | 0.2 g | 1 vaso (240g): **108 kcal**, 1.7g P, 24.0g C, 0.5g G |
