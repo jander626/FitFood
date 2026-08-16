@@ -81,6 +81,7 @@ Vista rápida entre categorías — útil cuando solo quieres saber qué te rind
 | Alimento | kcal/100g | Proteína | Carbos | Grasa | Porción típica |
 |---|---|---|---|---|---|
 | Pan integral | 265 | 13 g | 47 g | 3.5 g | 1 rebanada (30g): **80 kcal**, 3.9g P, 14.1g C, 1.1g G |
+| Tortilla de trigo (wrap, 21cm) | 310 | 8 g | 50 g | 8 g | 1 unidad 21cm (50g): **155 kcal**, 4.0g P, 25.0g C, 4.0g G |
 | Pasta cocida | 131 | 5 g | 25 g | 1.1 g | 1 plato (180g): **236 kcal**, 9.0g P, 45.0g C, 2.0g G |
 | Arepa de maiz (media tela) | 200 | 4 g | 42 g | 2 g | 1 arepa media tela (pesada en bascula por el usuario = 50g) (50g): **100 kcal**, 2.0g P, 21.0g C, 1.0g G |
 | Papa frita (con aceite) | 190 | 3 g | 30 g | 7 g | porcion mediana (150g): **285 kcal**, 4.5g P, 45.0g C, 10.5g G |
@@ -133,6 +134,7 @@ Vista rápida entre categorías — útil cuando solo quieres saber qué te rind
 | Nueces / almendras | 600 | 20 g | 20 g | 52 g | 1 punado (25g): **150 kcal**, 5.0g P, 5.0g C, 13.0g G |
 | Coco rallado (crudo, sin azucar) | 354 | 3.3 g | 15 g | 33 g | 2 cucharadas (20g): **71 kcal**, 0.7g P, 3.0g C, 6.6g G |
 | Mayonesa | 680 | 1 g | 1.5 g | 75 g | 1 cucharada (15g): **102 kcal**, 0.1g P, 0.2g C, 11.2g G |
+| Salsa de ajo (tipo aioli/toum) | 650 | 1 g | 2 g | 70 g | 1 cucharada (20g): **130 kcal**, 0.2g P, 0.4g C, 14.0g G |
 | Mantequilla | 717 | 0.9 g | 0.1 g | 81 g | 1 cucharadita (10g): **72 kcal**, 0.1g P, 0.0g C, 8.1g G |
 | Aceite (cualquiera) | 884 | 0 g | 0 g | 100 g | 1 cucharada (14g): **124 kcal**, 0.0g P, 0.0g C, 14.0g G |
 
