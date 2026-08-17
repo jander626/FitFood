@@ -142,12 +142,14 @@ Vista rápida entre categorías — útil cuando solo quieres saber qué te rind
 
 | Alimento | kcal/100g | Proteína | Carbos | Grasa | Porción típica |
 |---|---|---|---|---|---|
+| Crispetas (popcorn con mantequilla) | 450 | 8 g | 55 g | 22 g | 1 puñado pequeno (30g): **135 kcal**, 2.4g P, 16.5g C, 6.6g G |
 | Granola de coco sin azucar | 460 | 8 g | 55 g | 22 g | 1 cucharada colmada (15g): **69 kcal**, 1.2g P, 8.2g C, 3.3g G |
 | Perro caliente completo (colombiano: papitas, queso, salsa rosada) | 213 | 7.4 g | 21.3 g | 10.9 g | 1 perro con todos los toppings (230g): **490 kcal**, 17.0g P, 49.0g C, 25.1g G |
 | Doritos (nacho) | 500 | 7 g | 58 g | 26 g | 1 paquete individual (45g): **225 kcal**, 3.1g P, 26.1g C, 11.7g G |
 | Papas fritas de paquete | 536 | 6.6 g | 53 g | 34 g | 1 paquete pequeño (30g): **161 kcal**, 2.0g P, 15.9g C, 10.2g G |
 | De Todito (queso) | 510 | 6 g | 58 g | 27 g | 1 paquete individual (40g): **204 kcal**, 2.4g P, 23.2g C, 10.8g G |
 | Perro caliente sencillo (pan+salchicha+salsas basicas) | 153 | 5.6 g | 17.8 g | 6.7 g | 1 perro con ketchup y mostaza (180g): **275 kcal**, 10.1g P, 32.0g C, 12.1g G |
+| Perrita (mini perro caliente, sencilla) | 153 | 5.6 g | 17.8 g | 6.7 g | 1 unidad pequena, tipo Medellin (90g): **138 kcal**, 5.0g P, 16.0g C, 6.0g G |
 | Chitos / Kchitos | 560 | 5 g | 55 g | 35 g | 1 paquete individual (32g): **179 kcal**, 1.6g P, 17.6g C, 11.2g G |
 | Helado sin azucar (light) | 90 | 3 g | 16 g | 2 g | 1 paleta/barra pequeña (65g): **58 kcal**, 2.0g P, 10.4g C, 1.3g G |
 | Platanitos fritos de paquete | 536 | 2 g | 58 g | 32 g | 1 paquete pequeño (35g): **188 kcal**, 0.7g P, 20.3g C, 11.2g G |
