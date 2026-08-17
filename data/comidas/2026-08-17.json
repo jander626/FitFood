@@ -45,20 +45,22 @@
       "momento": "almuerzo",
       "items": [
         {
-          "alimento": "hamburguesa gourmet (pan pretzel, carne molida ~200g, queso, cebolla caramelizada)",
-          "porcion_g": 355,
-          "kcal": 926.5,
-          "proteina_g": 57.2,
+          "alimento": "hamburguesa gourmet (pan pretzel, carne molida 130g, queso, cebolla caramelizada)",
+          "porcion_g": 285,
+          "kcal": 751.5,
+          "proteina_g": 43.2,
           "carbs_g": 57.7,
-          "grasa_g": 50.75
+          "grasa_g": 38.15,
+          "nota_correccion": "Corregido: 130g de carne, no ~200g asumidos."
         },
         {
-          "alimento": "papas fritas (solo la mitad)",
-          "porcion_g": 85,
-          "kcal": 161.5,
-          "proteina_g": 2.6,
-          "carbs_g": 25.5,
-          "grasa_g": 5.95
+          "alimento": "papas fritas (solo 1/3)",
+          "porcion_g": 57,
+          "kcal": 108.3,
+          "proteina_g": 1.71,
+          "carbs_g": 17.1,
+          "grasa_g": 3.99,
+          "nota_correccion": "Corregido: 1/3 de las papas, no la mitad."
         },
         {
           "alimento": "agua",
@@ -69,10 +71,10 @@
         }
       ],
       "subtotal": {
-        "kcal": 1088.0,
-        "proteina_g": 59.8,
-        "carbs_g": 83.2,
-        "grasa_g": 56.7
+        "kcal": 859.8,
+        "proteina_g": 44.9,
+        "carbs_g": 74.8,
+        "grasa_g": 42.1
       },
       "confianza": "media",
       "origen": "foto + descripcion",
@@ -80,10 +82,10 @@
     }
   ],
   "totales": {
-    "kcal": 1335.5,
-    "proteina_g": 66.7,
-    "carbs_g": 115.4,
-    "grasa_g": 67.1
+    "kcal": 1107.3,
+    "proteina_g": 51.8,
+    "carbs_g": 107.0,
+    "grasa_g": 52.5
   },
   "objetivo": {
     "kcal": 1850,
@@ -92,10 +94,10 @@
     "grasa_g": 70
   },
   "restante": {
-    "kcal": 514.5,
-    "proteina_g": 93.3,
-    "carbs_g": 29.6,
-    "grasa_g": 2.9
+    "kcal": 742.7,
+    "proteina_g": 108.2,
+    "carbs_g": 38.0,
+    "grasa_g": 17.5
   },
   "notas": "Dia 6 (lunes). Comidas pendientes de reportar durante el dia."
 }
