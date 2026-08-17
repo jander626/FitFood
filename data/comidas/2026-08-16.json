@@ -106,12 +106,13 @@
       "momento": "snack noche",
       "items": [
         {
-          "alimento": "perrita (mini perro caliente, sencilla)",
-          "porcion_g": 90,
-          "kcal": 137.7,
-          "proteina_g": 5.0,
-          "carbs_g": 16.0,
-          "grasa_g": 6.0
+          "alimento": "perrita medellinense (pan, tocineta, repollo, ripio de papa, salsa rosada, mucho queso)",
+          "porcion_g": 150,
+          "kcal": 439.4,
+          "proteina_g": 18.6,
+          "carbs_g": 27.3,
+          "grasa_g": 29.1,
+          "nota_correccion": "Corregido: no es la version sencilla (pan+salchicha). Lleva tocineta en vez de salchicha, ensalada de repollo, ripio de papa crujiente, salsa rosada y mucho queso -- mucho mas cargada de lo asumido inicialmente."
         },
         {
           "alimento": "crispetas (popcorn con mantequilla)",
@@ -123,10 +124,10 @@
         }
       ],
       "subtotal": {
-        "kcal": 227.7,
-        "proteina_g": 6.6,
-        "carbs_g": 27.0,
-        "grasa_g": 10.4
+        "kcal": 529.4,
+        "proteina_g": 20.2,
+        "carbs_g": 38.3,
+        "grasa_g": 33.5
       },
       "confianza": "media",
       "origen": "reporte en texto",
@@ -134,10 +135,10 @@
     }
   ],
   "totales": {
-    "kcal": 1543.0,
-    "proteina_g": 76.9,
-    "carbs_g": 151.9,
-    "grasa_g": 70.8
+    "kcal": 1844.7,
+    "proteina_g": 90.5,
+    "carbs_g": 163.2,
+    "grasa_g": 93.9
   },
   "objetivo": {
     "kcal": 1850,
@@ -146,10 +147,10 @@
     "grasa_g": 70
   },
   "restante": {
-    "kcal": 307.0,
-    "proteina_g": 83.1,
-    "carbs_g": -6.9,
-    "grasa_g": -0.8
+    "kcal": 5.3,
+    "proteina_g": 69.5,
+    "carbs_g": -18.2,
+    "grasa_g": -23.9
   },
   "notas": "Dia 5 (domingo). Comidas pendientes de reportar durante el dia."
 }

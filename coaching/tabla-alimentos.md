@@ -111,6 +111,7 @@ Vista rápida entre categorías — útil cuando solo quieres saber qué te rind
 |---|---|---|---|---|---|
 | Aguacate | 160 | 2 g | 9 g | 15 g | 1/4 unidad (50g): **80 kcal**, 1.0g P, 4.5g C, 7.5g G |
 | Lechuga | 15 | 1.4 g | 2.9 g | 0.2 g | 1 puñado (50g): **8 kcal**, 0.7g P, 1.4g C, 0.1g G |
+| Repollo (crudo) | 25 | 1.3 g | 5.8 g | 0.1 g | 1 punado (50g): **12 kcal**, 0.7g P, 2.9g C, 0.1g G |
 | Cebolla | 40 | 1.1 g | 9 g | 0.1 g | para sofrito (40g): **16 kcal**, 0.4g P, 3.6g C, 0.0g G |
 | Tomate | 18 | 0.9 g | 3.9 g | 0.2 g | 1 unidad (100g): **18 kcal**, 0.9g P, 3.9g C, 0.2g G |
 | Zanahoria | 41 | 0.9 g | 10 g | 0.2 g | 1 unidad (80g): **33 kcal**, 0.7g P, 8.0g C, 0.2g G |
@@ -147,6 +148,7 @@ Vista rápida entre categorías — útil cuando solo quieres saber qué te rind
 | Perro caliente completo (colombiano: papitas, queso, salsa rosada) | 213 | 7.4 g | 21.3 g | 10.9 g | 1 perro con todos los toppings (230g): **490 kcal**, 17.0g P, 49.0g C, 25.1g G |
 | Doritos (nacho) | 500 | 7 g | 58 g | 26 g | 1 paquete individual (45g): **225 kcal**, 3.1g P, 26.1g C, 11.7g G |
 | Papas fritas de paquete | 536 | 6.6 g | 53 g | 34 g | 1 paquete pequeño (30g): **161 kcal**, 2.0g P, 15.9g C, 10.2g G |
+| Ripio de papa (hilos crujientes, topping) | 536 | 6.6 g | 53 g | 34 g | topping de perro/perrita (15g): **80 kcal**, 1.0g P, 7.9g C, 5.1g G |
 | De Todito (queso) | 510 | 6 g | 58 g | 27 g | 1 paquete individual (40g): **204 kcal**, 2.4g P, 23.2g C, 10.8g G |
 | Perro caliente sencillo (pan+salchicha+salsas basicas) | 153 | 5.6 g | 17.8 g | 6.7 g | 1 perro con ketchup y mostaza (180g): **275 kcal**, 10.1g P, 32.0g C, 12.1g G |
 | Perrita (mini perro caliente, sencilla) | 153 | 5.6 g | 17.8 g | 6.7 g | 1 unidad pequena, tipo Medellin (90g): **138 kcal**, 5.0g P, 16.0g C, 6.0g G |
@@ -168,6 +170,7 @@ Vista rápida entre categorías — útil cuando solo quieres saber qué te rind
 | Mazamorra con leche (sin azucar) | 65 | 2.4 g | 10 g | 1.8 g | 1 taza mazamorra + 1 taza leche (390g): **254 kcal**, 9.4g P, 39.0g C, 7.0g G |
 | Milo sin azucar (version light) | 45 | 2 g | 7 g | 1.3 g | 1 vaso (200g): **90 kcal**, 4.0g P, 14.0g C, 2.6g G |
 | Salsa de tomate / ketchup | 100 | 1.2 g | 25 g | 0.2 g | 1 cucharada (15g): **15 kcal**, 0.2g P, 3.8g C, 0.0g G |
+| Salsa rosada (ketchup+mayonesa) | 390 | 1.1 g | 13.3 g | 37.6 g | 1 cucharada (15g): **58 kcal**, 0.2g P, 2.0g C, 5.6g G |
 | Salsa BBQ | 172 | 1 g | 40 g | 0.5 g | 1 cucharada (20g): **34 kcal**, 0.2g P, 8.0g C, 0.1g G |
 | Jugo de naranja natural | 45 | 0.7 g | 10 g | 0.2 g | 1 vaso (240g): **108 kcal**, 1.7g P, 24.0g C, 0.5g G |
 | Cerveza | 43 | 0.5 g | 3.6 g | 0 g | 1 botella (330g): **142 kcal**, 1.6g P, 11.9g C, 0.0g G |
