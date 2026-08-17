@@ -103,7 +103,7 @@
       "nota": "Arepa de maiz 75g (esta es de maiz, distinta a la de platano del desayuno) con un poco de hogao."
     },
     {
-      "momento": "snack noche",
+      "momento": "cena",
       "items": [
         {
           "alimento": "perrita medellinense (pan, tocineta, repollo, ripio de papa, salsa rosada, mucho queso)",
@@ -131,7 +131,7 @@
       },
       "confianza": "media",
       "origen": "reporte en texto",
-      "nota": "Perrita pequena tipica de Medellin, sencilla (sin toppings extra). Algunas crispetas de acompañamiento."
+      "nota": "Esta fue la cena. Perrita medellinense (no sencilla, ver correccion en item) mas algunas crispetas y agua."
     }
   ],
   "totales": {
@@ -152,5 +152,5 @@
     "carbs_g": -18.2,
     "grasa_g": -23.9
   },
-  "notas": "Dia 5 (domingo). Comidas pendientes de reportar durante el dia."
+  "notas": "DIA 5 CERRADO (domingo). 1845/1850 kcal (practicamente exacto), 91/160g proteina (57%, corta), 163/145g carbs (+18g), 94/70g grasa (+24g). Dia de antojos de fin de semana: la perrita de cena con tocineta/queso/ripio de papa se llevo la mayor parte del exceso de grasa."
 }
