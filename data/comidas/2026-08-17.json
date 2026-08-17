@@ -1,0 +1,64 @@
+{
+  "fecha": "2026-08-17",
+  "dia_plan": 6,
+  "comidas": [
+    {
+      "momento": "desayuno",
+      "items": [
+        {
+          "alimento": "palito de queso",
+          "porcion_g": 40,
+          "kcal": 160.0,
+          "proteina_g": 4.0,
+          "carbs_g": 15.2,
+          "grasa_g": 8.8
+        },
+        {
+          "alimento": "guayaba (guabaya)",
+          "porcion_g": 100,
+          "kcal": 68.0,
+          "proteina_g": 2.6,
+          "carbs_g": 14.0,
+          "grasa_g": 1.0,
+          "nota": "Asumido 'guabaya' = guayaba. Confirmar si es otra fruta."
+        },
+        {
+          "alimento": "granizado de cafe (3 sorbos)",
+          "porcion_ml": 30,
+          "kcal": 19.5,
+          "proteina_g": 0.3,
+          "carbs_g": 3.0,
+          "grasa_g": 0.6
+        }
+      ],
+      "subtotal": {
+        "kcal": 247.5,
+        "proteina_g": 6.9,
+        "carbs_g": 32.2,
+        "grasa_g": 10.4
+      },
+      "confianza": "media",
+      "origen": "reporte en texto",
+      "nota": "Desayuno liviano en proteina. Palito de queso ~40g asumido (pastel de harina+queso). Solo 3 sorbos de granizado, cantidad minima."
+    }
+  ],
+  "totales": {
+    "kcal": 247.5,
+    "proteina_g": 6.9,
+    "carbs_g": 32.2,
+    "grasa_g": 10.4
+  },
+  "objetivo": {
+    "kcal": 1850,
+    "proteina_g": 160,
+    "carbs_g": 145,
+    "grasa_g": 70
+  },
+  "restante": {
+    "kcal": 1602.5,
+    "proteina_g": 153.1,
+    "carbs_g": 112.8,
+    "grasa_g": 59.6
+  },
+  "notas": "Dia 6 (lunes). Comidas pendientes de reportar durante el dia."
+}

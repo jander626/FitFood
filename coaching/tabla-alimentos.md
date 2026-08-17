@@ -81,6 +81,7 @@ Vista rápida entre categorías — útil cuando solo quieres saber qué te rind
 | Alimento | kcal/100g | Proteína | Carbos | Grasa | Porción típica |
 |---|---|---|---|---|---|
 | Pan integral | 265 | 13 g | 47 g | 3.5 g | 1 rebanada (30g): **80 kcal**, 3.9g P, 14.1g C, 1.1g G |
+| Palito de queso | 400 | 10 g | 38 g | 22 g | 1 unidad (40g): **160 kcal**, 4.0g P, 15.2g C, 8.8g G |
 | Tortilla de trigo (wrap, 21cm) | 310 | 8 g | 50 g | 8 g | 1 unidad 21cm (50g): **155 kcal**, 4.0g P, 25.0g C, 4.0g G |
 | Pasta cocida | 131 | 5 g | 25 g | 1.1 g | 1 plato (180g): **236 kcal**, 9.0g P, 45.0g C, 2.0g G |
 | Arepa de maiz (media tela) | 200 | 4 g | 42 g | 2 g | 1 arepa media tela (pesada en bascula por el usuario = 50g) (50g): **100 kcal**, 2.0g P, 21.0g C, 1.0g G |
@@ -122,6 +123,7 @@ Vista rápida entre categorías — útil cuando solo quieres saber qué te rind
 | Alimento | kcal/100g | Proteína | Carbos | Grasa | Porción típica |
 |---|---|---|---|---|---|
 | Pasas | 299 | 3 g | 79 g | 0.5 g | 1 puñado pequeño (20g): **60 kcal**, 0.6g P, 15.8g C, 0.1g G |
+| Guayaba | 68 | 2.6 g | 14 g | 1 g | 1 unidad (100g): **68 kcal**, 2.6g P, 14.0g C, 1.0g G |
 | Banano | 89 | 1.1 g | 23 g | 0.3 g | 1 unidad (120g): **107 kcal**, 1.3g P, 27.6g C, 0.4g G |
 | Naranja | 47 | 0.9 g | 12 g | 0.1 g | 1 unidad (150g): **70 kcal**, 1.4g P, 18.0g C, 0.2g G |
 | Mango | 60 | 0.8 g | 15 g | 0.4 g | 1/2 unidad (100g): **60 kcal**, 0.8g P, 15.0g C, 0.4g G |
@@ -171,6 +173,7 @@ Vista rápida entre categorías — útil cuando solo quieres saber qué te rind
 | Milo sin azucar (version light) | 45 | 2 g | 7 g | 1.3 g | 1 vaso (200g): **90 kcal**, 4.0g P, 14.0g C, 2.6g G |
 | Salsa de tomate / ketchup | 100 | 1.2 g | 25 g | 0.2 g | 1 cucharada (15g): **15 kcal**, 0.2g P, 3.8g C, 0.0g G |
 | Salsa rosada (ketchup+mayonesa) | 390 | 1.1 g | 13.3 g | 37.6 g | 1 cucharada (15g): **58 kcal**, 0.2g P, 2.0g C, 5.6g G |
+| Granizado de cafe | 65 | 1 g | 10 g | 2 g | 1 vaso (250g): **162 kcal**, 2.5g P, 25.0g C, 5.0g G |
 | Salsa BBQ | 172 | 1 g | 40 g | 0.5 g | 1 cucharada (20g): **34 kcal**, 0.2g P, 8.0g C, 0.1g G |
 | Jugo de naranja natural | 45 | 0.7 g | 10 g | 0.2 g | 1 vaso (240g): **108 kcal**, 1.7g P, 24.0g C, 0.5g G |
 | Cerveza | 43 | 0.5 g | 3.6 g | 0 g | 1 botella (330g): **142 kcal**, 1.6g P, 11.9g C, 0.0g G |
