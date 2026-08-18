@@ -84,30 +84,47 @@
       "momento": "cena",
       "items": [
         {
-          "alimento": "hamburguesa Flore (pan brioche sellado en mantequilla de ajo, 150g angus, queso muenster, crema de trufa negra, tomate, rugula, sirope)",
-          "porcion_g": 320,
-          "kcal": 972.0,
-          "proteina_g": 48.1,
-          "carbs_g": 52.9,
-          "grasa_g": 59.5
+          "alimento": "hamburguesa Flore (solo mitad del pan brioche grueso, 150g angus, queso muenster, crema de trufa negra, tomate, rugula, sirope)",
+          "porcion_g": 265,
+          "kcal": 797.0,
+          "proteina_g": 44.1,
+          "carbs_g": 30.4,
+          "grasa_g": 52.0,
+          "nota_correccion": "Corregido: solo se comio la mitad del pan brioche grueso, no el pan completo."
+        },
+        {
+          "alimento": "papas fritas (mitad de la porcion)",
+          "porcion_g": 75,
+          "kcal": 142.5,
+          "proteina_g": 2.25,
+          "carbs_g": 22.5,
+          "grasa_g": 5.25
+        },
+        {
+          "alimento": "coca-cola zero",
+          "porcion_ml": 100,
+          "kcal": 1.0,
+          "proteina_g": 0.0,
+          "carbs_g": 0.3,
+          "grasa_g": 0.0
         }
       ],
       "subtotal": {
-        "kcal": 972.0,
-        "proteina_g": 48.1,
-        "carbs_g": 52.9,
-        "grasa_g": 59.5
+        "kcal": 940.5,
+        "proteina_g": 46.4,
+        "carbs_g": 53.2,
+        "grasa_g": 57.2
       },
       "confianza": "media",
       "origen": "foto (menu) + confirmacion del usuario",
-      "nota": "Hamburguesa gourmet 'Flore' del menu, elegida a sabiendas de que se pasaba el presupuesto del dia. Segunda hamburguesa pesada del dia (la primera fue el almuerzo)."
+      "nota": "Corregido: solo mitad del pan grueso, mitad de las papas (nuevo item, no logueado antes), y 100ml de coca-cola zero de bebida."
     }
   ],
   "totales": {
-    "kcal": 2079.3,
-    "proteina_g": 99.9,
-    "carbs_g": 159.9,
-    "grasa_g": 112.0
+    "kcal": 2047.8,
+    "proteina_g": 98.2,
+    "carbs_g": 160.2,
+    "grasa_g": 109.7
   },
   "objetivo": {
     "kcal": 1850,
@@ -116,10 +133,10 @@
     "grasa_g": 70
   },
   "restante": {
-    "kcal": -229.3,
-    "proteina_g": 60.1,
-    "carbs_g": -14.9,
-    "grasa_g": -42.0
+    "kcal": -197.8,
+    "proteina_g": 61.8,
+    "carbs_g": -15.2,
+    "grasa_g": -39.7
   },
-  "notas": "DIA 6 CERRADO (lunes). Dos hamburguesas pesadas (almuerzo y cena). Totales: {'kcal': 2079.3, 'proteina_g': 99.9, 'carbs_g': 159.9, 'grasa_g': 112.0}. Sobre el objetivo en kcal, carbs y grasa; proteina tambien corta."
+  "notas": "DIA 6 CERRADO (lunes). Dos hamburguesas pesadas (almuerzo y cena), cena ajustada (mitad de pan, papas y coca zero). Totales: {'kcal': 2047.8, 'proteina_g': 98.2, 'carbs_g': 160.2, 'grasa_g': 109.7}."
 }
