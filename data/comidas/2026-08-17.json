@@ -79,13 +79,35 @@
       "confianza": "media",
       "origen": "foto + descripcion",
       "nota": "Hamburguesa gourmet de restaurante (Hat-Trick Burgers), pan tipo pretzel, carne molida no magra (smash burger), harto queso derretido y cebolla caramelizada. Solo se comio la mitad de las papas."
+    },
+    {
+      "momento": "cena",
+      "items": [
+        {
+          "alimento": "hamburguesa Flore (pan brioche sellado en mantequilla de ajo, 150g angus, queso muenster, crema de trufa negra, tomate, rugula, sirope)",
+          "porcion_g": 320,
+          "kcal": 972.0,
+          "proteina_g": 48.1,
+          "carbs_g": 52.9,
+          "grasa_g": 59.5
+        }
+      ],
+      "subtotal": {
+        "kcal": 972.0,
+        "proteina_g": 48.1,
+        "carbs_g": 52.9,
+        "grasa_g": 59.5
+      },
+      "confianza": "media",
+      "origen": "foto (menu) + confirmacion del usuario",
+      "nota": "Hamburguesa gourmet 'Flore' del menu, elegida a sabiendas de que se pasaba el presupuesto del dia. Segunda hamburguesa pesada del dia (la primera fue el almuerzo)."
     }
   ],
   "totales": {
-    "kcal": 1107.3,
-    "proteina_g": 51.8,
-    "carbs_g": 107.0,
-    "grasa_g": 52.5
+    "kcal": 2079.3,
+    "proteina_g": 99.9,
+    "carbs_g": 159.9,
+    "grasa_g": 112.0
   },
   "objetivo": {
     "kcal": 1850,
@@ -94,10 +116,10 @@
     "grasa_g": 70
   },
   "restante": {
-    "kcal": 742.7,
-    "proteina_g": 108.2,
-    "carbs_g": 38.0,
-    "grasa_g": 17.5
+    "kcal": -229.3,
+    "proteina_g": 60.1,
+    "carbs_g": -14.9,
+    "grasa_g": -42.0
   },
-  "notas": "Dia 6 (lunes). Comidas pendientes de reportar durante el dia."
+  "notas": "DIA 6 CERRADO (lunes). Dos hamburguesas pesadas (almuerzo y cena). Totales: {'kcal': 2079.3, 'proteina_g': 99.9, 'carbs_g': 159.9, 'grasa_g': 112.0}. Sobre el objetivo en kcal, carbs y grasa; proteina tambien corta."
 }
