@@ -67,38 +67,40 @@
           "grasa_g": 7.5
         },
         {
-          "alimento": "maduritos (platano maduro frito)",
+          "alimento": "maduritos (platano maduro asado a la plancha, sin aceite)",
           "porcion_g": 70,
-          "kcal": 154.0,
-          "proteina_g": 0.9,
-          "carbs_g": 28.0,
-          "grasa_g": 4.9
+          "kcal": 91.0,
+          "proteina_g": 0.84,
+          "carbs_g": 22.4,
+          "grasa_g": 0.35,
+          "nota_correccion": "Corregido: asados a la plancha, no fritos en aceite."
         },
         {
-          "alimento": "salsa/jugo de coccion",
+          "alimento": "jugo de coccion (asado, sin aceite añadido)",
           "porcion_g": 15,
-          "kcal": 18.8,
+          "kcal": 15.0,
           "proteina_g": 0.0,
           "carbs_g": 1.0,
-          "grasa_g": 1.7
+          "grasa_g": 0.3,
+          "nota_correccion": "Corregido: sin aceite, solo jugos del asado."
         }
       ],
       "subtotal": {
-        "kcal": 1094.5,
+        "kcal": 1027.7,
         "proteina_g": 48.6,
-        "carbs_g": 91.2,
-        "grasa_g": 61.4
+        "carbs_g": 85.6,
+        "grasa_g": 55.4
       },
       "confianza": "media",
       "origen": "foto + descripcion",
-      "nota": "Frijoles con chicharron (airfryer), sin arroz como se decidio. Se agrego tocineta y maduritos, no discutidos antes -- suman grasa/carbs extra al plan original."
+      "nota": "Corregido: todo el plato es asado, no frito. Maduritos a la plancha sin aceite. Chicharron y tocineta mantienen su grasa intrinseca (no depende del metodo de coccion)."
     }
   ],
   "totales": {
-    "kcal": 1487.8,
+    "kcal": 1421.0,
     "proteina_g": 75.9,
-    "carbs_g": 114.9,
-    "grasa_g": 82.4
+    "carbs_g": 109.3,
+    "grasa_g": 76.4
   },
   "objetivo": {
     "kcal": 1850,
@@ -107,10 +109,10 @@
     "grasa_g": 70
   },
   "restante": {
-    "kcal": 362.2,
+    "kcal": 429.0,
     "proteina_g": 84.1,
-    "carbs_g": 30.1,
-    "grasa_g": -12.4
+    "carbs_g": 35.7,
+    "grasa_g": -6.4
   },
   "notas": "Dia 7 (martes) -- cierra la primera semana completa del plan. Comidas pendientes de reportar durante el dia."
 }
