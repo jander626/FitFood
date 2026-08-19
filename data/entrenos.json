@@ -96,6 +96,14 @@
       "fuente": "reporte en texto",
       "ejercicios": [],
       "notas": "Sesion de pesas reportada sin detalle de ejercicios/cargas. Pendiente si el usuario quiere agregar el detalle para seguimiento."
+    },
+    {
+      "fecha": "2026-08-19",
+      "dia_plan": 8,
+      "tipo": "caminata",
+      "fuente": "reporte en texto",
+      "min": 15,
+      "notas": "Descanso activo tras la sesion de pesas del dia anterior, siguiendo la recomendacion de no repetir carga pesada dos dias seguidos."
     }
   ]
 }
