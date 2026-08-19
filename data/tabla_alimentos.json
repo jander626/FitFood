@@ -61,6 +61,7 @@
     { "nombre": "Pan integral", "categoria": "Carbohidrato / tuberculo", "kcal100": 265, "p100": 13, "c100": 47, "g100": 3.5, "porcion_g": 30, "porcion_nota": "1 rebanada" },
     { "nombre": "Palito de queso", "categoria": "Carbohidrato / tuberculo", "kcal100": 400, "p100": 10, "c100": 38, "g100": 22, "porcion_g": 40, "porcion_nota": "1 unidad" },
     { "nombre": "Maiz trillado / mazamorra (sin leche)", "categoria": "Carbohidrato / tuberculo", "kcal100": 96, "p100": 2.3, "c100": 21, "g100": 0.6, "porcion_g": 150, "porcion_nota": "1 taza" },
+    { "nombre": "Maiz dulce / choclo (granos)", "categoria": "Carbohidrato / tuberculo", "kcal100": 86, "p100": 3.2, "c100": 19, "g100": 1.2, "porcion_g": 100, "porcion_nota": "1 taza" },
 
     { "nombre": "Frijoles cocidos", "categoria": "Legumbre", "kcal100": 127, "p100": 8.7, "c100": 23, "g100": 0.5, "porcion_g": 200, "porcion_nota": "1 taza" },
     { "nombre": "Lentejas cocidas", "categoria": "Legumbre", "kcal100": 116, "p100": 9, "c100": 20, "g100": 0.4, "porcion_g": 200, "porcion_nota": "1 taza" },
@@ -73,6 +74,7 @@
     { "nombre": "Pepino", "categoria": "Verdura", "kcal100": 15, "p100": 0.7, "c100": 3.6, "g100": 0.1, "porcion_g": 100, "porcion_nota": "1/2 unidad" },
     { "nombre": "Repollo (crudo)", "categoria": "Verdura", "kcal100": 25, "p100": 1.3, "c100": 5.8, "g100": 0.1, "porcion_g": 50, "porcion_nota": "1 punado" },
     { "nombre": "Aguacate", "categoria": "Verdura", "kcal100": 160, "p100": 2, "c100": 9, "g100": 15, "porcion_g": 50, "porcion_nota": "1/4 unidad" },
+    { "nombre": "Pico de gallo (tomate, cebolla, cilantro)", "categoria": "Verdura", "kcal100": 35, "p100": 1, "c100": 7, "g100": 0.2, "porcion_g": 100, "porcion_nota": "porcion mediana" },
 
     { "nombre": "Mango", "categoria": "Fruta", "kcal100": 60, "p100": 0.8, "c100": 15, "g100": 0.4, "porcion_g": 100, "porcion_nota": "1/2 unidad" },
     { "nombre": "Banano", "categoria": "Fruta", "kcal100": 89, "p100": 1.1, "c100": 23, "g100": 0.3, "porcion_g": 120, "porcion_nota": "1 unidad" },
@@ -88,6 +90,8 @@
     { "nombre": "Mayonesa", "categoria": "Grasa", "kcal100": 680, "p100": 1, "c100": 1.5, "g100": 75, "porcion_g": 15, "porcion_nota": "1 cucharada" },
     { "nombre": "Salsa de ajo (tipo aioli/toum)", "categoria": "Grasa", "kcal100": 650, "p100": 1, "c100": 2, "g100": 70, "porcion_g": 20, "porcion_nota": "1 cucharada" },
     { "nombre": "Nueces / almendras", "categoria": "Grasa", "kcal100": 600, "p100": 20, "c100": 20, "g100": 52, "porcion_g": 25, "porcion_nota": "1 punado" },
+    { "nombre": "Guacamole", "categoria": "Grasa", "kcal100": 150, "p100": 2, "c100": 8, "g100": 14, "porcion_g": 60, "porcion_nota": "2 cucharadas" },
+    { "nombre": "Sour cream / crema agria", "categoria": "Grasa", "kcal100": 200, "p100": 2, "c100": 4, "g100": 20, "porcion_g": 30, "porcion_nota": "2 cucharadas" },
 
     { "nombre": "Papas fritas de paquete", "categoria": "Snack empacado", "kcal100": 536, "p100": 6.6, "c100": 53, "g100": 34, "porcion_g": 30, "porcion_nota": "1 paquete pequeño" },
     { "nombre": "Ripio de papa (hilos crujientes, topping)", "categoria": "Snack empacado", "kcal100": 536, "p100": 6.6, "c100": 53, "g100": 34, "porcion_g": 15, "porcion_nota": "topping de perro/perrita" },

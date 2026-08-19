@@ -46,13 +46,91 @@
       "confianza": "media",
       "origen": "reporte en texto",
       "nota": "1 arepa de platano maduro asada con queso (mitad de la porcion tipica de 2), mas quesito aparte, 2 huevos y Milo light con leche."
+    },
+    {
+      "momento": "almuerzo",
+      "items": [
+        {
+          "alimento": "papas al horno sin aceite",
+          "porcion_g": 200,
+          "kcal": 240.0,
+          "proteina_g": 5.0,
+          "carbs_g": 54.0,
+          "grasa_g": 0.6
+        },
+        {
+          "alimento": "carne desmechada",
+          "porcion_g": 100,
+          "kcal": 220.0,
+          "proteina_g": 32.0,
+          "carbs_g": 0.0,
+          "grasa_g": 10.0
+        },
+        {
+          "alimento": "queso rallado",
+          "porcion_g": 20,
+          "kcal": 60.0,
+          "proteina_g": 4.0,
+          "carbs_g": 0.4,
+          "grasa_g": 4.4
+        },
+        {
+          "alimento": "maiz dulce (granos)",
+          "porcion_g": 20,
+          "kcal": 17.2,
+          "proteina_g": 0.64,
+          "carbs_g": 3.8,
+          "grasa_g": 0.24
+        },
+        {
+          "alimento": "guacamole",
+          "porcion_g": 30,
+          "kcal": 45.0,
+          "proteina_g": 0.6,
+          "carbs_g": 2.4,
+          "grasa_g": 4.2
+        },
+        {
+          "alimento": "sour cream",
+          "porcion_g": 20,
+          "kcal": 40.0,
+          "proteina_g": 0.4,
+          "carbs_g": 0.8,
+          "grasa_g": 4.0
+        },
+        {
+          "alimento": "aguacate (trozos)",
+          "porcion_g": 40,
+          "kcal": 64.0,
+          "proteina_g": 0.8,
+          "carbs_g": 3.6,
+          "grasa_g": 6.0
+        },
+        {
+          "alimento": "pico de gallo",
+          "porcion_g": 120,
+          "kcal": 42.0,
+          "proteina_g": 1.2,
+          "carbs_g": 8.4,
+          "grasa_g": 0.24
+        }
+      ],
+      "subtotal": {
+        "kcal": 728.2,
+        "proteina_g": 44.6,
+        "carbs_g": 73.4,
+        "grasa_g": 29.7
+      },
+      "confianza": "media",
+      "origen": "foto + descripcion",
+      "nota": "Papas al horno sin aceite (buena base), carne desmechada, cargado de toppings (queso, maiz, guacamole, sour cream, aguacate, pico de gallo). Grasa repartida entre varios toppings, no concentrada."
     }
   ],
   "totales": {
-    "kcal": 373.9,
-    "proteina_g": 23.4,
-    "carbs_g": 23.0,
-    "grasa_g": 21.6
+    "kcal": 1102.1,
+    "proteina_g": 68.0,
+    "carbs_g": 96.4,
+    "grasa_g": 51.3
   },
   "objetivo": {
     "kcal": 1850,
@@ -61,10 +139,10 @@
     "grasa_g": 70
   },
   "restante": {
-    "kcal": 1476.1,
-    "proteina_g": 136.6,
-    "carbs_g": 122.0,
-    "grasa_g": 48.4
+    "kcal": 747.9,
+    "proteina_g": 92.0,
+    "carbs_g": 48.6,
+    "grasa_g": 18.7
   },
   "notas": "Dia 8 (miercoles). Comidas pendientes de reportar durante el dia."
 }

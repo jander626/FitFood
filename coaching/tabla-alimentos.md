@@ -86,6 +86,7 @@ Vista rápida entre categorías — útil cuando solo quieres saber qué te rind
 | Tortilla de trigo (wrap, 21cm) | 310 | 8 g | 50 g | 8 g | 1 unidad 21cm (50g): **155 kcal**, 4.0g P, 25.0g C, 4.0g G |
 | Pasta cocida | 131 | 5 g | 25 g | 1.1 g | 1 plato (180g): **236 kcal**, 9.0g P, 45.0g C, 2.0g G |
 | Arepa de maiz (media tela) | 200 | 4 g | 42 g | 2 g | 1 arepa media tela (pesada en bascula por el usuario = 50g) (50g): **100 kcal**, 2.0g P, 21.0g C, 1.0g G |
+| Maiz dulce / choclo (granos) | 86 | 3.2 g | 19 g | 1.2 g | 1 taza (100g): **86 kcal**, 3.2g P, 19.0g C, 1.2g G |
 | Papa frita (con aceite) | 190 | 3 g | 30 g | 7 g | porcion mediana (150g): **285 kcal**, 4.5g P, 45.0g C, 10.5g G |
 | Avena cocida (con agua) | 70 | 2.5 g | 12 g | 1.5 g | 1 taza cocida (200g): **140 kcal**, 5.0g P, 24.0g C, 3.0g G |
 | Papa airfryer sin aceite | 120 | 2.5 g | 27 g | 0.3 g | porcion mediana, sin aceite anadido (150g): **180 kcal**, 3.8g P, 40.5g C, 0.4g G |
@@ -115,6 +116,7 @@ Vista rápida entre categorías — útil cuando solo quieres saber qué te rind
 | Lechuga | 15 | 1.4 g | 2.9 g | 0.2 g | 1 puñado (50g): **8 kcal**, 0.7g P, 1.4g C, 0.1g G |
 | Repollo (crudo) | 25 | 1.3 g | 5.8 g | 0.1 g | 1 punado (50g): **12 kcal**, 0.7g P, 2.9g C, 0.1g G |
 | Cebolla | 40 | 1.1 g | 9 g | 0.1 g | para sofrito (40g): **16 kcal**, 0.4g P, 3.6g C, 0.0g G |
+| Pico de gallo (tomate, cebolla, cilantro) | 35 | 1 g | 7 g | 0.2 g | porcion mediana (100g): **35 kcal**, 1.0g P, 7.0g C, 0.2g G |
 | Tomate | 18 | 0.9 g | 3.9 g | 0.2 g | 1 unidad (100g): **18 kcal**, 0.9g P, 3.9g C, 0.2g G |
 | Zanahoria | 41 | 0.9 g | 10 g | 0.2 g | 1 unidad (80g): **33 kcal**, 0.7g P, 8.0g C, 0.2g G |
 | Pepino | 15 | 0.7 g | 3.6 g | 0.1 g | 1/2 unidad (100g): **15 kcal**, 0.7g P, 3.6g C, 0.1g G |
@@ -137,6 +139,8 @@ Vista rápida entre categorías — útil cuando solo quieres saber qué te rind
 |---|---|---|---|---|---|
 | Nueces / almendras | 600 | 20 g | 20 g | 52 g | 1 punado (25g): **150 kcal**, 5.0g P, 5.0g C, 13.0g G |
 | Coco rallado (crudo, sin azucar) | 354 | 3.3 g | 15 g | 33 g | 2 cucharadas (20g): **71 kcal**, 0.7g P, 3.0g C, 6.6g G |
+| Guacamole | 150 | 2 g | 8 g | 14 g | 2 cucharadas (60g): **90 kcal**, 1.2g P, 4.8g C, 8.4g G |
+| Sour cream / crema agria | 200 | 2 g | 4 g | 20 g | 2 cucharadas (30g): **60 kcal**, 0.6g P, 1.2g C, 6.0g G |
 | Mayonesa | 680 | 1 g | 1.5 g | 75 g | 1 cucharada (15g): **102 kcal**, 0.1g P, 0.2g C, 11.2g G |
 | Salsa de ajo (tipo aioli/toum) | 650 | 1 g | 2 g | 70 g | 1 cucharada (20g): **130 kcal**, 0.2g P, 0.4g C, 14.0g G |
 | Mantequilla | 717 | 0.9 g | 0.1 g | 81 g | 1 cucharadita (10g): **72 kcal**, 0.1g P, 0.0g C, 8.1g G |
