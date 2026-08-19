@@ -60,6 +60,8 @@
     { "nombre": "Patacones (platano verde, doble friccion)", "categoria": "Carbohidrato / tuberculo", "kcal100": 190, "p100": 1.5, "c100": 28, "g100": 8.5, "porcion_g": 110, "porcion_nota": "2 unidades medianas" },
     { "nombre": "Pan integral", "categoria": "Carbohidrato / tuberculo", "kcal100": 265, "p100": 13, "c100": 47, "g100": 3.5, "porcion_g": 30, "porcion_nota": "1 rebanada" },
     { "nombre": "Palito de queso", "categoria": "Carbohidrato / tuberculo", "kcal100": 400, "p100": 10, "c100": 38, "g100": 22, "porcion_g": 40, "porcion_nota": "1 unidad" },
+    { "nombre": "Pastel de arequipe (hojaldre de panaderia)", "categoria": "Carbohidrato / tuberculo", "kcal100": 400, "p100": 6, "c100": 45, "g100": 20, "porcion_g": 90, "porcion_nota": "1 unidad" },
+    { "nombre": "Pan dulce de panaderia (trenza, agridulce, sin relleno)", "categoria": "Carbohidrato / tuberculo", "kcal100": 300, "p100": 8, "c100": 50, "g100": 7, "porcion_g": 80, "porcion_nota": "1 unidad" },
     { "nombre": "Maiz trillado / mazamorra (sin leche)", "categoria": "Carbohidrato / tuberculo", "kcal100": 96, "p100": 2.3, "c100": 21, "g100": 0.6, "porcion_g": 150, "porcion_nota": "1 taza" },
     { "nombre": "Maiz dulce / choclo (granos)", "categoria": "Carbohidrato / tuberculo", "kcal100": 86, "p100": 3.2, "c100": 19, "g100": 1.2, "porcion_g": 100, "porcion_nota": "1 taza" },
 

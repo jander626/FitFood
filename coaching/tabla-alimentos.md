@@ -84,6 +84,8 @@ Vista rápida entre categorías — útil cuando solo quieres saber qué te rind
 | Pan integral | 265 | 13 g | 47 g | 3.5 g | 1 rebanada (30g): **80 kcal**, 3.9g P, 14.1g C, 1.1g G |
 | Palito de queso | 400 | 10 g | 38 g | 22 g | 1 unidad (40g): **160 kcal**, 4.0g P, 15.2g C, 8.8g G |
 | Tortilla de trigo (wrap, 21cm) | 310 | 8 g | 50 g | 8 g | 1 unidad 21cm (50g): **155 kcal**, 4.0g P, 25.0g C, 4.0g G |
+| Pan dulce de panaderia (trenza, agridulce, sin relleno) | 300 | 8 g | 50 g | 7 g | 1 unidad (80g): **240 kcal**, 6.4g P, 40.0g C, 5.6g G |
+| Pastel de arequipe (hojaldre de panaderia) | 400 | 6 g | 45 g | 20 g | 1 unidad (90g): **360 kcal**, 5.4g P, 40.5g C, 18.0g G |
 | Pasta cocida | 131 | 5 g | 25 g | 1.1 g | 1 plato (180g): **236 kcal**, 9.0g P, 45.0g C, 2.0g G |
 | Arepa de maiz (media tela) | 200 | 4 g | 42 g | 2 g | 1 arepa media tela (pesada en bascula por el usuario = 50g) (50g): **100 kcal**, 2.0g P, 21.0g C, 1.0g G |
 | Maiz dulce / choclo (granos) | 86 | 3.2 g | 19 g | 1.2 g | 1 taza (100g): **86 kcal**, 3.2g P, 19.0g C, 1.2g G |
