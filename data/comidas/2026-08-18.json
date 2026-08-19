@@ -94,13 +94,43 @@
       "confianza": "media",
       "origen": "foto + descripcion",
       "nota": "Corregido: todo el plato es asado, no frito. Maduritos a la plancha sin aceite. Chicharron y tocineta mantienen su grasa intrinseca (no depende del metodo de coccion)."
+    },
+    {
+      "momento": "cena",
+      "items": [
+        {
+          "alimento": "pechuga de pollo asada",
+          "porcion_g": 200,
+          "kcal": 330.0,
+          "proteina_g": 62.0,
+          "carbs_g": 0.0,
+          "grasa_g": 7.2
+        },
+        {
+          "alimento": "ensalada de lechuga, zanahoria y tomate con limon y sal",
+          "porcion_g": 110,
+          "kcal": 30.1,
+          "proteina_g": 1.14,
+          "carbs_g": 6.43,
+          "grasa_g": 0.22
+        }
+      ],
+      "subtotal": {
+        "kcal": 360.1,
+        "proteina_g": 63.1,
+        "carbs_g": 6.4,
+        "grasa_g": 7.4
+      },
+      "confianza": "media",
+      "origen": "reporte en texto",
+      "nota": "Cena ideal para cerrar el dia: proteina magra, sin grasa añadida, ensalada solo con limon y sal (sin aceite)."
     }
   ],
   "totales": {
-    "kcal": 1421.0,
-    "proteina_g": 75.9,
-    "carbs_g": 109.3,
-    "grasa_g": 76.4
+    "kcal": 1781.1,
+    "proteina_g": 139.0,
+    "carbs_g": 115.7,
+    "grasa_g": 83.8
   },
   "objetivo": {
     "kcal": 1850,
@@ -109,10 +139,10 @@
     "grasa_g": 70
   },
   "restante": {
-    "kcal": 429.0,
-    "proteina_g": 84.1,
-    "carbs_g": 35.7,
-    "grasa_g": -6.4
+    "kcal": 68.9,
+    "proteina_g": 21.0,
+    "carbs_g": 29.3,
+    "grasa_g": -13.8
   },
-  "notas": "Dia 7 (martes) -- cierra la primera semana completa del plan. Comidas pendientes de reportar durante el dia."
+  "notas": "DIA 7 CERRADO (martes). Primera semana completa de datos. Cena ideal (pechuga+ensalada sin grasa) ayudo a acercar el dia al objetivo pese al almuerzo pesado. Totales: {'kcal': 1781.1, 'proteina_g': 139.0, 'carbs_g': 115.7, 'grasa_g': 83.8}."
 }
