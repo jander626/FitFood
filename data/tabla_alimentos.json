@@ -34,6 +34,7 @@
     { "nombre": "Clara de huevo", "categoria": "Huevos y lacteos", "kcal100": 52, "p100": 11, "c100": 0.7, "g100": 0.2, "porcion_g": 33, "porcion_nota": "1 clara" },
     { "nombre": "Queso costeno / fresco", "categoria": "Huevos y lacteos", "kcal100": 320, "p100": 20, "c100": 2, "g100": 25, "porcion_g": 40, "porcion_nota": "1 tajada" },
     { "nombre": "Queso mozzarella", "categoria": "Huevos y lacteos", "kcal100": 280, "p100": 25, "c100": 2, "g100": 20, "porcion_g": 30, "porcion_nota": "1 tajada" },
+    { "nombre": "Quesito colombiano", "categoria": "Huevos y lacteos", "kcal100": 280, "p100": 18, "c100": 2, "g100": 22, "porcion_g": 30, "porcion_nota": "1 tajada pequena" },
     { "nombre": "Yogur griego natural", "categoria": "Huevos y lacteos", "kcal100": 59, "p100": 10, "c100": 3.6, "g100": 0.4, "porcion_g": 170, "porcion_nota": "1 pote" },
     { "nombre": "Leche entera", "categoria": "Huevos y lacteos", "kcal100": 61, "p100": 3.2, "c100": 4.8, "g100": 3.3, "porcion_g": 240, "porcion_nota": "1 vaso" },
     { "nombre": "Kumis / yogur para tomar", "categoria": "Huevos y lacteos", "kcal100": 70, "p100": 3, "c100": 8, "g100": 3, "porcion_g": 200, "porcion_nota": "1 vaso" },

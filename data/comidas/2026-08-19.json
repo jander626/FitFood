@@ -1,12 +1,58 @@
 {
   "fecha": "2026-08-19",
   "dia_plan": 8,
-  "comidas": [],
+  "comidas": [
+    {
+      "momento": "desayuno",
+      "items": [
+        {
+          "alimento": "arepa de platano maduro asado con queso",
+          "porcion_g": 60,
+          "kcal": 98.2,
+          "proteina_g": 3.35,
+          "carbs_g": 14.1,
+          "grasa_g": 3.65
+        },
+        {
+          "alimento": "quesito colombiano",
+          "porcion_g": 30,
+          "kcal": 84.0,
+          "proteina_g": 5.4,
+          "carbs_g": 0.6,
+          "grasa_g": 6.6
+        },
+        {
+          "alimento": "2 huevos",
+          "kcal": 146.7,
+          "proteina_g": 12.67,
+          "carbs_g": 1.33,
+          "grasa_g": 10.0
+        },
+        {
+          "alimento": "milo sin azucar (light)",
+          "porcion_ml": 100,
+          "kcal": 45.0,
+          "proteina_g": 2.0,
+          "carbs_g": 7.0,
+          "grasa_g": 1.3
+        }
+      ],
+      "subtotal": {
+        "kcal": 373.9,
+        "proteina_g": 23.4,
+        "carbs_g": 23.0,
+        "grasa_g": 21.6
+      },
+      "confianza": "media",
+      "origen": "reporte en texto",
+      "nota": "1 arepa de platano maduro asada con queso (mitad de la porcion tipica de 2), mas quesito aparte, 2 huevos y Milo light con leche."
+    }
+  ],
   "totales": {
-    "kcal": 0,
-    "proteina_g": 0,
-    "carbs_g": 0,
-    "grasa_g": 0
+    "kcal": 373.9,
+    "proteina_g": 23.4,
+    "carbs_g": 23.0,
+    "grasa_g": 21.6
   },
   "objetivo": {
     "kcal": 1850,
@@ -15,10 +61,10 @@
     "grasa_g": 70
   },
   "restante": {
-    "kcal": 1850,
-    "proteina_g": 160,
-    "carbs_g": 145,
-    "grasa_g": 70
+    "kcal": 1476.1,
+    "proteina_g": 136.6,
+    "carbs_g": 122.0,
+    "grasa_g": 48.4
   },
   "notas": "Dia 8 (miercoles). Comidas pendientes de reportar durante el dia."
 }

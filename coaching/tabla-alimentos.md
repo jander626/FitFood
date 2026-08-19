@@ -68,6 +68,7 @@ Vista rápida entre categorías — útil cuando solo quieres saber qué te rind
 | Proteina en polvo (whey) | 380 | 75 g | 8 g | 5 g | 1 scoop (30g): **114 kcal**, 22.5g P, 2.4g C, 1.5g G |
 | Queso mozzarella | 280 | 25 g | 2 g | 20 g | 1 tajada (30g): **84 kcal**, 7.5g P, 0.6g C, 6.0g G |
 | Queso costeno / fresco | 320 | 20 g | 2 g | 25 g | 1 tajada (40g): **128 kcal**, 8.0g P, 0.8g C, 10.0g G |
+| Quesito colombiano | 280 | 18 g | 2 g | 22 g | 1 tajada pequena (30g): **84 kcal**, 5.4g P, 0.6g C, 6.6g G |
 | Huevo entero (frito/revuelto) | 155 | 13 g | 1.5 g | 11 g | 1 unidad (50g): **78 kcal**, 6.5g P, 0.8g C, 5.5g G |
 | Clara de huevo | 52 | 11 g | 0.7 g | 0.2 g | 1 clara (33g): **17 kcal**, 3.6g P, 0.2g C, 0.1g G |
 | Requeson / queso cottage | 98 | 11 g | 3.4 g | 4.3 g | 1/2 taza (100g): **98 kcal**, 11.0g P, 3.4g C, 4.3g G |
