@@ -88,6 +88,14 @@
       "min": null,
       "fc_media": null,
       "notas": "Trote de 8km con su perro (sabado). Duracion/FC no reportadas. Gasto extra estimado ~630kcal (peso x km x ~1kcal/kg/km) sobre el TDEE base -- no se aplica directo al balance de macros del dia."
+    },
+    {
+      "fecha": "2026-08-18",
+      "dia_plan": 7,
+      "tipo": "fuerza",
+      "fuente": "reporte en texto",
+      "ejercicios": [],
+      "notas": "Sesion de pesas reportada sin detalle de ejercicios/cargas. Pendiente si el usuario quiere agregar el detalle para seguimiento."
     }
   ]
 }

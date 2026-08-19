@@ -41,6 +41,12 @@
       "kg": 79.3,
       "condiciones": "ayunas, boxer+pantaloneta+reloj",
       "nota": "DIA 7. Sube 0.7kg tras el dia 6 (dos hamburguesas, +198kcal, +40g grasa sobre objetivo). Salto grande, consistente con retencion de agua por el sodio de comida de restaurante, no con ganancia real de grasa en 24h."
+    },
+    {
+      "fecha": "2026-08-19",
+      "kg": 78.8,
+      "condiciones": "ayunas, boxer+pantaloneta+reloj",
+      "nota": "DIA 8. Baja 0.5kg tras el dia 7 (cierre casi exacto en kcal). Confirma que el salto del dia anterior era agua, no grasa -- ya se esta revirtiendo."
     }
   ]
 }
