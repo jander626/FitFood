@@ -124,13 +124,35 @@
       "confianza": "media",
       "origen": "foto + descripcion",
       "nota": "Papas al horno sin aceite (buena base), carne desmechada, cargado de toppings (queso, maiz, guacamole, sour cream, aguacate, pico de gallo). Grasa repartida entre varios toppings, no concentrada."
+    },
+    {
+      "momento": "snack tarde",
+      "items": [
+        {
+          "alimento": "capuchino (con leche semidescremada deslactosada, sin azucar)",
+          "porcion_ml": 150,
+          "kcal": 55.0,
+          "proteina_g": 4.0,
+          "carbs_g": 6.0,
+          "grasa_g": 2.0
+        }
+      ],
+      "subtotal": {
+        "kcal": 55.0,
+        "proteina_g": 4.0,
+        "carbs_g": 6.0,
+        "grasa_g": 2.0
+      },
+      "confianza": "media",
+      "origen": "reporte en texto",
+      "nota": "Solo el capuchino, sin el pastel de arequipe ni ningun otro item de panaderia."
     }
   ],
   "totales": {
-    "kcal": 1102.1,
-    "proteina_g": 68.0,
-    "carbs_g": 96.4,
-    "grasa_g": 51.3
+    "kcal": 1157.1,
+    "proteina_g": 72.0,
+    "carbs_g": 102.4,
+    "grasa_g": 53.3
   },
   "objetivo": {
     "kcal": 1850,
@@ -139,10 +161,10 @@
     "grasa_g": 70
   },
   "restante": {
-    "kcal": 747.9,
-    "proteina_g": 92.0,
-    "carbs_g": 48.6,
-    "grasa_g": 18.7
+    "kcal": 692.9,
+    "proteina_g": 88.0,
+    "carbs_g": 42.6,
+    "grasa_g": 16.7
   },
   "notas": "Dia 8 (miercoles). Comidas pendientes de reportar durante el dia."
 }
