@@ -146,13 +146,35 @@
       "confianza": "media",
       "origen": "reporte en texto",
       "nota": "Solo el capuchino, sin el pastel de arequipe ni ningun otro item de panaderia."
+    },
+    {
+      "momento": "cena",
+      "items": [
+        {
+          "alimento": "carne desmechada con maiz, cebolla y tomate salteados",
+          "porcion_g": 230,
+          "kcal": 464.4,
+          "proteina_g": 49.68,
+          "carbs_g": 10.18,
+          "grasa_g": 25.54
+        }
+      ],
+      "subtotal": {
+        "kcal": 464.4,
+        "proteina_g": 49.7,
+        "carbs_g": 10.2,
+        "grasa_g": 25.5
+      },
+      "confianza": "media",
+      "origen": "foto",
+      "nota": "Carne desmechada salteada con granos de maiz, cebolla y tomate, con un poco de aceite/salsa visible. Porcion estimada por volumen visual (~230g)."
     }
   ],
   "totales": {
-    "kcal": 1157.1,
-    "proteina_g": 72.0,
-    "carbs_g": 102.4,
-    "grasa_g": 53.3
+    "kcal": 1621.5,
+    "proteina_g": 121.7,
+    "carbs_g": 112.6,
+    "grasa_g": 78.8
   },
   "objetivo": {
     "kcal": 1850,
@@ -161,10 +183,10 @@
     "grasa_g": 70
   },
   "restante": {
-    "kcal": 692.9,
-    "proteina_g": 88.0,
-    "carbs_g": 42.6,
-    "grasa_g": 16.7
+    "kcal": 228.5,
+    "proteina_g": 38.3,
+    "carbs_g": 32.4,
+    "grasa_g": -8.8
   },
   "notas": "Dia 8 (miercoles). Comidas pendientes de reportar durante el dia."
 }
