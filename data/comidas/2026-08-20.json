@@ -1,0 +1,70 @@
+{
+  "fecha": "2026-08-20",
+  "dia_plan": 9,
+  "comidas": [
+    {
+      "momento": "desayuno",
+      "items": [
+        {
+          "alimento": "3 huevos fritos",
+          "kcal": 270.0,
+          "proteina_g": 18.0,
+          "carbs_g": 1.5,
+          "grasa_g": 21.0
+        },
+        {
+          "alimento": "tocineta (1 tira)",
+          "porcion_g": 15,
+          "kcal": 81.15,
+          "proteina_g": 5.55,
+          "carbs_g": 0.15,
+          "grasa_g": 6.3
+        },
+        {
+          "alimento": "arepa de maiz asada",
+          "porcion_g": 50,
+          "kcal": 100.0,
+          "proteina_g": 2.0,
+          "carbs_g": 21.0,
+          "grasa_g": 1.0
+        },
+        {
+          "alimento": "milo light de sobre (con leche)",
+          "porcion_ml": 100,
+          "kcal": 45.0,
+          "proteina_g": 2.0,
+          "carbs_g": 7.0,
+          "grasa_g": 1.3
+        }
+      ],
+      "subtotal": {
+        "kcal": 496.15,
+        "proteina_g": 27.55,
+        "carbs_g": 29.65,
+        "grasa_g": 29.6
+      },
+      "confianza": "media",
+      "origen": "foto + descripcion",
+      "nota": "3 huevos fritos con tocineta en la misma sarten. Arepa de maiz asada por separado. Milo light en presentacion de sobre individual, se asume misma preparacion con leche que las veces anteriores."
+    }
+  ],
+  "totales": {
+    "kcal": 496.15,
+    "proteina_g": 27.55,
+    "carbs_g": 29.65,
+    "grasa_g": 29.6
+  },
+  "objetivo": {
+    "kcal": 1850,
+    "proteina_g": 160,
+    "carbs_g": 145,
+    "grasa_g": 70
+  },
+  "restante": {
+    "kcal": 1353.85,
+    "proteina_g": 132.45,
+    "carbs_g": 115.35,
+    "grasa_g": 40.4
+  },
+  "notas": "Dia 9 (jueves). Comidas pendientes de reportar durante el dia."
+}
