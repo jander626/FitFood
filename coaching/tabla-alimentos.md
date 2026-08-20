@@ -88,6 +88,7 @@ Vista rápida entre categorías — útil cuando solo quieres saber qué te rind
 | Pastel de arequipe (hojaldre de panaderia) | 400 | 6 g | 45 g | 20 g | 1 unidad (90g): **360 kcal**, 5.4g P, 40.5g C, 18.0g G |
 | Pasta cocida | 131 | 5 g | 25 g | 1.1 g | 1 plato (180g): **236 kcal**, 9.0g P, 45.0g C, 2.0g G |
 | Arepa de maiz (media tela) | 200 | 4 g | 42 g | 2 g | 1 arepa media tela (pesada en bascula por el usuario = 50g) (50g): **100 kcal**, 2.0g P, 21.0g C, 1.0g G |
+| Maicitos horneados (masa de maiz) | 150 | 4 g | 30 g | 2 g | porcion mediana (100g): **150 kcal**, 4.0g P, 30.0g C, 2.0g G |
 | Maiz dulce / choclo (granos) | 86 | 3.2 g | 19 g | 1.2 g | 1 taza (100g): **86 kcal**, 3.2g P, 19.0g C, 1.2g G |
 | Papa frita (con aceite) | 190 | 3 g | 30 g | 7 g | porcion mediana (150g): **285 kcal**, 4.5g P, 45.0g C, 10.5g G |
 | Avena cocida (con agua) | 70 | 2.5 g | 12 g | 1.5 g | 1 taza cocida (200g): **140 kcal**, 5.0g P, 24.0g C, 3.0g G |
@@ -96,6 +97,7 @@ Vista rápida entre categorías — útil cuando solo quieres saber qué te rind
 | Arroz blanco cocido | 130 | 2.4 g | 28 g | 0.3 g | 1 taza (150g): **195 kcal**, 3.6g P, 42.0g C, 0.4g G |
 | Maiz trillado / mazamorra (sin leche) | 96 | 2.3 g | 21 g | 0.6 g | 1 taza (150g): **144 kcal**, 3.4g P, 31.5g C, 0.9g G |
 | Papa cocida | 87 | 2 g | 20 g | 0.1 g | 1 papa mediana (150g): **130 kcal**, 3.0g P, 30.0g C, 0.2g G |
+| Papa criolla (cocida/horneada, sin aceite) | 87 | 2 g | 20 g | 0.1 g | 5-6 unidades pequenas (100g): **87 kcal**, 2.0g P, 20.0g C, 0.1g G |
 | Patacones (platano verde, doble friccion) | 190 | 1.5 g | 28 g | 8.5 g | 2 unidades medianas (110g): **209 kcal**, 1.7g P, 30.8g C, 9.4g G |
 | Yuca cocida | 160 | 1.4 g | 38 g | 0.3 g | 1 porcion (150g): **240 kcal**, 2.1g P, 57.0g C, 0.4g G |
 | Platano maduro frito (tajadas) | 220 | 1.3 g | 40 g | 7 g | 2-3 tajadas (100g): **220 kcal**, 1.3g P, 40.0g C, 7.0g G |
@@ -175,6 +177,7 @@ Vista rápida entre categorías — útil cuando solo quieres saber qué te rind
 | Perro caliente con tocineta | 260 | 10 g | 22 g | 15 g | 1 unidad completa (280g): **728 kcal**, 28.0g P, 61.6g C, 42.0g G |
 | Arequipe / dulce de leche sin azucar | 270 | 5 g | 40 g | 7 g | 1 chorrito/cucharada (15g): **40 kcal**, 0.8g P, 6.0g C, 1.1g G |
 | Yogur helado sin azucar (heladeria) | 100 | 4.5 g | 16 g | 2.5 g | 1 copa mediana sola, sin toppings (150g): **150 kcal**, 6.8g P, 24.0g C, 3.8g G |
+| Mostaza | 66 | 4 g | 8 g | 4 g | 1 cucharadita (10g): **7 kcal**, 0.4g P, 0.8g C, 0.4g G |
 | Milo en leche | 97 | 3.2 g | 13 g | 3.3 g | 1 vaso (240g): **233 kcal**, 7.7g P, 31.2g C, 7.9g G |
 | Mazamorra con leche (sin azucar) | 65 | 2.4 g | 10 g | 1.8 g | 1 taza mazamorra + 1 taza leche (390g): **254 kcal**, 9.4g P, 39.0g C, 7.0g G |
 | Milo sin azucar (version light) | 45 | 2 g | 7 g | 1.3 g | 1 vaso (200g): **90 kcal**, 4.0g P, 14.0g C, 2.6g G |
@@ -185,6 +188,7 @@ Vista rápida entre categorías — útil cuando solo quieres saber qué te rind
 | Jugo de naranja natural | 45 | 0.7 g | 10 g | 0.2 g | 1 vaso (240g): **108 kcal**, 1.7g P, 24.0g C, 0.5g G |
 | Cerveza | 43 | 0.5 g | 3.6 g | 0 g | 1 botella (330g): **142 kcal**, 1.6g P, 11.9g C, 0.0g G |
 | Bocadillo de guayaba | 285 | 0.3 g | 71 g | 0.1 g | 1 unidad pequena (30g): **86 kcal**, 0.1g P, 21.3g C, 0.0g G |
+| Miel de abejas | 304 | 0.3 g | 82 g | 0 g | 1 cucharada (15g): **46 kcal**, 0.0g P, 12.3g C, 0.0g G |
 | Salsa de ciruelas (plum sauce) | 235 | 0.3 g | 57 g | 0.2 g | 2 cucharadas (30g): **70 kcal**, 0.1g P, 17.1g C, 0.1g G |
 | Jugo de mora (con azucar) | 48 | 0.3 g | 12 g | 0 g | 1 vaso (250g): **120 kcal**, 0.8g P, 30.0g C, 0.0g G |
 | Panela | 380 | 0 g | 98 g | 0 g | 1 cucharada (15g): **57 kcal**, 0.0g P, 14.7g C, 0.0g G |
