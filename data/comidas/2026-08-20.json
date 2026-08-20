@@ -75,19 +75,20 @@
           "grasa_g": 0.06
         },
         {
-          "alimento": "ensalada de mango, zanahoria y aguacate",
-          "porcion_g": 140,
-          "kcal": 109.0,
-          "proteina_g": 1.58,
-          "carbs_g": 16.28,
-          "grasa_g": 5.6
+          "alimento": "ensalada de mango, zanahoria y aguacate (solo 1/3 del aguacate, estaba amargo)",
+          "porcion_g": 117,
+          "kcal": 71.7,
+          "proteina_g": 1.1,
+          "carbs_g": 14.2,
+          "grasa_g": 2.1,
+          "nota_correccion": "Corregido: el usuario solo comio 1/3 del aguacate porque estaba amargo."
         }
       ],
       "subtotal": {
-        "kcal": 747.5,
-        "proteina_g": 72.0,
-        "carbs_g": 67.2,
-        "grasa_g": 22.1
+        "kcal": 710.2,
+        "proteina_g": 71.5,
+        "carbs_g": 65.1,
+        "grasa_g": 18.6
       },
       "confianza": "media",
       "origen": "foto + descripcion",
@@ -95,10 +96,10 @@
     }
   ],
   "totales": {
-    "kcal": 1243.7,
-    "proteina_g": 99.5,
-    "carbs_g": 96.8,
-    "grasa_g": 51.7
+    "kcal": 1206.3,
+    "proteina_g": 99.0,
+    "carbs_g": 94.8,
+    "grasa_g": 48.2
   },
   "objetivo": {
     "kcal": 1850,
@@ -107,10 +108,10 @@
     "grasa_g": 70
   },
   "restante": {
-    "kcal": 606.3,
-    "proteina_g": 60.5,
-    "carbs_g": 48.2,
-    "grasa_g": 18.3
+    "kcal": 643.7,
+    "proteina_g": 61.0,
+    "carbs_g": 50.2,
+    "grasa_g": 21.8
   },
   "notas": "Dia 9 (jueves). Comidas pendientes de reportar durante el dia."
 }
