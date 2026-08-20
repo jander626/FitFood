@@ -107,6 +107,7 @@
     { "nombre": "Mazamorra con leche (sin azucar)", "categoria": "Dulce / bebida", "kcal100": 65, "p100": 2.4, "c100": 10, "g100": 1.8, "porcion_g": 390, "porcion_nota": "1 taza mazamorra + 1 taza leche" },
     { "nombre": "Bocadillo de guayaba", "categoria": "Dulce / bebida", "kcal100": 285, "p100": 0.3, "c100": 71, "g100": 0.1, "porcion_g": 30, "porcion_nota": "1 unidad pequena" },
     { "nombre": "Granizado de cafe", "categoria": "Dulce / bebida", "kcal100": 65, "p100": 1, "c100": 10, "g100": 2, "porcion_g": 250, "porcion_nota": "1 vaso" },
+    { "nombre": "Bon Bon Bum (paleta)", "categoria": "Dulce / bebida", "kcal100": 375, "p100": 0, "c100": 94, "g100": 0, "porcion_g": 16, "porcion_nota": "1 unidad" },
     { "nombre": "Panela", "categoria": "Dulce / bebida", "kcal100": 380, "p100": 0, "c100": 98, "g100": 0, "porcion_g": 15, "porcion_nota": "1 cucharada" },
     { "nombre": "Miel de abejas", "categoria": "Dulce / bebida", "kcal100": 304, "p100": 0.3, "c100": 82, "g100": 0, "porcion_g": 15, "porcion_nota": "1 cucharada" },
     { "nombre": "Mostaza", "categoria": "Dulce / bebida", "kcal100": 66, "p100": 4, "c100": 8, "g100": 4, "porcion_g": 10, "porcion_nota": "1 cucharadita" },
