@@ -16,11 +16,12 @@
           "nota_correccion": "Corregido 2026-08-14: el usuario peso su arepa real en bascula = 50g, no 100g."
         },
         {
-          "alimento": "4 huevos con tomate y cebolla",
-          "kcal": 365,
-          "proteina_g": 27,
-          "carbs_g": 8,
-          "grasa_g": 23
+          "alimento": "4 huevos con tomate y cebolla (huevos en mantequilla)",
+          "kcal": 402.8,
+          "proteina_g": 26.88,
+          "carbs_g": 6.72,
+          "grasa_g": 27.0,
+          "nota_correccion": "Corregido 2026-08-20: el usuario prepara los huevos en mantequilla, no fritos en aceite. Siempre ha sido asi."
         },
         {
           "alimento": "agua",
@@ -31,10 +32,10 @@
         }
       ],
       "subtotal": {
-        "kcal": 465.0,
-        "proteina_g": 29.0,
-        "carbs_g": 29.0,
-        "grasa_g": 24.0
+        "kcal": 502.8,
+        "proteina_g": 28.9,
+        "carbs_g": 27.7,
+        "grasa_g": 28.0
       },
       "confianza": "media",
       "origen": "reporte en texto",
@@ -157,10 +158,10 @@
     }
   ],
   "totales": {
-    "kcal": 1964.4,
-    "proteina_g": 147.9,
-    "carbs_g": 143.3,
-    "grasa_g": 87.9
+    "kcal": 2002.2,
+    "proteina_g": 147.8,
+    "carbs_g": 142.0,
+    "grasa_g": 91.9
   },
   "objetivo": {
     "kcal": 1850,
@@ -169,10 +170,10 @@
     "grasa_g": 70
   },
   "restante": {
-    "kcal": -114.4,
-    "proteina_g": 12.1,
-    "carbs_g": 1.7,
-    "grasa_g": -17.9
+    "kcal": -152.2,
+    "proteina_g": 12.2,
+    "carbs_g": 3.0,
+    "grasa_g": -21.9
   },
   "notas": "Dia 3 del plan. | Corregido 2026-08-14: arepa media tela real = 50g (pesada por el usuario), no 100g. Recalculados subtotales y totales del dia."
 }

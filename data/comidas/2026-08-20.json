@@ -6,11 +6,12 @@
       "momento": "desayuno",
       "items": [
         {
-          "alimento": "3 huevos fritos",
-          "kcal": 270.0,
-          "proteina_g": 18.0,
-          "carbs_g": 1.5,
-          "grasa_g": 21.0
+          "alimento": "3 huevos (en mantequilla)",
+          "kcal": 248.25,
+          "proteina_g": 18.9,
+          "carbs_g": 1.05,
+          "grasa_g": 18.0,
+          "nota_correccion": "Corregido 2026-08-20: el usuario prepara los huevos en mantequilla, no fritos en aceite. Siempre ha sido asi."
         },
         {
           "alimento": "tocineta (1 tira)",
@@ -38,10 +39,10 @@
         }
       ],
       "subtotal": {
-        "kcal": 496.15,
-        "proteina_g": 27.55,
-        "carbs_g": 29.65,
-        "grasa_g": 29.6
+        "kcal": 474.4,
+        "proteina_g": 28.4,
+        "carbs_g": 29.2,
+        "grasa_g": 26.6
       },
       "confianza": "media",
       "origen": "foto + descripcion",
@@ -156,10 +157,10 @@
     }
   ],
   "totales": {
-    "kcal": 1867.4,
-    "proteina_g": 137.2,
-    "carbs_g": 133.9,
-    "grasa_g": 86.0
+    "kcal": 1845.7,
+    "proteina_g": 138.0,
+    "carbs_g": 133.5,
+    "grasa_g": 83.0
   },
   "objetivo": {
     "kcal": 1850,
@@ -168,10 +169,10 @@
     "grasa_g": 70
   },
   "restante": {
-    "kcal": -17.4,
-    "proteina_g": 22.8,
-    "carbs_g": 11.1,
-    "grasa_g": -16.0
+    "kcal": 4.3,
+    "proteina_g": 22.0,
+    "carbs_g": 11.5,
+    "grasa_g": -13.0
   },
-  "notas": "DIA 9 CERRADO (jueves). Totales: {'kcal': 1867.4, 'proteina_g': 137.2, 'carbs_g': 133.9, 'grasa_g': 86.0}. Huevos corregidos a preparacion en mantequilla (no fritos en aceite) -- practica habitual del usuario."
+  "notas": "DIA 9 CERRADO (jueves). Huevos corregidos a preparacion en mantequilla (no fritos en aceite) -- practica habitual del usuario. Totales finales: {'kcal': 1845.7, 'proteina_g': 138.0, 'carbs_g': 133.5, 'grasa_g': 83.0}."
 }

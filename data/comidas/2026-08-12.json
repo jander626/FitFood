@@ -15,11 +15,12 @@
           "nota_correccion": "Corregido 2026-08-14: el usuario peso su arepa real en bascula = 50g, no 100g."
         },
         {
-          "alimento": "3 huevos",
-          "kcal": 220,
-          "proteina_g": 19,
-          "carbs_g": 2,
-          "grasa_g": 15
+          "alimento": "3 huevos (en mantequilla)",
+          "kcal": 248.25,
+          "proteina_g": 18.9,
+          "carbs_g": 1.05,
+          "grasa_g": 18.0,
+          "nota_correccion": "Corregido 2026-08-20: el usuario prepara los huevos en mantequilla, no fritos en aceite. Siempre ha sido asi."
         },
         {
           "alimento": "cafe con endulzante no calorico",
@@ -30,10 +31,10 @@
         }
       ],
       "subtotal": {
-        "kcal": 325.0,
-        "proteina_g": 21.0,
-        "carbs_g": 23.0,
-        "grasa_g": 16.0
+        "kcal": 353.2,
+        "proteina_g": 20.9,
+        "carbs_g": 22.1,
+        "grasa_g": 19.0
       },
       "confianza": "media",
       "origen": "reporte en texto",
@@ -131,10 +132,10 @@
     }
   ],
   "totales": {
-    "kcal": 1710.0,
-    "proteina_g": 140.0,
-    "carbs_g": 121.0,
-    "grasa_g": 71.0
+    "kcal": 1738.2,
+    "proteina_g": 139.9,
+    "carbs_g": 120.1,
+    "grasa_g": 74.0
   },
   "objetivo": {
     "kcal": 1850,
@@ -143,10 +144,10 @@
     "grasa_g": 70
   },
   "restante": {
-    "kcal": 140.0,
-    "proteina_g": 20.0,
-    "carbs_g": 24.0,
-    "grasa_g": -1.0
+    "kcal": 111.8,
+    "proteina_g": 20.1,
+    "carbs_g": 24.9,
+    "grasa_g": -4.0
   },
-  "notas": "DIA 1 CERRADO. 1810/1850 kcal (98%), 142/160g proteina (89%) -- deficit de proteina vino del desayuno liviano (23g). Carbohidratos casi exactos (142/145g). Buen cierre para el primer dia. | Corregido 2026-08-14: arepa media tela real = 50g (pesada por el usuario), no 100g. Recalculados subtotales y totales del dia."
+  "notas": "DIA 1 CERRADO. 1810/1850 kcal (98%), 142/160g proteina (89%) -- deficit de proteina vino del desayuno liviano (23g). Carbohidratos casi exactos (142/145g). Buen cierre para el primer dia. | Corregido 2026-08-14: arepa media tela real = 50g (pesada por el usuario), no 100g. Recalculados subtotales y totales del dia. | Corregido 2026-08-20: huevos en mantequilla (no fritos). Totales finales: 1738.2kcal/139.9P/120.1C/74.0G."
 }

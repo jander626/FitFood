@@ -15,11 +15,12 @@
           "nota_correccion": "Corregido 2026-08-14: el usuario peso su arepa real en bascula = 50g, no 100g."
         },
         {
-          "alimento": "4 huevos con tomate y cebolla",
-          "kcal": 365,
-          "proteina_g": 27,
-          "carbs_g": 8,
-          "grasa_g": 23
+          "alimento": "4 huevos con tomate y cebolla (huevos en mantequilla)",
+          "kcal": 402.8,
+          "proteina_g": 26.88,
+          "carbs_g": 6.72,
+          "grasa_g": 27.0,
+          "nota_correccion": "Corregido 2026-08-20: el usuario prepara los huevos en mantequilla, no fritos en aceite. Siempre ha sido asi."
         },
         {
           "alimento": "cafe con endulzante no calorico",
@@ -30,10 +31,10 @@
         }
       ],
       "subtotal": {
-        "kcal": 470.0,
-        "proteina_g": 29.0,
-        "carbs_g": 29.0,
-        "grasa_g": 24.0
+        "kcal": 507.8,
+        "proteina_g": 28.9,
+        "carbs_g": 27.7,
+        "grasa_g": 28.0
       },
       "confianza": "media",
       "origen": "foto",
@@ -129,10 +130,10 @@
     }
   ],
   "totales": {
-    "kcal": 1921.0,
-    "proteina_g": 119.0,
-    "carbs_g": 138.0,
-    "grasa_g": 96.0
+    "kcal": 1958.8,
+    "proteina_g": 118.9,
+    "carbs_g": 136.7,
+    "grasa_g": 100.0
   },
   "objetivo": {
     "kcal": 1850,
@@ -141,10 +142,10 @@
     "grasa_g": 70
   },
   "restante": {
-    "kcal": -71.0,
-    "proteina_g": 41.0,
-    "carbs_g": 7.0,
-    "grasa_g": -26.0
+    "kcal": -108.8,
+    "proteina_g": 41.1,
+    "carbs_g": 8.3,
+    "grasa_g": -30.0
   },
-  "notas": "Dia cerrado por encima del objetivo (271kcal, 35g carbo, 28g grasa de mas) y corto en proteina (37g). Efecto combinado de la correccion de la costilla del almuerzo mas esta cena con arepa. Un solo dia no cambia la tendencia -- el sistema promedia por semana. | Corregido 2026-08-14: arepa media tela real = 50g (pesada por el usuario), no 100g. Recalculados subtotales y totales del dia."
+  "notas": "Dia cerrado por encima del objetivo (271kcal, 35g carbo, 28g grasa de mas) y corto en proteina (37g). Efecto combinado de la correccion de la costilla del almuerzo mas esta cena con arepa. Un solo dia no cambia la tendencia -- el sistema promedia por semana. | Corregido 2026-08-14: arepa media tela real = 50g (pesada por el usuario), no 100g. Recalculados subtotales y totales del dia. | Corregido 2026-08-20: huevos en mantequilla (no fritos). Totales finales: 1958.8kcal/118.9P/136.7C/100.0G."
 }

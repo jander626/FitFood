@@ -129,11 +129,12 @@
       "momento": "cena",
       "items": [
         {
-          "alimento": "4 huevos con tomate y cebolla",
-          "kcal": 365.0,
-          "proteina_g": 27.0,
-          "carbs_g": 8.0,
-          "grasa_g": 23.0
+          "alimento": "4 huevos con tomate y cebolla (huevos en mantequilla)",
+          "kcal": 402.8,
+          "proteina_g": 26.88,
+          "carbs_g": 6.72,
+          "grasa_g": 27.0,
+          "nota_correccion": "Corregido 2026-08-20: el usuario prepara los huevos en mantequilla, no fritos en aceite. Siempre ha sido asi."
         },
         {
           "alimento": "arepa de media tela",
@@ -162,10 +163,10 @@
         }
       ],
       "subtotal": {
-        "kcal": 772.0,
-        "proteina_g": 32.0,
-        "carbs_g": 82.3,
-        "grasa_g": 33.9
+        "kcal": 809.8,
+        "proteina_g": 31.9,
+        "carbs_g": 81.0,
+        "grasa_g": 37.9
       },
       "confianza": "media",
       "origen": "reporte en texto",
@@ -173,10 +174,10 @@
     }
   ],
   "totales": {
-    "kcal": 2371.4,
-    "proteina_g": 126.4,
-    "carbs_g": 195.6,
-    "grasa_g": 116.0
+    "kcal": 2409.2,
+    "proteina_g": 126.3,
+    "carbs_g": 194.3,
+    "grasa_g": 120.0
   },
   "objetivo": {
     "kcal": 1850,
@@ -185,10 +186,10 @@
     "grasa_g": 70
   },
   "restante": {
-    "kcal": -521.4,
-    "proteina_g": 33.6,
-    "carbs_g": -50.6,
-    "grasa_g": -46.0
+    "kcal": -559.2,
+    "proteina_g": 33.7,
+    "carbs_g": -49.3,
+    "grasa_g": -50.0
   },
-  "notas": "Dia 4 (sabado). Cierre: 2371kcal/126P/196C/116G, +521kcal sobre objetivo. Troto 8km con su perro (~630kcal extra estimado sobre TDEE), lo cual compensa gran parte del exceso calorico total, pero no corrige el desbalance de grasa/carbs especificos del dia."
+  "notas": "Dia 4 (sabado). Cierre: 2371kcal/126P/196C/116G, +521kcal sobre objetivo. Troto 8km con su perro (~630kcal extra estimado sobre TDEE), lo cual compensa gran parte del exceso calorico total, pero no corrige el desbalance de grasa/carbs especificos del dia. | Corregido 2026-08-20: huevos en mantequilla (no fritos). Totales finales: 2409.2kcal/126.3P/194.3C/120.0G."
 }
