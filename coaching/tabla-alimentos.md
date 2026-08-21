@@ -18,18 +18,18 @@ Vista rápida entre categorías — útil cuando solo quieres saber qué te rind
 | 6 | Pechuga de pavo | Proteínas animales | 135 | **29 g** |
 | 7 | Lomo de cerdo | Proteínas animales | 242 | **27 g** |
 | 8 | Pierna de cerdo / pernil (horneado) | Proteínas animales | 215 | **27 g** |
-| 9 | Muslo de pollo con piel | Proteínas animales | 209 | **26 g** |
-| 10 | Pescado blanco (tilapia, mojarra) | Proteínas animales | 128 | **26 g** |
-| 11 | Atun en agua (lata) | Proteínas animales | 116 | **26 g** |
-| 12 | Carne molida de res (magra) | Proteínas animales | 215 | **26 g** |
-| 13 | Carne desmechada (guisada) | Proteínas animales | 200 | **25 g** |
-| 14 | Queso mozzarella | Huevos y lácteos | 280 | **25 g** |
-| 15 | Costilla de cerdo / BBQ | Proteínas animales | 330 | **24 g** |
-| 16 | Bondiola de cerdo (parrilla) | Proteínas animales | 280 | **24 g** |
-| 17 | Camarones cocidos | Proteínas animales | 99 | **24 g** |
-| 18 | Chorizo espanol (curado) | Proteínas animales | 455 | **24 g** |
-| 19 | Costilla de res al horno | Proteínas animales | 315 | **22 g** |
-| 20 | Chicharron (piel de cerdo frita) | Proteínas animales | 520 | **22 g** |
+| 9 | Chicharron al barril (asado) | Proteínas animales | 430 | **27 g** |
+| 10 | Muslo de pollo con piel | Proteínas animales | 209 | **26 g** |
+| 11 | Pescado blanco (tilapia, mojarra) | Proteínas animales | 128 | **26 g** |
+| 12 | Atun en agua (lata) | Proteínas animales | 116 | **26 g** |
+| 13 | Carne molida de res (magra) | Proteínas animales | 215 | **26 g** |
+| 14 | Carne desmechada (guisada) | Proteínas animales | 200 | **25 g** |
+| 15 | Queso mozzarella | Huevos y lácteos | 280 | **25 g** |
+| 16 | Costilla de cerdo / BBQ | Proteínas animales | 330 | **24 g** |
+| 17 | Bondiola de cerdo (parrilla) | Proteínas animales | 280 | **24 g** |
+| 18 | Camarones cocidos | Proteínas animales | 99 | **24 g** |
+| 19 | Chorizo espanol (curado) | Proteínas animales | 455 | **24 g** |
+| 20 | Costilla de res al horno | Proteínas animales | 315 | **22 g** |
 
 ## Proteínas animales
 
@@ -42,6 +42,7 @@ Vista rápida entre categorías — útil cuando solo quieres saber qué te rind
 | Pechuga de pavo | 135 | 29 g | 0 g | 1 g | 1 pechuga mediana (200g): **270 kcal**, 58.0g P, 0.0g C, 2.0g G |
 | Lomo de cerdo | 242 | 27 g | 0 g | 14 g | 1 porcion (180g): **436 kcal**, 48.6g P, 0.0g C, 25.2g G |
 | Pierna de cerdo / pernil (horneado) | 215 | 27 g | 0 g | 11 g | 1 porcion (200g): **430 kcal**, 54.0g P, 0.0g C, 22.0g G |
+| Chicharron al barril (asado) | 430 | 27 g | 0 g | 35 g | porcion mediana -- parte de la grasa se escurre en la coccion (130g): **559 kcal**, 35.1g P, 0.0g C, 45.5g G |
 | Muslo de pollo con piel | 209 | 26 g | 0 g | 11 g | 2 muslos (150g): **314 kcal**, 39.0g P, 0.0g C, 16.5g G |
 | Pescado blanco (tilapia, mojarra) | 128 | 26 g | 0 g | 3 g | 1 filete grande (200g): **256 kcal**, 52.0g P, 0.0g C, 6.0g G |
 | Atun en agua (lata) | 116 | 26 g | 0 g | 1 g | 1 lata escurrida (100g): **116 kcal**, 26.0g P, 0.0g C, 1.0g G |

@@ -60,13 +60,59 @@
       "confianza": "alta",
       "origen": "foto",
       "nota": "2 pastillas de chocolatina blanca tipo Jet."
+    },
+    {
+      "momento": "almuerzo",
+      "items": [
+        {
+          "alimento": "chicharron al barril",
+          "porcion_g": 130,
+          "kcal": 559.0,
+          "proteina_g": 35.1,
+          "carbs_g": 0.0,
+          "grasa_g": 45.5
+        },
+        {
+          "alimento": "ensalada (lechuga, pico de gallo, maiz, aguacate)",
+          "porcion_g": 125,
+          "kcal": 93.4,
+          "proteina_g": 2.14,
+          "carbs_g": 9.71,
+          "grasa_g": 6.32
+        },
+        {
+          "alimento": "arepa blanca pequena",
+          "porcion_g": 40,
+          "kcal": 80.0,
+          "proteina_g": 1.6,
+          "carbs_g": 16.8,
+          "grasa_g": 0.8
+        },
+        {
+          "alimento": "sopa de frijoles/lentejas con vegetales",
+          "porcion_ml": 300,
+          "kcal": 150.0,
+          "proteina_g": 9.0,
+          "carbs_g": 24.0,
+          "grasa_g": 3.0
+        }
+      ],
+      "subtotal": {
+        "kcal": 882.4,
+        "proteina_g": 47.8,
+        "carbs_g": 50.5,
+        "grasa_g": 55.6
+      },
+      "confianza": "media",
+      "origen": "foto + descripcion",
+      "nota": "Sin la tajada de maduro (no se comio). Chicharron al barril (roasted, algo de grasa se escurre durante la coccion, se ajusta la tasa un poco mas abajo que el airfryer/frito). Sin arroz."
     }
   ],
   "totales": {
-    "kcal": 471.4,
-    "proteina_g": 24.1,
-    "carbs_g": 39.1,
-    "grasa_g": 24.2
+    "kcal": 1353.8,
+    "proteina_g": 71.9,
+    "carbs_g": 89.6,
+    "grasa_g": 79.8
   },
   "objetivo": {
     "kcal": 1850,
@@ -75,10 +121,10 @@
     "grasa_g": 70
   },
   "restante": {
-    "kcal": 1378.6,
-    "proteina_g": 135.9,
-    "carbs_g": 105.9,
-    "grasa_g": 45.8
+    "kcal": 496.2,
+    "proteina_g": 88.1,
+    "carbs_g": 55.4,
+    "grasa_g": -9.8
   },
   "notas": "Dia 10 (viernes). Comidas pendientes de reportar durante el dia."
 }
