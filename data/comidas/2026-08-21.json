@@ -1,12 +1,50 @@
 {
   "fecha": "2026-08-21",
   "dia_plan": 10,
-  "comidas": [],
+  "comidas": [
+    {
+      "momento": "desayuno",
+      "items": [
+        {
+          "alimento": "3 huevos (en mantequilla) con tomate y cebolla",
+          "kcal": 261.65,
+          "proteina_g": 19.39,
+          "carbs_g": 4.02,
+          "grasa_g": 18.08
+        },
+        {
+          "alimento": "arepa de media tela",
+          "porcion_g": 50,
+          "kcal": 100.0,
+          "proteina_g": 2.0,
+          "carbs_g": 21.0,
+          "grasa_g": 1.0
+        },
+        {
+          "alimento": "milo sin azucar (light)",
+          "porcion_ml": 100,
+          "kcal": 45.0,
+          "proteina_g": 2.0,
+          "carbs_g": 7.0,
+          "grasa_g": 1.3
+        }
+      ],
+      "subtotal": {
+        "kcal": 406.6,
+        "proteina_g": 23.4,
+        "carbs_g": 32.0,
+        "grasa_g": 20.4
+      },
+      "confianza": "media",
+      "origen": "reporte en texto",
+      "nota": "3 huevos en mantequilla con tomate y cebolla, arepa de media tela default (50g) y Milo light con la leche habitual."
+    }
+  ],
   "totales": {
-    "kcal": 0,
-    "proteina_g": 0,
-    "carbs_g": 0,
-    "grasa_g": 0
+    "kcal": 406.6,
+    "proteina_g": 23.4,
+    "carbs_g": 32.0,
+    "grasa_g": 20.4
   },
   "objetivo": {
     "kcal": 1850,
@@ -15,10 +53,10 @@
     "grasa_g": 70
   },
   "restante": {
-    "kcal": 1850,
-    "proteina_g": 160,
-    "carbs_g": 145,
-    "grasa_g": 70
+    "kcal": 1443.4,
+    "proteina_g": 136.6,
+    "carbs_g": 113.0,
+    "grasa_g": 49.6
   },
   "notas": "Dia 10 (viernes). Comidas pendientes de reportar durante el dia."
 }
