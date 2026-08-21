@@ -1,0 +1,24 @@
+{
+  "fecha": "2026-08-21",
+  "dia_plan": 10,
+  "comidas": [],
+  "totales": {
+    "kcal": 0,
+    "proteina_g": 0,
+    "carbs_g": 0,
+    "grasa_g": 0
+  },
+  "objetivo": {
+    "kcal": 1850,
+    "proteina_g": 160,
+    "carbs_g": 145,
+    "grasa_g": 70
+  },
+  "restante": {
+    "kcal": 1850,
+    "proteina_g": 160,
+    "carbs_g": 145,
+    "grasa_g": 70
+  },
+  "notas": "Dia 10 (viernes). Comidas pendientes de reportar durante el dia."
+}
