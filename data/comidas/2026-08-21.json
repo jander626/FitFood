@@ -38,13 +38,35 @@
       "confianza": "media",
       "origen": "reporte en texto",
       "nota": "3 huevos en mantequilla con tomate y cebolla, arepa de media tela default (50g) y Milo light con la leche habitual."
+    },
+    {
+      "momento": "snack",
+      "items": [
+        {
+          "alimento": "chocolatina blanca (2 pastillas)",
+          "porcion_g": 12,
+          "kcal": 64.8,
+          "proteina_g": 0.72,
+          "carbs_g": 7.08,
+          "grasa_g": 3.84
+        }
+      ],
+      "subtotal": {
+        "kcal": 64.8,
+        "proteina_g": 0.7,
+        "carbs_g": 7.1,
+        "grasa_g": 3.8
+      },
+      "confianza": "alta",
+      "origen": "foto",
+      "nota": "2 pastillas de chocolatina blanca tipo Jet."
     }
   ],
   "totales": {
-    "kcal": 406.6,
-    "proteina_g": 23.4,
-    "carbs_g": 32.0,
-    "grasa_g": 20.4
+    "kcal": 471.4,
+    "proteina_g": 24.1,
+    "carbs_g": 39.1,
+    "grasa_g": 24.2
   },
   "objetivo": {
     "kcal": 1850,
@@ -53,10 +75,10 @@
     "grasa_g": 70
   },
   "restante": {
-    "kcal": 1443.4,
-    "proteina_g": 136.6,
-    "carbs_g": 113.0,
-    "grasa_g": 49.6
+    "kcal": 1378.6,
+    "proteina_g": 135.9,
+    "carbs_g": 105.9,
+    "grasa_g": 45.8
   },
   "notas": "Dia 10 (viernes). Comidas pendientes de reportar durante el dia."
 }
