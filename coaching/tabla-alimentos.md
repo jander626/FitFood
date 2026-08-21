@@ -176,6 +176,7 @@ Vista rápida entre categorías — útil cuando solo quieres saber qué te rind
 | Hamburguesa casera (2 panes delgados, carne magra, lechuga, tomate, sin queso) | 209 | 16.8 g | 17.8 g | 7.7 g | 1 unidad, ~110g de carne (210g): **439 kcal**, 35.3g P, 37.4g C, 16.2g G |
 | Hamburguesa (con pan, queso, carne) | 280 | 15 g | 22 g | 15 g | 1 unidad completa (300g): **840 kcal**, 45.0g P, 66.0g C, 45.0g G |
 | Perro caliente con tocineta | 260 | 10 g | 22 g | 15 g | 1 unidad completa (280g): **728 kcal**, 28.0g P, 61.6g C, 42.0g G |
+| Chocolatina blanca (pastillas tipo Jet) | 540 | 6 g | 59 g | 32 g | 2 pastillas (12g): **65 kcal**, 0.7g P, 7.1g C, 3.8g G |
 | Arequipe / dulce de leche sin azucar | 270 | 5 g | 40 g | 7 g | 1 chorrito/cucharada (15g): **40 kcal**, 0.8g P, 6.0g C, 1.1g G |
 | Yogur helado sin azucar (heladeria) | 100 | 4.5 g | 16 g | 2.5 g | 1 copa mediana sola, sin toppings (150g): **150 kcal**, 6.8g P, 24.0g C, 3.8g G |
 | Mostaza | 66 | 4 g | 8 g | 4 g | 1 cucharadita (10g): **7 kcal**, 0.4g P, 0.8g C, 0.4g G |
