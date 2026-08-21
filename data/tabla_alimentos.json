@@ -31,6 +31,7 @@
     { "nombre": "Crispetas (popcorn con mantequilla)", "categoria": "Snack empacado", "kcal100": 450, "p100": 8, "c100": 55, "g100": 22, "porcion_g": 30, "porcion_nota": "1 puñado pequeno" },
 
     { "nombre": "Huevo entero (frito/revuelto)", "categoria": "Huevos y lacteos", "kcal100": 155, "p100": 13, "c100": 1.5, "g100": 11, "porcion_g": 50, "porcion_nota": "1 unidad" },
+    { "nombre": "Huevo entero (preparado en mantequilla, no aceite)", "categoria": "Huevos y lacteos", "kcal100": 165, "p100": 12.6, "c100": 0.7, "g100": 12, "porcion_g": 50, "porcion_nota": "1 unidad -- preparacion habitual del usuario" },
     { "nombre": "Clara de huevo", "categoria": "Huevos y lacteos", "kcal100": 52, "p100": 11, "c100": 0.7, "g100": 0.2, "porcion_g": 33, "porcion_nota": "1 clara" },
     { "nombre": "Queso costeno / fresco", "categoria": "Huevos y lacteos", "kcal100": 320, "p100": 20, "c100": 2, "g100": 25, "porcion_g": 40, "porcion_nota": "1 tajada" },
     { "nombre": "Queso mozzarella", "categoria": "Huevos y lacteos", "kcal100": 280, "p100": 25, "c100": 2, "g100": 20, "porcion_g": 30, "porcion_nota": "1 tajada" },

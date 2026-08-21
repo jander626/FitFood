@@ -70,6 +70,7 @@ Vista rápida entre categorías — útil cuando solo quieres saber qué te rind
 | Queso costeno / fresco | 320 | 20 g | 2 g | 25 g | 1 tajada (40g): **128 kcal**, 8.0g P, 0.8g C, 10.0g G |
 | Quesito colombiano | 280 | 18 g | 2 g | 22 g | 1 tajada pequena (30g): **84 kcal**, 5.4g P, 0.6g C, 6.6g G |
 | Huevo entero (frito/revuelto) | 155 | 13 g | 1.5 g | 11 g | 1 unidad (50g): **78 kcal**, 6.5g P, 0.8g C, 5.5g G |
+| Huevo entero (preparado en mantequilla, no aceite) | 165 | 12.6 g | 0.7 g | 12 g | 1 unidad -- preparacion habitual del usuario (50g): **82 kcal**, 6.3g P, 0.3g C, 6.0g G |
 | Clara de huevo | 52 | 11 g | 0.7 g | 0.2 g | 1 clara (33g): **17 kcal**, 3.6g P, 0.2g C, 0.1g G |
 | Requeson / queso cottage | 98 | 11 g | 3.4 g | 4.3 g | 1/2 taza (100g): **98 kcal**, 11.0g P, 3.4g C, 4.3g G |
 | Yogur griego natural | 59 | 10 g | 3.6 g | 0.4 g | 1 pote (170g): **100 kcal**, 17.0g P, 6.1g C, 0.7g G |
