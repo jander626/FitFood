@@ -23,13 +23,51 @@
       "confianza": "alta",
       "origen": "reporte en texto",
       "nota": "4 uvas para iniciar el dia, antes del desayuno."
+    },
+    {
+      "momento": "desayuno",
+      "items": [
+        {
+          "alimento": "2 huevos (en mantequilla)",
+          "porcion_g": 100,
+          "kcal": 330.0,
+          "proteina_g": 25.2,
+          "carbs_g": 1.4,
+          "grasa_g": 24.0
+        },
+        {
+          "alimento": "queso mozzarella",
+          "porcion_g": 30,
+          "kcal": 84.0,
+          "proteina_g": 7.5,
+          "carbs_g": 0.6,
+          "grasa_g": 6.0
+        },
+        {
+          "alimento": "tocineta / bacon frita (2 tiras)",
+          "porcion_g": 30,
+          "kcal": 162.3,
+          "proteina_g": 11.1,
+          "carbs_g": 0.3,
+          "grasa_g": 12.6
+        }
+      ],
+      "subtotal": {
+        "kcal": 576.3,
+        "proteina_g": 43.8,
+        "carbs_g": 2.3,
+        "grasa_g": 42.6
+      },
+      "confianza": "media",
+      "origen": "foto",
+      "nota": "Omelette de 2 huevos en mantequilla con queso y tocineta adentro. Porciones de queso y tocineta estimadas (no confirmadas en gramos)."
     }
   ],
   "totales": {
-    "kcal": 13.8,
-    "proteina_g": 0.1,
-    "carbs_g": 3.6,
-    "grasa_g": 0.0
+    "kcal": 590.1,
+    "proteina_g": 43.9,
+    "carbs_g": 5.9,
+    "grasa_g": 42.6
   },
   "objetivo": {
     "kcal": 1850,
@@ -38,10 +76,10 @@
     "grasa_g": 70
   },
   "restante": {
-    "kcal": 1836.2,
-    "proteina_g": 159.9,
-    "carbs_g": 141.4,
-    "grasa_g": 70.0
+    "kcal": 1259.9,
+    "proteina_g": 116.1,
+    "carbs_g": 139.1,
+    "grasa_g": 27.4
   },
-  "notas": "DIA 11 (sabado) EN CURSO. Solo 4 uvas registradas hasta ahora."
+  "notas": "DIA 11 (sabado) EN CURSO. Uvas + omelette de desayuno registrados."
 }
