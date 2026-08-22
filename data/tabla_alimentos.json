@@ -126,6 +126,7 @@
     { "nombre": "Milo en leche", "categoria": "Dulce / bebida", "kcal100": 97, "p100": 3.2, "c100": 13, "g100": 3.3, "porcion_g": 240, "porcion_nota": "1 vaso" },
     { "nombre": "Milo sin azucar (version light)", "categoria": "Dulce / bebida", "kcal100": 45, "p100": 2, "c100": 7, "g100": 1.3, "porcion_g": 200, "porcion_nota": "1 vaso" },
     { "nombre": "Yogur helado sin azucar (heladeria)", "categoria": "Dulce / bebida", "kcal100": 100, "p100": 4.5, "c100": 16, "g100": 2.5, "porcion_g": 150, "porcion_nota": "1 copa mediana sola, sin toppings" },
+    { "nombre": "Kefir San Martin con sabor (descremado, sin azucar)", "categoria": "Huevos y lacteos", "kcal100": 34, "p100": 5, "c100": 3.2, "g100": 0, "porcion_g": 220, "porcion_nota": "1 botella individual -- etiqueta nutricional" },
     { "nombre": "Arequipe / dulce de leche sin azucar", "categoria": "Dulce / bebida", "kcal100": 270, "p100": 5, "c100": 40, "g100": 7, "porcion_g": 15, "porcion_nota": "1 chorrito/cucharada" },
     { "nombre": "Granola de coco sin azucar", "categoria": "Snack empacado", "kcal100": 460, "p100": 8, "c100": 55, "g100": 22, "porcion_g": 15, "porcion_nota": "1 cucharada colmada" },
     { "nombre": "Jugo de naranja natural", "categoria": "Dulce / bebida", "kcal100": 45, "p100": 0.7, "c100": 10, "g100": 0.2, "porcion_g": 240, "porcion_nota": "1 vaso" },
