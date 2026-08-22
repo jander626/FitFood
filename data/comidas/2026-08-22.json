@@ -61,13 +61,99 @@
       "confianza": "media",
       "origen": "foto",
       "nota": "Omelette de 2 huevos en mantequilla con queso y tocineta adentro. Porciones de queso y tocineta estimadas (no confirmadas en gramos)."
+    },
+    {
+      "momento": "almuerzo",
+      "items": [
+        {
+          "alimento": "pollo rostizado (desmechado)",
+          "porcion_g": 80,
+          "kcal": 132.0,
+          "proteina_g": 24.8,
+          "carbs_g": 0.0,
+          "grasa_g": 2.88
+        },
+        {
+          "alimento": "frijol negro cocido",
+          "porcion_g": 50,
+          "kcal": 63.5,
+          "proteina_g": 4.35,
+          "carbs_g": 11.5,
+          "grasa_g": 0.25
+        },
+        {
+          "alimento": "aguacate",
+          "porcion_g": 50,
+          "kcal": 80.0,
+          "proteina_g": 1.0,
+          "carbs_g": 4.5,
+          "grasa_g": 7.5
+        },
+        {
+          "alimento": "pico de gallo",
+          "porcion_g": 60,
+          "kcal": 21.0,
+          "proteina_g": 0.6,
+          "carbs_g": 4.2,
+          "grasa_g": 0.12
+        },
+        {
+          "alimento": "zanahoria (ribbons)",
+          "porcion_g": 40,
+          "kcal": 16.4,
+          "proteina_g": 0.36,
+          "carbs_g": 4.0,
+          "grasa_g": 0.08
+        },
+        {
+          "alimento": "lechuga",
+          "porcion_g": 50,
+          "kcal": 7.5,
+          "proteina_g": 0.7,
+          "carbs_g": 1.45,
+          "grasa_g": 0.1
+        },
+        {
+          "alimento": "dip de feta",
+          "porcion_g": 35,
+          "kcal": 102.2,
+          "proteina_g": 3.5,
+          "carbs_g": 1.4,
+          "grasa_g": 8.75
+        },
+        {
+          "alimento": "cebolla crispy",
+          "porcion_g": 20,
+          "kcal": 90.4,
+          "proteina_g": 1.2,
+          "carbs_g": 7.0,
+          "grasa_g": 5.8
+        },
+        {
+          "alimento": "vinagreta miel mostaza y amapola",
+          "porcion_g": 25,
+          "kcal": 95.0,
+          "proteina_g": 0.125,
+          "carbs_g": 5.0,
+          "grasa_g": 8.25
+        }
+      ],
+      "subtotal": {
+        "kcal": 608.0,
+        "proteina_g": 36.6,
+        "carbs_g": 39.1,
+        "grasa_g": 33.7
+      },
+      "confianza": "media",
+      "origen": "foto",
+      "nota": "Bowl de restaurante (Vinagretta): lechuga, frijol negro, pollo rostizado, aguacate, pico de gallo, zanahoria, dip de feta, cebolla crispy, vinagreta miel mostaza y amapola. Porciones estimadas por volumen visible en el bowl."
     }
   ],
   "totales": {
-    "kcal": 590.1,
-    "proteina_g": 43.9,
-    "carbs_g": 5.9,
-    "grasa_g": 42.6
+    "kcal": 1198.1,
+    "proteina_g": 80.5,
+    "carbs_g": 45.0,
+    "grasa_g": 76.3
   },
   "objetivo": {
     "kcal": 1850,
@@ -76,10 +162,10 @@
     "grasa_g": 70
   },
   "restante": {
-    "kcal": 1259.9,
-    "proteina_g": 116.1,
-    "carbs_g": 139.1,
-    "grasa_g": 27.4
+    "kcal": 651.9,
+    "proteina_g": 79.5,
+    "carbs_g": 100.0,
+    "grasa_g": -6.3
   },
-  "notas": "DIA 11 (sabado) EN CURSO. Uvas + omelette de desayuno registrados."
+  "notas": "DIA 11 (sabado) EN CURSO. Uvas + omelette + bowl de almuerzo registrados. Grasa ya supera el objetivo diario (-6.3g restante) por el dip de feta, cebolla crispy, aguacate y vinagreta combinados sobre un desayuno ya alto en grasa."
 }
