@@ -1,0 +1,47 @@
+{
+  "fecha": "2026-08-22",
+  "dia_plan": 11,
+  "comidas": [
+    {
+      "momento": "snack",
+      "items": [
+        {
+          "alimento": "uvas (4 unidades)",
+          "porcion_g": 20,
+          "kcal": 13.8,
+          "proteina_g": 0.14,
+          "carbs_g": 3.6,
+          "grasa_g": 0.04
+        }
+      ],
+      "subtotal": {
+        "kcal": 13.8,
+        "proteina_g": 0.1,
+        "carbs_g": 3.6,
+        "grasa_g": 0.0
+      },
+      "confianza": "alta",
+      "origen": "reporte en texto",
+      "nota": "4 uvas para iniciar el dia, antes del desayuno."
+    }
+  ],
+  "totales": {
+    "kcal": 13.8,
+    "proteina_g": 0.1,
+    "carbs_g": 3.6,
+    "grasa_g": 0.0
+  },
+  "objetivo": {
+    "kcal": 1850,
+    "proteina_g": 160,
+    "carbs_g": 145,
+    "grasa_g": 70
+  },
+  "restante": {
+    "kcal": 1836.2,
+    "proteina_g": 159.9,
+    "carbs_g": 141.4,
+    "grasa_g": 70.0
+  },
+  "notas": "DIA 11 (sabado) EN CURSO. Solo 4 uvas registradas hasta ahora."
+}

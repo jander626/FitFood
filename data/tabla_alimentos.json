@@ -89,6 +89,7 @@
     { "nombre": "Pina", "categoria": "Fruta", "kcal100": 50, "p100": 0.5, "c100": 13, "g100": 0.1, "porcion_g": 100, "porcion_nota": "1 taza en trozos" },
     { "nombre": "Pasas", "categoria": "Fruta", "kcal100": 299, "p100": 3, "c100": 79, "g100": 0.5, "porcion_g": 20, "porcion_nota": "1 puñado pequeño" },
     { "nombre": "Manzana", "categoria": "Fruta", "kcal100": 52, "p100": 0.3, "c100": 14, "g100": 0.2, "porcion_g": 150, "porcion_nota": "1 unidad" },
+    { "nombre": "Uvas", "categoria": "Fruta", "kcal100": 69, "p100": 0.7, "c100": 18, "g100": 0.2, "porcion_g": 20, "porcion_nota": "4 unidades" },
     { "nombre": "Coco rallado (crudo, sin azucar)", "categoria": "Grasa", "kcal100": 354, "p100": 3.3, "c100": 15, "g100": 33, "porcion_g": 20, "porcion_nota": "2 cucharadas" },
 
     { "nombre": "Aceite (cualquiera)", "categoria": "Grasa", "kcal100": 884, "p100": 0, "c100": 0, "g100": 100, "porcion_g": 14, "porcion_nota": "1 cucharada" },
