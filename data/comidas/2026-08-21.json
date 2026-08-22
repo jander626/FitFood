@@ -106,13 +106,35 @@
       "confianza": "media",
       "origen": "foto + descripcion",
       "nota": "Sin la tajada de maduro (no se comio). Chicharron al barril (roasted, algo de grasa se escurre durante la coccion, se ajusta la tasa un poco mas abajo que el airfryer/frito). Sin arroz."
+    },
+    {
+      "momento": "cena",
+      "items": [
+        {
+          "alimento": "perrita pequena (Los Perritos del Norte: tocineta, salsa de queso, pollo desmechado con mayo, papa rizada frita)",
+          "porcion_g": 220,
+          "kcal": 643.5,
+          "proteina_g": 31.07,
+          "carbs_g": 39.55,
+          "grasa_g": 40.45
+        }
+      ],
+      "subtotal": {
+        "kcal": 643.5,
+        "proteina_g": 31.1,
+        "carbs_g": 39.5,
+        "grasa_g": 40.5
+      },
+      "confianza": "media",
+      "origen": "foto (producto/menu) + confirmacion del usuario",
+      "nota": "Perrita gourmet cargada (tocineta, salsa de queso, topping de pollo desmechado con mayo, papa rizada frita crujiente encima). Segunda comida alta en grasa del dia junto al chicharron del almuerzo."
     }
   ],
   "totales": {
-    "kcal": 1353.8,
-    "proteina_g": 71.9,
-    "carbs_g": 89.6,
-    "grasa_g": 79.8
+    "kcal": 1997.3,
+    "proteina_g": 103.0,
+    "carbs_g": 129.1,
+    "grasa_g": 120.3
   },
   "objetivo": {
     "kcal": 1850,
@@ -121,10 +143,10 @@
     "grasa_g": 70
   },
   "restante": {
-    "kcal": 496.2,
-    "proteina_g": 88.1,
-    "carbs_g": 55.4,
-    "grasa_g": -9.8
+    "kcal": -147.3,
+    "proteina_g": 57.0,
+    "carbs_g": 15.9,
+    "grasa_g": -50.3
   },
-  "notas": "Dia 10 (viernes). Comidas pendientes de reportar durante el dia."
+  "notas": "DIA 10 CERRADO (viernes). Chicharron al barril al almuerzo + perrita cargada en la cena -- dia con dos comidas altas en grasa. Totales: {'kcal': 1997.3, 'proteina_g': 103.0, 'carbs_g': 129.1, 'grasa_g': 120.3}."
 }
