@@ -74,6 +74,7 @@ Vista rápida entre categorías — útil cuando solo quieres saber qué te rind
 | Huevo entero (preparado en mantequilla, no aceite) | 165 | 12.6 g | 0.7 g | 12 g | 1 unidad -- preparacion habitual del usuario (50g): **82 kcal**, 6.3g P, 0.3g C, 6.0g G |
 | Clara de huevo | 52 | 11 g | 0.7 g | 0.2 g | 1 clara (33g): **17 kcal**, 3.6g P, 0.2g C, 0.1g G |
 | Requeson / queso cottage | 98 | 11 g | 3.4 g | 4.3 g | 1/2 taza (100g): **98 kcal**, 11.0g P, 3.4g C, 4.3g G |
+| Dip de feta (feta whip, con aceite de oliva) | 292 | 10 g | 4 g | 25 g | porcion tipo bowl de restaurante (35g): **102 kcal**, 3.5g P, 1.4g C, 8.8g G |
 | Yogur griego natural | 59 | 10 g | 3.6 g | 0.4 g | 1 pote (170g): **100 kcal**, 17.0g P, 6.1g C, 0.7g G |
 | Queso crema | 340 | 6 g | 4 g | 34 g | 2 cucharadas (30g): **102 kcal**, 1.8g P, 1.2g C, 10.2g G |
 | Leche entera | 61 | 3.2 g | 4.8 g | 3.3 g | 1 vaso (240g): **146 kcal**, 7.7g P, 11.5g C, 7.9g G |
@@ -136,6 +137,7 @@ Vista rápida entre categorías — útil cuando solo quieres saber qué te rind
 | Banano | 89 | 1.1 g | 23 g | 0.3 g | 1 unidad (120g): **107 kcal**, 1.3g P, 27.6g C, 0.4g G |
 | Naranja | 47 | 0.9 g | 12 g | 0.1 g | 1 unidad (150g): **70 kcal**, 1.4g P, 18.0g C, 0.2g G |
 | Mango | 60 | 0.8 g | 15 g | 0.4 g | 1/2 unidad (100g): **60 kcal**, 0.8g P, 15.0g C, 0.4g G |
+| Uvas | 69 | 0.7 g | 18 g | 0.2 g | 4 unidades (20g): **14 kcal**, 0.1g P, 3.6g C, 0.0g G |
 | Pina | 50 | 0.5 g | 13 g | 0.1 g | 1 taza en trozos (100g): **50 kcal**, 0.5g P, 13.0g C, 0.1g G |
 | Manzana | 52 | 0.3 g | 14 g | 0.2 g | 1 unidad (150g): **78 kcal**, 0.4g P, 21.0g C, 0.3g G |
 
@@ -144,12 +146,14 @@ Vista rápida entre categorías — útil cuando solo quieres saber qué te rind
 | Alimento | kcal/100g | Proteína | Carbos | Grasa | Porción típica |
 |---|---|---|---|---|---|
 | Nueces / almendras | 600 | 20 g | 20 g | 52 g | 1 punado (25g): **150 kcal**, 5.0g P, 5.0g C, 13.0g G |
+| Cebolla crispy (frita/deshidratada) | 452 | 6 g | 35 g | 29 g | topping tipo bowl (20g): **90 kcal**, 1.2g P, 7.0g C, 5.8g G |
 | Coco rallado (crudo, sin azucar) | 354 | 3.3 g | 15 g | 33 g | 2 cucharadas (20g): **71 kcal**, 0.7g P, 3.0g C, 6.6g G |
 | Guacamole | 150 | 2 g | 8 g | 14 g | 2 cucharadas (60g): **90 kcal**, 1.2g P, 4.8g C, 8.4g G |
 | Sour cream / crema agria | 200 | 2 g | 4 g | 20 g | 2 cucharadas (30g): **60 kcal**, 0.6g P, 1.2g C, 6.0g G |
 | Mayonesa | 680 | 1 g | 1.5 g | 75 g | 1 cucharada (15g): **102 kcal**, 0.1g P, 0.2g C, 11.2g G |
 | Salsa de ajo (tipo aioli/toum) | 650 | 1 g | 2 g | 70 g | 1 cucharada (20g): **130 kcal**, 0.2g P, 0.4g C, 14.0g G |
 | Mantequilla | 717 | 0.9 g | 0.1 g | 81 g | 1 cucharadita (10g): **72 kcal**, 0.1g P, 0.0g C, 8.1g G |
+| Vinagreta miel mostaza y amapola | 380 | 0.5 g | 20 g | 33 g | porcion de aderezo tipo bowl de restaurante (25g): **95 kcal**, 0.1g P, 5.0g C, 8.2g G |
 | Aceite (cualquiera) | 884 | 0 g | 0 g | 100 g | 1 cucharada (14g): **124 kcal**, 0.0g P, 0.0g C, 14.0g G |
 
 ## Snacks empacados (papas, Doritos, De Todito...)
