@@ -71,13 +71,75 @@
       "confianza": "media",
       "origen": "foto + descripcion",
       "nota": "Primera bebida alcoholica registrada en el plan. Estimado ~110ml vino tinto, 60ml sprite, 40ml jugo de naranja. Cero grasa, kcal moderadas (136.5), mayormente de azucar de la gaseosa/jugo y del alcohol del vino."
+    },
+    {
+      "momento": "almuerzo",
+      "items": [
+        {
+          "alimento": "frijoles cocidos",
+          "porcion_g": 200,
+          "kcal": 254.0,
+          "proteina_g": 17.4,
+          "carbs_g": 46.0,
+          "grasa_g": 1.0
+        },
+        {
+          "alimento": "chicharron (diced, mezclado en los frijoles)",
+          "porcion_g": 50,
+          "kcal": 260.0,
+          "proteina_g": 11.0,
+          "carbs_g": 0.0,
+          "grasa_g": 23.5
+        },
+        {
+          "alimento": "maicitos / choclo (granos)",
+          "porcion_g": 60,
+          "kcal": 51.6,
+          "proteina_g": 1.92,
+          "carbs_g": 11.4,
+          "grasa_g": 0.72
+        },
+        {
+          "alimento": "platano maduro asado (trozos)",
+          "porcion_g": 70,
+          "kcal": 91.0,
+          "proteina_g": 0.84,
+          "carbs_g": 22.4,
+          "grasa_g": 0.35
+        },
+        {
+          "alimento": "aguacate",
+          "porcion_g": 50,
+          "kcal": 80.0,
+          "proteina_g": 1.0,
+          "carbs_g": 4.5,
+          "grasa_g": 7.5
+        },
+        {
+          "alimento": "tocineta (2 tiras)",
+          "porcion_g": 30,
+          "kcal": 162.3,
+          "proteina_g": 11.1,
+          "carbs_g": 0.3,
+          "grasa_g": 12.6
+        }
+      ],
+      "subtotal": {
+        "kcal": 898.9,
+        "proteina_g": 43.3,
+        "carbs_g": 84.6,
+        "grasa_g": 45.7
+      },
+      "confianza": "baja",
+      "origen": "foto + descripcion",
+      "nota": "Comida familiar compartida, sin porciones individuales claras en la foto -- se simulo una porcion tipica de adulto (no se distinguieron platos por persona, a pedido del usuario). Chicharron asumido como los trozos rosados mezclados en los frijoles."
     }
   ],
   "totales": {
-    "kcal": 669.0,
-    "proteina_g": 27.9,
-    "carbs_g": 60.3,
-    "grasa_g": 26.5
+    "kcal": 1567.9,
+    "proteina_g": 71.2,
+    "carbs_g": 144.9,
+    "grasa_g": 72.2
   },
   "objetivo": {
     "kcal": 1850,
@@ -86,10 +148,10 @@
     "grasa_g": 70
   },
   "restante": {
-    "kcal": 1181.0,
-    "proteina_g": 132.1,
-    "carbs_g": 84.7,
-    "grasa_g": 43.5
+    "kcal": 282.1,
+    "proteina_g": 88.8,
+    "carbs_g": 0.1,
+    "grasa_g": -2.2
   },
-  "notas": "DIA 12 (domingo) EN CURSO. Desayuno + tinto de verano registrados. Grasa sin cambios (la bebida no aporta)."
+  "notas": "DIA 12 (domingo) EN CURSO. Desayuno + tinto de verano + almuerzo (simulado, porcion tipica) registrados. Carbs practicamente agotados y grasa ya ligeramente sobre el objetivo. Cena debe ser proteina + vegetales sin almidon, sin grasa anadida."
 }
