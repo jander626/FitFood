@@ -64,6 +64,7 @@
     { "nombre": "Platano verde cocido", "categoria": "Carbohidrato / tuberculo", "kcal100": 122, "p100": 1.3, "c100": 32, "g100": 0.4, "porcion_g": 120, "porcion_nota": "1 porcion" },
     { "nombre": "Platano maduro cocido (hervido)", "categoria": "Carbohidrato / tuberculo", "kcal100": 116, "p100": 1.2, "c100": 30, "g100": 0.3, "porcion_g": 120, "porcion_nota": "1 porcion" },
     { "nombre": "Patacones (platano verde, doble friccion)", "categoria": "Carbohidrato / tuberculo", "kcal100": 190, "p100": 1.5, "c100": 28, "g100": 8.5, "porcion_g": 110, "porcion_nota": "2 unidades medianas" },
+    { "nombre": "Tortita de platano maduro (cocido y asado con un poco de mantequilla)", "categoria": "Carbohidrato / tuberculo", "kcal100": 145, "p100": 1.3, "c100": 29, "g100": 2.5, "porcion_g": 60, "porcion_nota": "1 unidad -- preparacion habitual del usuario" },
     { "nombre": "Pan integral", "categoria": "Carbohidrato / tuberculo", "kcal100": 265, "p100": 13, "c100": 47, "g100": 3.5, "porcion_g": 30, "porcion_nota": "1 rebanada" },
     { "nombre": "Palito de queso", "categoria": "Carbohidrato / tuberculo", "kcal100": 400, "p100": 10, "c100": 38, "g100": 22, "porcion_g": 40, "porcion_nota": "1 unidad" },
     { "nombre": "Pastel de arequipe (hojaldre de panaderia)", "categoria": "Carbohidrato / tuberculo", "kcal100": 400, "p100": 6, "c100": 45, "g100": 20, "porcion_g": 90, "porcion_nota": "1 unidad" },

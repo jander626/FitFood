@@ -107,6 +107,7 @@ Vista rápida entre categorías — útil cuando solo quieres saber qué te rind
 | Yuca cocida | 160 | 1.4 g | 38 g | 0.3 g | 1 porcion (150g): **240 kcal**, 2.1g P, 57.0g C, 0.4g G |
 | Platano maduro frito (tajadas) | 220 | 1.3 g | 40 g | 7 g | 2-3 tajadas (100g): **220 kcal**, 1.3g P, 40.0g C, 7.0g G |
 | Platano verde cocido | 122 | 1.3 g | 32 g | 0.4 g | 1 porcion (120g): **146 kcal**, 1.6g P, 38.4g C, 0.5g G |
+| Tortita de platano maduro (cocido y asado con un poco de mantequilla) | 145 | 1.3 g | 29 g | 2.5 g | 1 unidad -- preparacion habitual del usuario (60g): **87 kcal**, 0.8g P, 17.4g C, 1.5g G |
 | Platano maduro cocido (hervido) | 116 | 1.2 g | 30 g | 0.3 g | 1 porcion (120g): **139 kcal**, 1.4g P, 36.0g C, 0.4g G |
 
 ## Legumbres
