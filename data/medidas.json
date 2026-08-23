@@ -9,6 +9,14 @@
       "grasa_pct_us_navy": 22.9,
       "ratio_cintura_estatura": 0.559,
       "nota": "Medicion del intake, un dia antes del inicio oficial (dia 1 = 12 ago). Sirve como linea base; siguiente medicion el domingo."
+    },
+    {
+      "fecha": "2026-08-23",
+      "cintura": 93,
+      "cuello": null,
+      "grasa_pct_us_navy": null,
+      "ratio_cintura_estatura": 0.547,
+      "nota": "DIA 12 (domingo), primera remedicion desde la linea base. Cintura -2cm vs 11 ago (95->93). No se remidio el cuello, asi que no se recalcula el % de grasa US Navy completo -- solo el ratio cintura/estatura, que tambien bajo (0.559->0.547)."
     }
   ]
 }

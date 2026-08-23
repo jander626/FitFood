@@ -1,4 +1,17 @@
 {
-  "_nota": "Datos reportados desde Garmin. Cada registro: {\"fecha\", \"sueno_horas\", \"sueno_calidad\", \"pasos\", \"fc_reposo\", \"body_battery\"}.",
-  "registros": []
+  "_nota": "Datos reportados desde Garmin (exports del usuario). Cada registro: {\"fecha\", \"dia_plan\", \"sueno_horas\", \"sueno_calidad\", \"fc_reposo\", \"body_battery\", \"pasos\", \"kcal_activas\", \"kcal_reposo\", \"kcal_totales\"}. kcal_totales es el gasto energetico real reportado por el reloj (TDEE real del dia). Poblado por primera vez el 2026-08-23 (dia 12) con el historico completo desde el dia 1.",
+  "registros": [
+    { "fecha": "2026-08-12", "dia_plan": 1, "sueno_horas": 6.5, "sueno_calidad": "Aceptable", "fc_reposo": 55, "body_battery": 62, "pasos": 4193, "kcal_activas": 310, "kcal_reposo": 2039, "kcal_totales": 2349 },
+    { "fecha": "2026-08-13", "dia_plan": 2, "sueno_horas": 7.08, "sueno_calidad": "Bueno", "fc_reposo": 55, "body_battery": 67, "pasos": 7892, "kcal_activas": 198, "kcal_reposo": 2039, "kcal_totales": 2237 },
+    { "fecha": "2026-08-14", "dia_plan": 3, "sueno_horas": 7.47, "sueno_calidad": "Bueno", "fc_reposo": 55, "body_battery": 68, "pasos": 12172, "kcal_activas": 581, "kcal_reposo": 2039, "kcal_totales": 2620 },
+    { "fecha": "2026-08-15", "dia_plan": 4, "sueno_horas": 6.7, "sueno_calidad": "Aceptable", "fc_reposo": 55, "body_battery": 73, "pasos": 16457, "kcal_activas": 944, "kcal_reposo": 2039, "kcal_totales": 2983 },
+    { "fecha": "2026-08-16", "dia_plan": 5, "sueno_horas": 6.68, "sueno_calidad": "Aceptable", "fc_reposo": 56, "body_battery": 72, "pasos": 8765, "kcal_activas": 208, "kcal_reposo": 2039, "kcal_totales": 2247 },
+    { "fecha": "2026-08-17", "dia_plan": 6, "sueno_horas": 5.2, "sueno_calidad": "Aceptable", "fc_reposo": 53, "body_battery": 60, "pasos": 12162, "kcal_activas": 272, "kcal_reposo": 2039, "kcal_totales": 2311 },
+    { "fecha": "2026-08-18", "dia_plan": 7, "sueno_horas": null, "sueno_calidad": null, "fc_reposo": null, "body_battery": null, "pasos": 6988, "kcal_activas": 344, "kcal_reposo": 2039, "kcal_totales": 2383, "nota": "Sin datos de sueno ese dia en el export de Garmin (reloj sin uso nocturno probablemente)." },
+    { "fecha": "2026-08-19", "dia_plan": 8, "sueno_horas": 6.78, "sueno_calidad": "Aceptable", "fc_reposo": 51, "body_battery": 63, "pasos": 7045, "kcal_activas": 110, "kcal_reposo": 2039, "kcal_totales": 2149 },
+    { "fecha": "2026-08-20", "dia_plan": 9, "sueno_horas": 5.83, "sueno_calidad": "Aceptable", "fc_reposo": 51, "body_battery": 56, "pasos": 6332, "kcal_activas": 220, "kcal_reposo": 2039, "kcal_totales": 2259 },
+    { "fecha": "2026-08-21", "dia_plan": 10, "sueno_horas": 6.82, "sueno_calidad": "Bueno", "fc_reposo": 52, "body_battery": 68, "pasos": 9461, "kcal_activas": 313, "kcal_reposo": 2039, "kcal_totales": 2352 },
+    { "fecha": "2026-08-22", "dia_plan": 11, "sueno_horas": 6.28, "sueno_calidad": "Aceptable", "fc_reposo": 52, "body_battery": 66, "pasos": 10920, "kcal_activas": 604, "kcal_reposo": 2039, "kcal_totales": 2643 },
+    { "fecha": "2026-08-23", "dia_plan": 12, "sueno_horas": 6.72, "sueno_calidad": "Aceptable", "fc_reposo": 54, "body_battery": 67, "pasos": 55, "kcal_activas": 0, "kcal_reposo": 550, "kcal_totales": 550, "nota": "Dia en curso (domingo, inicio de manana) -- pasos y kcal parciales, no representativos del dia completo." }
+  ]
 }
