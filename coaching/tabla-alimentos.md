@@ -201,9 +201,12 @@ Vista rápida entre categorías — útil cuando solo quieres saber qué te rind
 | Miel de abejas | 304 | 0.3 g | 82 g | 0 g | 1 cucharada (15g): **46 kcal**, 0.0g P, 12.3g C, 0.0g G |
 | Salsa de ciruelas (plum sauce) | 235 | 0.3 g | 57 g | 0.2 g | 2 cucharadas (30g): **70 kcal**, 0.1g P, 17.1g C, 0.1g G |
 | Jugo de mora (con azucar) | 48 | 0.3 g | 12 g | 0 g | 1 vaso (250g): **120 kcal**, 0.8g P, 30.0g C, 0.0g G |
+| Vino tinto | 85 | 0.1 g | 2.6 g | 0 g | 1 copa (150g): **128 kcal**, 0.2g P, 3.9g C, 0.0g G |
+| Tinto de verano (vino, sprite, jugo de naranja, hielo) | 65 | 0.1 g | 6.3 g | 0 g | 1 copa tipica -- ~110ml vino, 60ml sprite, 40ml jugo naranja (210g): **136 kcal**, 0.2g P, 13.2g C, 0.0g G |
 | Bon Bon Bum (paleta) | 375 | 0 g | 94 g | 0 g | 1 unidad (16g): **60 kcal**, 0.0g P, 15.0g C, 0.0g G |
 | Panela | 380 | 0 g | 98 g | 0 g | 1 cucharada (15g): **57 kcal**, 0.0g P, 14.7g C, 0.0g G |
 | Te endulzado (Hatsu y similares) | 40 | 0 g | 10 g | 0 g | 1 vaso (250g): **100 kcal**, 0.0g P, 25.0g C, 0.0g G |
+| Sprite / gaseosa limon-lima | 41 | 0 g | 10.5 g | 0 g | 1 vaso (250g): **102 kcal**, 0.0g P, 26.2g C, 0.0g G |
 | Gaseosa | 42 | 0 g | 10.6 g | 0 g | 1 lata (350g): **147 kcal**, 0.0g P, 37.1g C, 0.0g G |
 
 ---
