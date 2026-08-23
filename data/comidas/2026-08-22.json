@@ -169,13 +169,52 @@
       "confianza": "alta",
       "origen": "foto (etiqueta nutricional)",
       "nota": "1 botella individual (220ml), descremado y sin azucar (con edulcorante). Cero grasa -- eleccion perfecta dado que la grasa del dia ya estaba sobregirada."
+    },
+    {
+      "momento": "cena",
+      "items": [
+        {
+          "alimento": "pollo en trozos (sal, pimienta, paprika, cebolla en polvo)",
+          "porcion_g": 150,
+          "porcion_nota": "200g congelado, ~150g cocido tras perdida de agua",
+          "kcal": 247.5,
+          "proteina_g": 46.5,
+          "carbs_g": 0.0,
+          "grasa_g": 5.4
+        },
+        {
+          "alimento": "papa a la francesa congelada (airfryer, sin aceite anadido)",
+          "porcion_g": 180,
+          "kcal": 279.0,
+          "proteina_g": 4.32,
+          "carbs_g": 43.2,
+          "grasa_g": 9.9
+        },
+        {
+          "alimento": "salsa de tomate / ketchup",
+          "porcion_g": 30,
+          "kcal": 30.0,
+          "proteina_g": 0.36,
+          "carbs_g": 7.5,
+          "grasa_g": 0.06
+        }
+      ],
+      "subtotal": {
+        "kcal": 556.5,
+        "proteina_g": 51.2,
+        "carbs_g": 50.7,
+        "grasa_g": 15.4
+      },
+      "confianza": "media",
+      "origen": "foto + descripcion",
+      "nota": "Papas a la francesa CONGELADAS (no papa fresca) preparadas en airfryer sin aceite anadido -- ya traen grasa de fabrica (5.5g/100g), distinto de la papa criolla fresca que se habia planeado originalmente. Pollo en trozos solo con especias secas, sin empanizado."
     }
   ],
   "totales": {
-    "kcal": 1272.1,
-    "proteina_g": 91.5,
-    "carbs_g": 52.5,
-    "grasa_g": 76.3
+    "kcal": 1828.6,
+    "proteina_g": 142.7,
+    "carbs_g": 103.2,
+    "grasa_g": 91.7
   },
   "objetivo": {
     "kcal": 1850,
@@ -184,10 +223,10 @@
     "grasa_g": 70
   },
   "restante": {
-    "kcal": 577.9,
-    "proteina_g": 68.5,
-    "carbs_g": 92.5,
-    "grasa_g": -6.3
+    "kcal": 21.4,
+    "proteina_g": 17.3,
+    "carbs_g": 41.8,
+    "grasa_g": -21.7
   },
-  "notas": "DIA 11 (sabado) EN CURSO. Uvas + omelette + bowl de almuerzo + kefir de snack registrados. Grasa sigue en -6.3g (el kefir no la afecto, 0g grasa). Cena debe ser practicamente sin grasa anadida."
+  "notas": "DIA 11 CERRADO (sabado). Kcal cerro casi exacto en el objetivo (+21 de margen). Grasa termino en -21.7g sobre el objetivo (91.7g vs 70g) -- las papas congeladas (con aceite de fabrica) fueron la sorpresa del dia, ya que se habian planeado como papa fresca sin aceite. Sumado al desayuno alto en grasa (omelette+tocineta) y el dip de feta/aguacate del almuerzo, la grasa se acumulo durante todo el dia pese a que cada eleccion individual parecia razonable."
 }

@@ -77,6 +77,7 @@ Vista rápida entre categorías — útil cuando solo quieres saber qué te rind
 | Dip de feta (feta whip, con aceite de oliva) | 292 | 10 g | 4 g | 25 g | porcion tipo bowl de restaurante (35g): **102 kcal**, 3.5g P, 1.4g C, 8.8g G |
 | Yogur griego natural | 59 | 10 g | 3.6 g | 0.4 g | 1 pote (170g): **100 kcal**, 17.0g P, 6.1g C, 0.7g G |
 | Queso crema | 340 | 6 g | 4 g | 34 g | 2 cucharadas (30g): **102 kcal**, 1.8g P, 1.2g C, 10.2g G |
+| Kefir San Martin con sabor (descremado, sin azucar) | 34 | 5 g | 3.2 g | 0 g | 1 botella individual -- etiqueta nutricional (220g): **75 kcal**, 11.0g P, 7.0g C, 0.0g G |
 | Leche entera | 61 | 3.2 g | 4.8 g | 3.3 g | 1 vaso (240g): **146 kcal**, 7.7g P, 11.5g C, 7.9g G |
 | Kumis / yogur para tomar | 70 | 3 g | 8 g | 3 g | 1 vaso (200g): **140 kcal**, 6.0g P, 16.0g C, 6.0g G |
 
@@ -98,6 +99,7 @@ Vista rápida entre categorías — útil cuando solo quieres saber qué te rind
 | Papa airfryer sin aceite | 120 | 2.5 g | 27 g | 0.3 g | porcion mediana, sin aceite anadido (150g): **180 kcal**, 3.8g P, 40.5g C, 0.4g G |
 | Pure de papa (con leche/mantequilla) | 138 | 2.5 g | 19 g | 5 g | cama de pure (160g): **221 kcal**, 4.0g P, 30.4g C, 8.0g G |
 | Arroz blanco cocido | 130 | 2.4 g | 28 g | 0.3 g | 1 taza (150g): **195 kcal**, 3.6g P, 42.0g C, 0.4g G |
+| Papa a la francesa congelada (airfryer, sin aceite anadido) | 155 | 2.4 g | 24 g | 5.5 g | pre-frita de fabrica -- ya trae grasa aunque se prepare sin aceite adicional en casa (150g): **232 kcal**, 3.6g P, 36.0g C, 8.2g G |
 | Maiz trillado / mazamorra (sin leche) | 96 | 2.3 g | 21 g | 0.6 g | 1 taza (150g): **144 kcal**, 3.4g P, 31.5g C, 0.9g G |
 | Papa cocida | 87 | 2 g | 20 g | 0.1 g | 1 papa mediana (150g): **130 kcal**, 3.0g P, 30.0g C, 0.2g G |
 | Papa criolla (cocida/horneada, sin aceite) | 87 | 2 g | 20 g | 0.1 g | 5-6 unidades pequenas (100g): **87 kcal**, 2.0g P, 20.0g C, 0.1g G |

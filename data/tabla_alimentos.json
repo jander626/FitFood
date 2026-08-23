@@ -55,6 +55,7 @@
     { "nombre": "Papa frita (con aceite)", "categoria": "Carbohidrato / tuberculo", "kcal100": 190, "p100": 3, "c100": 30, "g100": 7, "porcion_g": 150, "porcion_nota": "porcion mediana" },
     { "nombre": "Papa airfryer sin aceite", "categoria": "Carbohidrato / tuberculo", "kcal100": 120, "p100": 2.5, "c100": 27, "g100": 0.3, "porcion_g": 150, "porcion_nota": "porcion mediana, sin aceite anadido" },
     { "nombre": "Papa criolla (cocida/horneada, sin aceite)", "categoria": "Carbohidrato / tuberculo", "kcal100": 87, "p100": 2, "c100": 20, "g100": 0.1, "porcion_g": 100, "porcion_nota": "5-6 unidades pequenas" },
+    { "nombre": "Papa a la francesa congelada (airfryer, sin aceite anadido)", "categoria": "Carbohidrato / tuberculo", "kcal100": 155, "p100": 2.4, "c100": 24, "g100": 5.5, "porcion_g": 150, "porcion_nota": "pre-frita de fabrica -- ya trae grasa aunque se prepare sin aceite adicional en casa" },
     { "nombre": "Maicitos horneados (masa de maiz)", "categoria": "Carbohidrato / tuberculo", "kcal100": 150, "p100": 4, "c100": 30, "g100": 2, "porcion_g": 100, "porcion_nota": "porcion mediana" },
     { "nombre": "Pure de papa (con leche/mantequilla)", "categoria": "Carbohidrato / tuberculo", "kcal100": 138, "p100": 2.5, "c100": 19, "g100": 5, "porcion_g": 160, "porcion_nota": "cama de pure" },
     { "nombre": "Yuca cocida", "categoria": "Carbohidrato / tuberculo", "kcal100": 160, "p100": 1.4, "c100": 38, "g100": 0.3, "porcion_g": 150, "porcion_nota": "1 porcion" },
