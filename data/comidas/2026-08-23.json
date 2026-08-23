@@ -6,20 +6,22 @@
       "momento": "desayuno",
       "items": [
         {
-          "alimento": "tortitas de platano maduro (cocido y asado con un poco de mantequilla, x3)",
+          "alimento": "tortitas de platano maduro (cocido y asado a la plancha, casi sin aceite, x3)",
           "porcion_g": 180,
-          "kcal": 261.0,
-          "proteina_g": 2.34,
-          "carbs_g": 52.2,
-          "grasa_g": 4.5
+          "kcal": 234.0,
+          "proteina_g": 2.16,
+          "carbs_g": 57.6,
+          "grasa_g": 0.9,
+          "nota_correccion": "Corregido: preparadas igual que siempre (a la plancha, casi sin aceite), no con mantequilla anadida como se asumio inicialmente."
         },
         {
-          "alimento": "queso costeno/fresco (3 tajadas)",
-          "porcion_g": 75,
-          "kcal": 240.0,
-          "proteina_g": 15.0,
-          "carbs_g": 1.5,
-          "grasa_g": 18.75
+          "alimento": "quesito colombiano (3 tajadas delgadas)",
+          "porcion_g": 45,
+          "kcal": 126.0,
+          "proteina_g": 8.1,
+          "carbs_g": 0.9,
+          "grasa_g": 9.9,
+          "nota_correccion": "Corregido: es quesito, no queso costeno. Tajadas muy delgadas (~15g c/u en vez de 25g)."
         },
         {
           "alimento": "3 huevos (en mantequilla)",
@@ -39,21 +41,21 @@
         }
       ],
       "subtotal": {
-        "kcal": 793.5,
-        "proteina_g": 38.2,
-        "carbs_g": 61.8,
-        "grasa_g": 42.6
+        "kcal": 652.5,
+        "proteina_g": 31.2,
+        "carbs_g": 66.6,
+        "grasa_g": 30.1
       },
       "confianza": "media",
-      "origen": "foto + descripcion",
-      "nota": "Tortitas de platano maduro cocidas y luego asadas con un poco de mantequilla (no fritas en aceite). Queso costeno en tajadas mas delgadas de lo habitual, estimadas en 25g c/u. 3 huevos en mantequilla, preparacion habitual."
+      "origen": "foto + descripcion + correccion del usuario",
+      "nota": "Corregido: tortitas de platano maduro a la plancha casi sin aceite (igual que siempre, no con mantequilla anadida), y es quesito (no queso costeno) en tajadas muy delgadas. 3 huevos en mantequilla, preparacion habitual."
     }
   ],
   "totales": {
-    "kcal": 793.5,
-    "proteina_g": 38.2,
-    "carbs_g": 61.8,
-    "grasa_g": 42.6
+    "kcal": 652.5,
+    "proteina_g": 31.2,
+    "carbs_g": 66.6,
+    "grasa_g": 30.1
   },
   "objetivo": {
     "kcal": 1850,
@@ -62,10 +64,10 @@
     "grasa_g": 70
   },
   "restante": {
-    "kcal": 1056.5,
-    "proteina_g": 121.8,
-    "carbs_g": 83.2,
-    "grasa_g": 27.4
+    "kcal": 1197.5,
+    "proteina_g": 128.8,
+    "carbs_g": 78.4,
+    "grasa_g": 39.9
   },
-  "notas": "DIA 12 (domingo) EN CURSO. Desayuno con 42.6g de grasa -- ya 61% del presupuesto diario de grasa consumido en la primera comida, siguiendo el patron de la semana pasada (6/6 dias sobre el objetivo de grasa)."
+  "notas": "DIA 12 (domingo) EN CURSO. Desayuno corregido: quesito (no queso) y tortitas casi sin aceite, bajo la grasa de 42.6g a 30.1g."
 }
