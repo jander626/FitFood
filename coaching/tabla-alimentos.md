@@ -152,6 +152,7 @@ Vista rápida entre categorías — útil cuando solo quieres saber qué te rind
 | Alimento | kcal/100g | Proteína | Carbos | Grasa | Porción típica |
 |---|---|---|---|---|---|
 | Nueces / almendras | 600 | 20 g | 20 g | 52 g | 1 punado (25g): **150 kcal**, 5.0g P, 5.0g C, 13.0g G |
+| Frutos secos mixtos (avellanas, macadamia, crudos) | 650 | 15 g | 12 g | 60 g | un punado pequeno (15g): **98 kcal**, 2.2g P, 1.8g C, 9.0g G |
 | Cebolla crispy (frita/deshidratada) | 452 | 6 g | 35 g | 29 g | topping tipo bowl (20g): **90 kcal**, 1.2g P, 7.0g C, 5.8g G |
 | Coco rallado (crudo, sin azucar) | 354 | 3.3 g | 15 g | 33 g | 2 cucharadas (20g): **71 kcal**, 0.7g P, 3.0g C, 6.6g G |
 | Guacamole | 150 | 2 g | 8 g | 14 g | 2 cucharadas (60g): **90 kcal**, 1.2g P, 4.8g C, 8.4g G |

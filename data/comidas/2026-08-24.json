@@ -115,13 +115,67 @@
       "confianza": "baja",
       "origen": "foto (plato completo) + foto (plato con sobras) + descripcion",
       "nota": "Restaurante. Salsas confirmadas: salsa rosada sobre el pollo, sour cream en la ensalada. No es pan, es arepa. Se dejo ~1/4 de la arepa y un resto pequeno de ensalada (visible en la foto del plato final); pollo, papas y salsa del dip se comieron completos."
+    },
+    {
+      "momento": "snack tarde",
+      "items": [
+        {
+          "alimento": "yogur griego natural",
+          "porcion_g": 150,
+          "kcal": 88.5,
+          "proteina_g": 15.0,
+          "carbs_g": 5.4,
+          "grasa_g": 0.6
+        },
+        {
+          "alimento": "coco rallado",
+          "porcion_g": 15,
+          "kcal": 53.1,
+          "proteina_g": 0.5,
+          "carbs_g": 2.25,
+          "grasa_g": 4.95
+        },
+        {
+          "alimento": "frutos secos mixtos (avellanas, macadamia)",
+          "porcion_g": 15,
+          "kcal": 97.5,
+          "proteina_g": 2.25,
+          "carbs_g": 1.8,
+          "grasa_g": 9.0
+        },
+        {
+          "alimento": "granola con pasas",
+          "porcion_g": 20,
+          "kcal": 92.0,
+          "proteina_g": 1.6,
+          "carbs_g": 11.0,
+          "grasa_g": 4.4
+        },
+        {
+          "alimento": "fruta (kiwi/mango, trozos)",
+          "porcion_g": 40,
+          "kcal": 24.0,
+          "proteina_g": 0.32,
+          "carbs_g": 6.0,
+          "grasa_g": 0.16
+        }
+      ],
+      "subtotal": {
+        "kcal": 355.1,
+        "proteina_g": 19.7,
+        "carbs_g": 26.5,
+        "grasa_g": 19.1
+      },
+      "confianza": "baja",
+      "origen": "foto",
+      "nota": "Ensalada de frutas con yogurt griego, cargada de coco, frutos secos y granola -- porciones estimadas por volumen, no confirmadas."
     }
   ],
   "totales": {
-    "kcal": 1659.2,
-    "proteina_g": 105.2,
-    "carbs_g": 138.7,
-    "grasa_g": 74.95
+    "kcal": 2014.3,
+    "proteina_g": 124.9,
+    "carbs_g": 165.2,
+    "grasa_g": 94.1
   },
   "objetivo": {
     "kcal": 1850,
@@ -130,10 +184,10 @@
     "grasa_g": 70
   },
   "restante": {
-    "kcal": 190.8,
-    "proteina_g": 54.8,
-    "carbs_g": 6.3,
-    "grasa_g": -4.95
+    "kcal": -164.3,
+    "proteina_g": 35.1,
+    "carbs_g": -20.2,
+    "grasa_g": -24.1
   },
-  "notas": "DIA 13 (lunes) EN CURSO. Desayuno + snack + almuerzo registrados. Carbs casi agotados (6.3g) y grasa ya sobre el objetivo (-4.95g). Cena debe ser proteina + vegetales sin almidon, sin grasa anadida."
+  "notas": "DIA 13 (lunes) EN CURSO, ya sobre el objetivo en kcal, carbs y grasa incluso antes de la cena. El snack de yogurt griego con coco, frutos secos y granola fue el que rompio el dia -- se veia saludable (fruta+yogurt) pero el coco y los frutos secos son muy densos en grasa."
 }
