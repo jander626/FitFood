@@ -71,6 +71,12 @@
       "kg": 78.4,
       "condiciones": "ayunas, boxer+pantaloneta+reloj",
       "nota": "DIA 12 (domingo). Baja 0.1kg tras el dia 11. Cambio total desde la linea base (79.4, 11 ago): -1.0kg en 12 dias, ritmo ~0.58kg/semana -- justo en el rango objetivo (0.55-0.6kg/semana)."
+    },
+    {
+      "fecha": "2026-08-24",
+      "kg": 78.5,
+      "condiciones": "ayunas, boxer+pantaloneta+reloj",
+      "nota": "DIA 13 (lunes). Sube 0.1kg tras el dia 12 (domingo con exceso de +334kcal, +37.5g grasa). Subida pequena, coherente con un solo dia sobre objetivo."
     }
   ]
 }

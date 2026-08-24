@@ -1,0 +1,63 @@
+{
+  "fecha": "2026-08-24",
+  "dia_plan": 13,
+  "comidas": [
+    {
+      "momento": "desayuno",
+      "items": [
+        {
+          "alimento": "4 huevos (en mantequilla, sin queso)",
+          "porcion_g": 200,
+          "kcal": 330.0,
+          "proteina_g": 25.2,
+          "carbs_g": 1.4,
+          "grasa_g": 24.0
+        },
+        {
+          "alimento": "arepa blanca asada",
+          "porcion_g": 50,
+          "kcal": 100.0,
+          "proteina_g": 2.0,
+          "carbs_g": 21.0,
+          "grasa_g": 1.0
+        },
+        {
+          "alimento": "jugo de naranja natural",
+          "porcion_ml": 200,
+          "kcal": 90.0,
+          "proteina_g": 1.4,
+          "carbs_g": 20.0,
+          "grasa_g": 0.4
+        }
+      ],
+      "subtotal": {
+        "kcal": 520.0,
+        "proteina_g": 28.6,
+        "carbs_g": 42.4,
+        "grasa_g": 25.4
+      },
+      "confianza": "media",
+      "origen": "foto + descripcion",
+      "nota": "4 huevos en mantequilla, sin queso (corregido tras pregunta inicial). Arepa blanca asada, sin nada encima. Vaso de jugo de naranja de la botella, tamano estimado (no confirmado en ml)."
+    }
+  ],
+  "totales": {
+    "kcal": 520.0,
+    "proteina_g": 28.6,
+    "carbs_g": 42.4,
+    "grasa_g": 25.4
+  },
+  "objetivo": {
+    "kcal": 1850,
+    "proteina_g": 160,
+    "carbs_g": 145,
+    "grasa_g": 70
+  },
+  "restante": {
+    "kcal": 1330.0,
+    "proteina_g": 131.4,
+    "carbs_g": 102.6,
+    "grasa_g": 44.6
+  },
+  "notas": "DIA 13 (lunes) EN CURSO."
+}
