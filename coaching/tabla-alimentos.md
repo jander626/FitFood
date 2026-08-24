@@ -29,7 +29,7 @@ Vista rápida entre categorías — útil cuando solo quieres saber qué te rind
 | 17 | Bondiola de cerdo (parrilla) | Proteínas animales | 280 | **24 g** |
 | 18 | Camarones cocidos | Proteínas animales | 99 | **24 g** |
 | 19 | Chorizo espanol (curado) | Proteínas animales | 455 | **24 g** |
-| 20 | Costilla de res al horno | Proteínas animales | 315 | **22 g** |
+| 20 | Queso amarillo tipo americano (tajada) | Huevos y lácteos | 400 | **23 g** |
 
 ## Proteínas animales
 
@@ -68,6 +68,7 @@ Vista rápida entre categorías — útil cuando solo quieres saber qué te rind
 |---|---|---|---|---|---|
 | Proteina en polvo (whey) | 380 | 75 g | 8 g | 5 g | 1 scoop (30g): **114 kcal**, 22.5g P, 2.4g C, 1.5g G |
 | Queso mozzarella | 280 | 25 g | 2 g | 20 g | 1 tajada (30g): **84 kcal**, 7.5g P, 0.6g C, 6.0g G |
+| Queso amarillo tipo americano (tajada) | 400 | 23 g | 1.5 g | 33 g | 1 tajada individual (20g): **80 kcal**, 4.6g P, 0.3g C, 6.6g G |
 | Queso costeno / fresco | 320 | 20 g | 2 g | 25 g | 1 tajada (40g): **128 kcal**, 8.0g P, 0.8g C, 10.0g G |
 | Quesito colombiano | 280 | 18 g | 2 g | 22 g | 1 tajada pequena (30g): **84 kcal**, 5.4g P, 0.6g C, 6.6g G |
 | Huevo entero (frito/revuelto) | 155 | 13 g | 1.5 g | 11 g | 1 unidad (50g): **78 kcal**, 6.5g P, 0.8g C, 5.5g G |
@@ -87,6 +88,7 @@ Vista rápida entre categorías — útil cuando solo quieres saber qué te rind
 |---|---|---|---|---|---|
 | Pan integral | 265 | 13 g | 47 g | 3.5 g | 1 rebanada (30g): **80 kcal**, 3.9g P, 14.1g C, 1.1g G |
 | Palito de queso | 400 | 10 g | 38 g | 22 g | 1 unidad (40g): **160 kcal**, 4.0g P, 15.2g C, 8.8g G |
+| Pan de hamburguesa | 280 | 9 g | 50 g | 5 g | 1 pan completo (60g): **168 kcal**, 5.4g P, 30.0g C, 3.0g G |
 | Tortilla de trigo (wrap, 21cm) | 310 | 8 g | 50 g | 8 g | 1 unidad 21cm (50g): **155 kcal**, 4.0g P, 25.0g C, 4.0g G |
 | Pan dulce de panaderia (trenza, agridulce, sin relleno) | 300 | 8 g | 50 g | 7 g | 1 unidad (80g): **240 kcal**, 6.4g P, 40.0g C, 5.6g G |
 | Pastel de arequipe (hojaldre de panaderia) | 400 | 6 g | 45 g | 20 g | 1 unidad (90g): **360 kcal**, 5.4g P, 40.5g C, 18.0g G |
@@ -126,6 +128,7 @@ Vista rápida entre categorías — útil cuando solo quieres saber qué te rind
 | Lechuga | 15 | 1.4 g | 2.9 g | 0.2 g | 1 puñado (50g): **8 kcal**, 0.7g P, 1.4g C, 0.1g G |
 | Repollo (crudo) | 25 | 1.3 g | 5.8 g | 0.1 g | 1 punado (50g): **12 kcal**, 0.7g P, 2.9g C, 0.1g G |
 | Cebolla | 40 | 1.1 g | 9 g | 0.1 g | para sofrito (40g): **16 kcal**, 0.4g P, 3.6g C, 0.0g G |
+| Ensalada de repollo (con vinagreta ligera, tipo topping de hamburguesa) | 45 | 1 g | 6 g | 1.8 g | topping tipico de hamburguesa/perrita (40g): **18 kcal**, 0.4g P, 2.4g C, 0.7g G |
 | Pico de gallo (tomate, cebolla, cilantro) | 35 | 1 g | 7 g | 0.2 g | porcion mediana (100g): **35 kcal**, 1.0g P, 7.0g C, 0.2g G |
 | Tomate | 18 | 0.9 g | 3.9 g | 0.2 g | 1 unidad (100g): **18 kcal**, 0.9g P, 3.9g C, 0.2g G |
 | Zanahoria | 41 | 0.9 g | 10 g | 0.2 g | 1 unidad (80g): **33 kcal**, 0.7g P, 8.0g C, 0.2g G |

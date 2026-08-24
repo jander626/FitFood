@@ -133,13 +133,91 @@
       "confianza": "baja",
       "origen": "foto + descripcion",
       "nota": "Comida familiar compartida, sin porciones individuales claras en la foto -- se simulo una porcion tipica de adulto (no se distinguieron platos por persona, a pedido del usuario). Chicharron asumido como los trozos rosados mezclados en los frijoles."
+    },
+    {
+      "momento": "cena",
+      "items": [
+        {
+          "alimento": "pan de hamburguesa",
+          "porcion_g": 60,
+          "kcal": 168.0,
+          "proteina_g": 5.4,
+          "carbs_g": 30.0,
+          "grasa_g": 3.0
+        },
+        {
+          "alimento": "carne de hamburguesa (70g)",
+          "porcion_g": 70,
+          "kcal": 150.5,
+          "proteina_g": 18.2,
+          "carbs_g": 0.0,
+          "grasa_g": 8.4
+        },
+        {
+          "alimento": "ensalada de repollo",
+          "porcion_g": 40,
+          "kcal": 18.0,
+          "proteina_g": 0.4,
+          "carbs_g": 2.4,
+          "grasa_g": 0.72
+        },
+        {
+          "alimento": "queso amarillo (tajada)",
+          "porcion_g": 20,
+          "kcal": 80.0,
+          "proteina_g": 4.6,
+          "carbs_g": 0.3,
+          "grasa_g": 6.6
+        },
+        {
+          "alimento": "tocineta delgada (1 tira)",
+          "porcion_g": 10,
+          "kcal": 54.1,
+          "proteina_g": 3.7,
+          "carbs_g": 0.1,
+          "grasa_g": 4.2
+        },
+        {
+          "alimento": "ripio de papa (un poquito)",
+          "porcion_g": 15,
+          "kcal": 28.5,
+          "proteina_g": 0.45,
+          "carbs_g": 4.5,
+          "grasa_g": 1.05
+        },
+        {
+          "alimento": "salsa de tomate / ketchup",
+          "porcion_g": 15,
+          "kcal": 15.0,
+          "proteina_g": 0.18,
+          "carbs_g": 3.75,
+          "grasa_g": 0.03
+        },
+        {
+          "alimento": "mayonesa",
+          "porcion_g": 15,
+          "kcal": 102.0,
+          "proteina_g": 0.15,
+          "carbs_g": 0.3,
+          "grasa_g": 11.25
+        }
+      ],
+      "subtotal": {
+        "kcal": 616.1,
+        "proteina_g": 33.1,
+        "carbs_g": 41.4,
+        "grasa_g": 35.3
+      },
+      "confianza": "media",
+      "origen": "descripcion detallada del usuario",
+      "nota": "Hamburguesa cargada estilo colombiano: pan, 70g carne, ensalada de repollo, queso amarillo, tocineta delgada, ripio de papa, ketchup y mayonesa. Reportada un dia despues (cena del domingo 23 ago, dia 12)."
     }
   ],
   "totales": {
-    "kcal": 1567.9,
-    "proteina_g": 71.2,
-    "carbs_g": 144.9,
-    "grasa_g": 72.2
+    "kcal": 2184.0,
+    "proteina_g": 104.3,
+    "carbs_g": 186.3,
+    "grasa_g": 107.5
   },
   "objetivo": {
     "kcal": 1850,
@@ -148,10 +226,10 @@
     "grasa_g": 70
   },
   "restante": {
-    "kcal": 282.1,
-    "proteina_g": 88.8,
-    "carbs_g": 0.1,
-    "grasa_g": -2.2
+    "kcal": -334.0,
+    "proteina_g": 55.7,
+    "carbs_g": -41.3,
+    "grasa_g": -37.5
   },
-  "notas": "DIA 12 (domingo) EN CURSO. Desayuno + tinto de verano + almuerzo (simulado, porcion tipica) registrados. Carbs practicamente agotados y grasa ya ligeramente sobre el objetivo. Cena debe ser proteina + vegetales sin almidon, sin grasa anadida."
+  "notas": "DIA 12 CERRADO (domingo). Almuerzo familiar (frijoles con chicharron) + hamburguesa cargada de cena empujaron el dia por encima del objetivo en kcal (+334), carbs (+41.3g) y grasa (+37.5g). Dia domingo tipicamente mas relajado; no cambia el objetivo de la semana pero es el peor dia en adherencia hasta ahora."
 }
