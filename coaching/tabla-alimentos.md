@@ -166,6 +166,7 @@ Vista rápida entre categorías — útil cuando solo quieres saber qué te rind
 
 | Alimento | kcal/100g | Proteína | Carbos | Grasa | Porción típica |
 |---|---|---|---|---|---|
+| Barra Nuthos mezcla crunchy (mani, almendras, avena, quinoa, yogurt griego) | 514 | 12 g | 42 g | 33 g | 1 barra completa (45g, 1.5 porciones) -- etiqueta nutricional (45g): **231 kcal**, 5.4g P, 18.9g C, 14.8g G |
 | Crispetas (popcorn con mantequilla) | 450 | 8 g | 55 g | 22 g | 1 puñado pequeno (30g): **135 kcal**, 2.4g P, 16.5g C, 6.6g G |
 | Granola de coco sin azucar | 460 | 8 g | 55 g | 22 g | 1 cucharada colmada (15g): **69 kcal**, 1.2g P, 8.2g C, 3.3g G |
 | Perro caliente completo (colombiano: papitas, queso, salsa rosada) | 213 | 7.4 g | 21.3 g | 10.9 g | 1 perro con todos los toppings (230g): **490 kcal**, 17.0g P, 49.0g C, 25.1g G |

@@ -30,6 +30,7 @@
     { "nombre": "Perro caliente completo (colombiano: papitas, queso, salsa rosada)", "categoria": "Snack empacado", "kcal100": 213, "p100": 7.4, "c100": 21.3, "g100": 10.9, "porcion_g": 230, "porcion_nota": "1 perro con todos los toppings" },
     { "nombre": "Perrita (mini perro caliente, sencilla)", "categoria": "Snack empacado", "kcal100": 153, "p100": 5.6, "c100": 17.8, "g100": 6.7, "porcion_g": 90, "porcion_nota": "1 unidad pequena, tipo Medellin" },
     { "nombre": "Crispetas (popcorn con mantequilla)", "categoria": "Snack empacado", "kcal100": 450, "p100": 8, "c100": 55, "g100": 22, "porcion_g": 30, "porcion_nota": "1 puñado pequeno" },
+    { "nombre": "Barra Nuthos mezcla crunchy (mani, almendras, avena, quinoa, yogurt griego)", "categoria": "Snack empacado", "kcal100": 514, "p100": 12, "c100": 42, "g100": 33, "porcion_g": 45, "porcion_nota": "1 barra completa (45g, 1.5 porciones) -- etiqueta nutricional" },
 
     { "nombre": "Huevo entero (frito/revuelto)", "categoria": "Huevos y lacteos", "kcal100": 155, "p100": 13, "c100": 1.5, "g100": 11, "porcion_g": 50, "porcion_nota": "1 unidad" },
     { "nombre": "Huevo entero (preparado en mantequilla, no aceite)", "categoria": "Huevos y lacteos", "kcal100": 165, "p100": 12.6, "c100": 0.7, "g100": 12, "porcion_g": 50, "porcion_nota": "1 unidad -- preparacion habitual del usuario" },
