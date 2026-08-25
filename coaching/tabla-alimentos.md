@@ -11,25 +11,25 @@ Vista rápida entre categorías — útil cuando solo quieres saber qué te rind
 | # | Alimento | Categoría | kcal/100g | Proteína/100g |
 |---|---|---|---|---|
 | 1 | Proteina en polvo (whey) | Huevos y lácteos | 380 | **75 g** |
-| 2 | Tocineta / bacon frita | Proteínas animales | 541 | **37 g** |
-| 3 | Carne de res magra (lomo, solomo) | Proteínas animales | 220 | **32 g** |
-| 4 | Pechuga de pollo sin piel | Proteínas animales | 165 | **31 g** |
-| 5 | Punta de anca / sirloin | Proteínas animales | 200 | **30 g** |
-| 6 | Pechuga de pavo | Proteínas animales | 135 | **29 g** |
-| 7 | Lomo de cerdo | Proteínas animales | 242 | **27 g** |
-| 8 | Pierna de cerdo / pernil (horneado) | Proteínas animales | 215 | **27 g** |
-| 9 | Chicharron al barril (asado) | Proteínas animales | 430 | **27 g** |
-| 10 | Muslo de pollo con piel | Proteínas animales | 209 | **26 g** |
-| 11 | Pescado blanco (tilapia, mojarra) | Proteínas animales | 128 | **26 g** |
-| 12 | Atun en agua (lata) | Proteínas animales | 116 | **26 g** |
-| 13 | Carne molida de res (magra) | Proteínas animales | 215 | **26 g** |
-| 14 | Carne desmechada (guisada) | Proteínas animales | 200 | **25 g** |
-| 15 | Queso mozzarella | Huevos y lácteos | 280 | **25 g** |
-| 16 | Costilla de cerdo / BBQ | Proteínas animales | 330 | **24 g** |
-| 17 | Bondiola de cerdo (parrilla) | Proteínas animales | 280 | **24 g** |
-| 18 | Camarones cocidos | Proteínas animales | 99 | **24 g** |
-| 19 | Chorizo espanol (curado) | Proteínas animales | 455 | **24 g** |
-| 20 | Queso amarillo tipo americano (tajada) | Huevos y lácteos | 400 | **23 g** |
+| 2 | Queso parmesano rallado | Huevos y lácteos | 431 | **38 g** |
+| 3 | Tocineta / bacon frita | Proteínas animales | 541 | **37 g** |
+| 4 | Carne de res magra (lomo, solomo) | Proteínas animales | 220 | **32 g** |
+| 5 | Pechuga de pollo sin piel | Proteínas animales | 165 | **31 g** |
+| 6 | Punta de anca / sirloin | Proteínas animales | 200 | **30 g** |
+| 7 | Pechuga de pavo | Proteínas animales | 135 | **29 g** |
+| 8 | Lomo de cerdo | Proteínas animales | 242 | **27 g** |
+| 9 | Pierna de cerdo / pernil (horneado) | Proteínas animales | 215 | **27 g** |
+| 10 | Chicharron al barril (asado) | Proteínas animales | 430 | **27 g** |
+| 11 | Muslo de pollo con piel | Proteínas animales | 209 | **26 g** |
+| 12 | Pescado blanco (tilapia, mojarra) | Proteínas animales | 128 | **26 g** |
+| 13 | Atun en agua (lata) | Proteínas animales | 116 | **26 g** |
+| 14 | Carne molida de res (magra) | Proteínas animales | 215 | **26 g** |
+| 15 | Carne desmechada (guisada) | Proteínas animales | 200 | **25 g** |
+| 16 | Queso mozzarella | Huevos y lácteos | 280 | **25 g** |
+| 17 | Costilla de cerdo / BBQ | Proteínas animales | 330 | **24 g** |
+| 18 | Bondiola de cerdo (parrilla) | Proteínas animales | 280 | **24 g** |
+| 19 | Camarones cocidos | Proteínas animales | 99 | **24 g** |
+| 20 | Chorizo espanol (curado) | Proteínas animales | 455 | **24 g** |
 
 ## Proteínas animales
 
@@ -67,11 +67,13 @@ Vista rápida entre categorías — útil cuando solo quieres saber qué te rind
 | Alimento | kcal/100g | Proteína | Carbos | Grasa | Porción típica |
 |---|---|---|---|---|---|
 | Proteina en polvo (whey) | 380 | 75 g | 8 g | 5 g | 1 scoop (30g): **114 kcal**, 22.5g P, 2.4g C, 1.5g G |
+| Queso parmesano rallado | 431 | 38 g | 4 g | 29 g | 1 cucharada colmada (10g): **43 kcal**, 3.8g P, 0.4g C, 2.9g G |
 | Queso mozzarella | 280 | 25 g | 2 g | 20 g | 1 tajada (30g): **84 kcal**, 7.5g P, 0.6g C, 6.0g G |
 | Queso amarillo tipo americano (tajada) | 400 | 23 g | 1.5 g | 33 g | 1 tajada individual (20g): **80 kcal**, 4.6g P, 0.3g C, 6.6g G |
 | Queso costeno / fresco | 320 | 20 g | 2 g | 25 g | 1 tajada (40g): **128 kcal**, 8.0g P, 0.8g C, 10.0g G |
 | Quesito colombiano | 280 | 18 g | 2 g | 22 g | 1 tajada pequena (30g): **84 kcal**, 5.4g P, 0.6g C, 6.6g G |
 | Huevo entero (frito/revuelto) | 155 | 13 g | 1.5 g | 11 g | 1 unidad (50g): **78 kcal**, 6.5g P, 0.8g C, 5.5g G |
+| Huevo duro (cocido) | 155 | 13 g | 1.1 g | 11 g | 1 unidad (50g): **78 kcal**, 6.5g P, 0.6g C, 5.5g G |
 | Huevo entero (preparado en mantequilla, no aceite) | 165 | 12.6 g | 0.7 g | 12 g | 1 unidad -- preparacion habitual del usuario (50g): **82 kcal**, 6.3g P, 0.3g C, 6.0g G |
 | Clara de huevo | 52 | 11 g | 0.7 g | 0.2 g | 1 clara (33g): **17 kcal**, 3.6g P, 0.2g C, 0.1g G |
 | Requeson / queso cottage | 98 | 11 g | 3.4 g | 4.3 g | 1/2 taza (100g): **98 kcal**, 11.0g P, 3.4g C, 4.3g G |
@@ -87,6 +89,7 @@ Vista rápida entre categorías — útil cuando solo quieres saber qué te rind
 | Alimento | kcal/100g | Proteína | Carbos | Grasa | Porción típica |
 |---|---|---|---|---|---|
 | Pan integral | 265 | 13 g | 47 g | 3.5 g | 1 rebanada (30g): **80 kcal**, 3.9g P, 14.1g C, 1.1g G |
+| Crutones (pan tostado con mantequilla/aceite) | 380 | 10 g | 50 g | 15 g | un punado, topping de ensalada (20g): **76 kcal**, 2.0g P, 10.0g C, 3.0g G |
 | Palito de queso | 400 | 10 g | 38 g | 22 g | 1 unidad (40g): **160 kcal**, 4.0g P, 15.2g C, 8.8g G |
 | Pan de hamburguesa | 280 | 9 g | 50 g | 5 g | 1 pan completo (60g): **168 kcal**, 5.4g P, 30.0g C, 3.0g G |
 | Tortilla de trigo (wrap, 21cm) | 310 | 8 g | 50 g | 8 g | 1 unidad 21cm (50g): **155 kcal**, 4.0g P, 25.0g C, 4.0g G |
@@ -153,6 +156,7 @@ Vista rápida entre categorías — útil cuando solo quieres saber qué te rind
 |---|---|---|---|---|---|
 | Nueces / almendras | 600 | 20 g | 20 g | 52 g | 1 punado (25g): **150 kcal**, 5.0g P, 5.0g C, 13.0g G |
 | Frutos secos mixtos (avellanas, macadamia, crudos) | 650 | 15 g | 12 g | 60 g | un punado pequeno (15g): **98 kcal**, 2.2g P, 1.8g C, 9.0g G |
+| Aderezo de yogurt griego (limon, sal de ajo, sin mayonesa) | 59 | 10 g | 3.6 g | 0.4 g | porcion tipica de aderezo, base yogur griego natural (70g): **41 kcal**, 7.0g P, 2.5g C, 0.3g G |
 | Cebolla crispy (frita/deshidratada) | 452 | 6 g | 35 g | 29 g | topping tipo bowl (20g): **90 kcal**, 1.2g P, 7.0g C, 5.8g G |
 | Coco rallado (crudo, sin azucar) | 354 | 3.3 g | 15 g | 33 g | 2 cucharadas (20g): **71 kcal**, 0.7g P, 3.0g C, 6.6g G |
 | Guacamole | 150 | 2 g | 8 g | 14 g | 2 cucharadas (60g): **90 kcal**, 1.2g P, 4.8g C, 8.4g G |

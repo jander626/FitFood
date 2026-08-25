@@ -1,0 +1,103 @@
+{
+  "fecha": "2026-08-25",
+  "dia_plan": 14,
+  "comidas": [
+    {
+      "momento": "almuerzo",
+      "items": [
+        {
+          "alimento": "pollo a la plancha (tiras)",
+          "porcion_g": 200,
+          "kcal": 330.0,
+          "proteina_g": 62.0,
+          "carbs_g": 0.0,
+          "grasa_g": 7.2
+        },
+        {
+          "alimento": "aderezo de yogurt griego (limon, sal de ajo)",
+          "porcion_g": 70,
+          "kcal": 41.3,
+          "proteina_g": 7.0,
+          "carbs_g": 2.52,
+          "grasa_g": 0.28
+        },
+        {
+          "alimento": "queso parmesano rallado",
+          "porcion_g": 20,
+          "kcal": 86.2,
+          "proteina_g": 7.6,
+          "carbs_g": 0.8,
+          "grasa_g": 5.8
+        },
+        {
+          "alimento": "huevo duro",
+          "porcion_g": 50,
+          "kcal": 77.5,
+          "proteina_g": 6.5,
+          "carbs_g": 0.55,
+          "grasa_g": 5.5
+        },
+        {
+          "alimento": "tocineta",
+          "porcion_g": 15,
+          "kcal": 81.15,
+          "proteina_g": 5.55,
+          "carbs_g": 0.15,
+          "grasa_g": 6.3
+        },
+        {
+          "alimento": "crutones",
+          "porcion_g": 20,
+          "kcal": 76.0,
+          "proteina_g": 2.0,
+          "carbs_g": 10.0,
+          "grasa_g": 3.0
+        },
+        {
+          "alimento": "lechuga",
+          "porcion_g": 60,
+          "kcal": 9.0,
+          "proteina_g": 0.84,
+          "carbs_g": 1.74,
+          "grasa_g": 0.12
+        },
+        {
+          "alimento": "tomate cherry",
+          "porcion_g": 30,
+          "kcal": 5.4,
+          "proteina_g": 0.27,
+          "carbs_g": 1.17,
+          "grasa_g": 0.06
+        }
+      ],
+      "subtotal": {
+        "kcal": 706.6,
+        "proteina_g": 91.8,
+        "carbs_g": 16.9,
+        "grasa_g": 28.3
+      },
+      "confianza": "media",
+      "origen": "foto + descripcion",
+      "nota": "Ensalada tipo Cesar pero con aderezo de yogurt griego (limon, sal, sal de ajo, parmesano) en vez de la clasica mayonesa/aceite -- version mucho mas magra. Porciones estimadas por volumen visible en el plato."
+    }
+  ],
+  "totales": {
+    "kcal": 706.6,
+    "proteina_g": 91.8,
+    "carbs_g": 16.9,
+    "grasa_g": 28.3
+  },
+  "objetivo": {
+    "kcal": 1850,
+    "proteina_g": 160,
+    "carbs_g": 145,
+    "grasa_g": 70
+  },
+  "restante": {
+    "kcal": 1143.4,
+    "proteina_g": 68.2,
+    "carbs_g": 128.1,
+    "grasa_g": 41.7
+  },
+  "notas": "DIA 14 (martes) EN CURSO. Excelente arranque: la version de ensalada Cesar con yogurt griego en vez de mayonesa dejo un almuerzo alto en proteina (91.8g) y bajo en grasa (28.3g) y carbs (16.9g)."
+}
